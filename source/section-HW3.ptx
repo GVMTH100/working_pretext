@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet>
+  <title>Homework Set 3</title>
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+<exercise xml:id="HW3A" workspace="0.25in">
+      <statement>
+        <p>
+          Write an expression to represent the sum of a number and its square.
+        </p>
+        
+      </statement>
+    </exercise>
+
+ <exercise xml:id="HW3B" workspace="0.25in">
+      <statement>
+        <p>
+          Write an expression to represent the sum of three consecutive even numbers. Simplify your answer by combining like terms.
+        </p>
+        
+      </statement>
+    </exercise>  
+
+<exercise xml:id="HW3C" workspace="0.25in">
+      <statement>
+        <p>
+          Write an expression to represent the product of three consecutive numbers. 
+        </p>
+        
+      </statement>
+    </exercise>  
+<exercise xml:id="HW3D" workspace="0.25in">
+      <statement>
+        <p>
+          Write an expression to represent the sum of a number and twice the number.   
+        </p>
+        
+      </statement>
+    </exercise>  
+  <exercise xml:id="HW3E">
+      <statement>
+        <p>
+          Simplify each of the following expressions by combining like terms.   
+        </p>
+        
+      
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>3x^2+5x-4+2(3x+1)</m>
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>-x^2+8x+2+2x^2-8x+9</m>
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>2(x+4)+5x-3x^2+7</m>
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>3x+4y-2+5x-9y+7</m>
+          </p>
+        </statement>
+      </task>
+      </statement>
+    </exercise>  
+</worksheet>

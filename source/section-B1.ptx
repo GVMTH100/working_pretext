@@ -1,0 +1,133 @@
+<worksheet>
+<title>Further investigations of slope</title>
+
+<example xml:id="exB-SRC">
+    <title>Slope as a rate of change</title>
+    <introduction>
+        <p>
+            In <xref ref="exA-TT"/> and <xref ref="exA-HH"/> we looked at how the slope represented a rate of change 
+            of the output variable (distance, in meters) to the input variable (time, in minutes).  In this case, the slope represented the
+            speed of the tortoise and the hare, measured in meters per minute.
+        </p>
+    </introduction>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                A hot air balloon is rising 700 feet every two minutes.  If we model the height of the balloon in terms of time,
+                determine the value of the slope and explain what it represents.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                An employee is paid $608 for working 40 hours.  If we model the employee's pay in terms of the number of hours worked,
+                determine the value of the slope and explain what it represents.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                A dozen doughnuts were sold for $15.  If we model the cost of the doughnuts in terms of the number of doughnuts,
+                determine the value of the slope and explain what it represents.
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                The pressure on a diver increased by 3.472 pounds per square inch as they increased their depth below the water 
+                surface by 8 feet.  If we model the pressure on the diver in terms of the depth below the water surface, determine
+                the value of the slope and explain what it represents.  
+            </p>
+        </statement>
+    </task>
+</example>
+
+
+<example xml:id="exB-STT">
+        <title>Slopes and Tree Trunks</title>
+
+        <introduction>
+            <p>
+                Near the Calder Plaza in downtown Grand Rapids, Michigan a stand
+                of trees is planted in a 5 by 5 grid as shown below.
+                Each green dot represents the location of a tree.
+                The trunks of the trees are uniform in size.
+                All of the trunks are straight and perpendicular to the ground.
+            </p>
+
+                <image source="calder-trees" width="50%">
+                    <description><p>Explained in the preceding paragraph</p></description>
+                </image>
+            
+        </introduction>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    The line of sight from the origin to the trees with
+                    coordinates (1, 1), (2, 2), (3, 3), (4, 4), and (5, 5) is
+                    shown.
+                    Which of these tree trunks can you see if you are standing
+                    at the origin, (0, 0)?
+                    Why do you think so?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Other than the tree trunks in Row 1 and Column 1, which tree
+                    trunks can you see if you are standing at the origin?
+                    Why do you think these tree trunks are visible?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    What is the slope of the line of sight from the origin (0,
+                    0) to the tree trunk at point (4, 2)?
+                    What other tree trunks are along this line of sight?
+                    How do you know?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At what point on one of the axes would you have to be
+                    standing in order for the tree trunks at points (2, 5) and
+                    (1, 3) to be on the same line of sight?
+                    What is the slope of this line of sight?
+                    What do you think the equation of this line of site is?
+                    Why do you think so?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Draw a line of sight through point (2, 0) parallel to the
+                    line you found in the previous question.
+                    What trees are along this line of sight?  Find the slope of this equation.
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    How are the slopes of these two lines 
+                    related?
+                </p>
+            </statement>
+        </task>
+    </example>
+</worksheet>

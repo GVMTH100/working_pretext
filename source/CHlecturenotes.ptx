@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="CH-LectureNotes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lecture Notes</title>
+
+  <!-- include sections -->
+  <xi:include href="section-A1.ptx" />
+  <xi:include href="section-A2.ptx" />
+  <xi:include href="section-A3.ptx" />
+  <xi:include href="section-A4.ptx" />
+  <xi:include href="section-A5.ptx" />
+  <xi:include href="section-A6.ptx" />
+  <xi:include href="section-A7.ptx" />
+  <xi:include href="section-A8.ptx" />
+  <xi:include href="section-A9.ptx" />
+  <xi:include href="section-B1.ptx" />
+</chapter>
+ 

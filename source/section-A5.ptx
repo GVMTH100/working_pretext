@@ -1,0 +1,168 @@
+<worksheet>
+<title>Combining Like Terms</title>
+   <example xml:id="exA-CLT">
+        <title>Combining Like Terms</title>
+      <introduction>
+        <p>
+           The figure below shows multiplication represented as arrays.  The product of the dimensions of an array is the number 
+           of squares in the array; the number of rows shows how many times the number of squares in the first row is repeated.  
+        </p>
+        <image source="like-terms-array" width="50%">
+            <description><p>A 2x3 and 3x7 array of blocks</p></description>
+          </image>
+        <p>
+                We can use this representation of multiplication to help think about the meaning of the terms 1,
+                <m>x</m>, and <m>x^2</m> in the context of area as to model expressions with algebra tiles. Algebra 
+                tiles can be found at my.amplify.com
+            </p>
+               <image source="tiles-like-terms1" width="50%">
+          <description>Algebra tiles</description>
+        </image>
+      </introduction>
+      <task>
+        <statement>
+             <p>
+          Find the area of each of the algebra tiles shown. The side lengths are labeled. The variable, <m>x</m>, represents an unknown length.
+        </p>
+        </statement>
+      </task>
+        
+      
+
+    <task>
+      <introduction>
+        <p>
+          Translate each of the figures into algebra. Explain your translation. Simplify each expression as much as possible and explain why you cannot simplify further.
+        </p>
+      </introduction>
+
+      <task>
+        <image source="tiles-like-terms2a" width="30%">
+          <description></description>
+        </image>
+      </task>
+
+      <task>
+        <image source="tiles-like-terms2b" width="50%">
+          <description></description>
+        </image>
+      </task>
+
+      <task>
+        <image source="tiles-like-terms2c" width="50%">
+          <description></description>
+        </image>
+      </task>
+
+      <task>
+        <image source="tiles-like-terms2d" width="50%">
+          <description></description>
+        </image>
+      </task>
+    </task>
+
+    <task>
+      <introduction>
+        <p>
+          Draw algebra tiles to illustrate each expression. Use your illustration to simplify each of the algebraic expressions. Explain how you know you are correct.
+        </p>
+      </introduction>
+
+      <task workspace="1.5in">
+        <statement>
+          <p>
+            <m>2x + 4 + 3x + 7 =</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1.5in">
+        <statement>
+          <p>
+            <m>4x + 8 - 3x + 2 =</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1.5in">
+        <statement>
+          <p>
+            <m>3x + 8 - (4x + 2) =</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1.5in">
+        <statement>
+          <p>
+            <m>7x - 2(3x - 1) + x =</m>
+          </p>
+        </statement>
+      </task>
+    </task>
+
+    
+
+    <task>
+      <introduction>
+        <p>
+          Simplify the following expressions. Show and explain your work.
+        </p>
+      </introduction>
+      
+      <task workspace="1in">
+        <statement>
+          <p>
+            <m>3 + 5x - x + 7 =</m>
+          </p>
+        </statement>
+      </task>
+   
+
+    <task workspace="1in">
+        <statement>
+          <p>
+            <m>3 + 5x - (x + 7) =</m>
+          </p>
+        </statement>
+      </task>
+    
+
+    <task workspace="1in">
+        <statement>
+          <p>
+            <m>4 + 2(x - 1) =</m>
+          </p>
+        </statement>
+      </task>
+   
+
+    <task workspace="1in">
+        <statement>
+          <p>
+            <m>15x - 4(2 - 3x) + 7 =</m>
+          </p>
+        </statement>
+      </task>
+    
+     <task workspace="1in">
+        <statement>
+          <p>
+            <m>2x^2+5x + 7 + x^2 - 4x+3 =</m>
+          </p>
+        </statement>
+      </task>
+
+    <task workspace="1in">
+        <statement>
+          <p>
+            <m>(3x^2+8x + 4) - (x^2 + 5x+9) =</m>
+          </p>
+        </statement>
+      </task>
+   
+  </task>
+      
+</example>
+  </worksheet>
+

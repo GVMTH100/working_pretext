@@ -1,0 +1,251 @@
+<worksheet xml:id="ws-A7">
+    <title>Graphing Stories</title>
+     <example xml:id="HT1">
+     <title>The Hare and the Tortoise</title>
+    
+    <introduction> 
+    <p>
+        We continue our work with graphing by considering how we could represent the race between the hare and the tortoise graphically.
+        <blockquote>
+      <p>    A hare one day ridiculed the short feet and slow pace of the tortoise. The latter, laughing, said, <q>Though you be swift as the wind, I will beat you in a race.</q> The hare, deeming her assertion to be simply impossible, assented to the proposal; and they agreed that the fox should choose the course, and fix the goal. On the day appointed for the race they started together. The tortoise never for a moment stopped, but went on with a slow but steady pace straight to the end of the course. The hare, trusting to his native swiftness, cared little about the race, and lying down by the wayside, fell fast asleep. At last waking up, and moving as fast as he could, he saw the tortoise had reached the goal, and was comfortably dozing after her fatigue.
+         </p> 
+          <attribution>Aesop (translated by George Fyler Townsend)</attribution>
+        </blockquote>
+      </p>
+    </introduction>
+
+     <task workspace="0.25in">
+        <statement>
+          <p>
+            If we want to represent each animal's distance from the starting line in terms of time to complete the race, where on the axes would it make sense to mark the starting line set by the fox?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            Where on the axes would it make sense to mark the finish line set by the fox?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How should we represent the tortoise's steady pace be represented? Why? 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How should we represent the hare's falling asleep be represented? Why? 
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            On the coordinate grid below, draw a graph to illustrate the tortoise's distance from the starting line over the time it took her to complete the race. 
+            On the same grid, draw a graph to illustrate the hare's distance from the starting line over the time it took him to complete the race.
+          </p>
+          <image source="hare-grid" width="70%">
+              <description><p>
+                Blank grid for plotting. 
+              </p></description>
+            </image>
+         </statement>
+      </task>
+
+      
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Explain how you know each graph fits the story.
+          </p>
+        </statement>
+      </task>
+
+    
+
+    <task workspace="2in">
+      <statement>
+        <p>
+          The four graphs below each show the hare's movement in subsequent races.  Study the graphs and answer the questions below.
+        </p>
+        <sbsgroup>
+          <sidebyside>
+            <image source="hare-graph-1" width="50%">
+                <description><p>Graph of the hare and tortoise</p></description>
+              </image>
+            <image source="hare-graph-2" width="50%">
+                <description><p>Graph of the hare and tortoise</p></description>
+              </image>
+            </sidebyside>
+
+          <sidebyside>
+            <image source="hare-graph-3" width="50%">
+                <description><p>Graph of the hare and tortoise</p></description>
+              </image>
+            <image source="hare-graph-4" width="50%">
+                <description><p>Graph of the hare and tortoise</p></description>
+              </image>
+            </sidebyside>
+        </sbsgroup>
+      
+          <p>
+            Write a story to go with each race. Describe specifically how the hare is moving:
+            <ul>
+              <li>
+                <p>
+                  Where does the hare start the race? Finish the race?
+                </p>
+              </li>
+              <li>
+                <p>
+                  At what time does the hare start the race? Finish the race?
+                </p>
+              </li>
+              <li>
+                <p>
+                  How fast is the hare moving on each time interval compared to his speed on the other time intervals?
+                </p>
+              </li>
+              <li>
+                <p>
+                  What direction is the hare moving?
+                </p>
+              </li>
+              <li>
+                <p>
+                  How do the start and finish times and locations compare from race to race?
+                </p>
+              </li>
+            </ul>
+          </p>
+        </statement>
+      </task>
+
+      
+   
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Write your own travel story. Draw a graph to illustrate the characters' distance from a starting location at each time during their travels.
+        </p>
+         <image source="hare-grid" width="70%">
+            <description><p>Graph of the hare and tortoise</p></description>
+          </image>
+       
+      </statement>
+    </task>
+
+    
+    </example>
+
+    <example xml:id="LLL">
+         <title>Location, Location, Location</title>
+    
+    <introduction>
+      <p>
+        In this activity your group will create a graph to convey information about the number of people in a location over time. To prepare, think about a place you go with some regularity. How many people are in that place at various times during the day? 
+      It helps if the numbers of people who go to the place each day are large. 
+      </p>
+      <p>
+        Complete the following as a group:
+      </p>
+    </introduction>
+        <task workspace="0.5in">
+          <statement>
+            <p>
+              Choose a location and a day of the week to analyze.
+               Estimate how many people are likely to be in the location at the beginning of each hour of the day, starting at 6 AM and ending at 6 AM the following day. Record the data.
+            </p>
+          </statement>
+        </task>
+        <task>
+          <statement>
+            <p>
+              Create a graph to accurately represent the data.
+              <ul>
+                <li>
+                  <p>
+                    Use the horizontal axis to indicate the hour of the day.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Use the vertical axis to indicate the estimated number of people in the location at the beginning of each hour. Be sure to label scale along this axis.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Do not include any information on your graph that identifies the location your team is analyzing.
+                  </p>
+                </li>
+              </ul>
+            </p>
+            <image source="location.png" width="50%">
+                <description><p>Blank grid for graphing</p></description>
+            </image>
+          </statement>
+        </task>
+        <task workspace="1.5in">
+          <statement>
+                  <p>
+                    Choose one of the other location graphs.  What location do you think this is?  What aspects of the graph help you make a guess about the location?
+                    What do you notice about the graph?
+                  </p>
+                </statement>
+        </task>
+              
+            
+            
+      
+    
+    </example>
+
+    <example xml:id="FS">
+    <title>Filling containers</title>
+    <introduction>
+      <p>
+        Consider three containers, a sphere, a cylinder, and a cone, whose volumes are all the same.  Assume the containers are being filled with water at a constant flow rate.   
+      </p>
+      <image source="shapes.png" width="50%">
+        <description><p>Image of a sphere, cylinder, and cone.</p></description>
+      </image>
+    </introduction>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Describe how the height of the water in each container is changing as we add water at a constant rate.  When will the heights be increasing the fastest for each container, how would we represent this graphically?
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          If we were to plot a graph of the height of the water in the container in terms of the time water is being added what point(s) would we expect any of the graphs to share?
+        </p>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          Plot the graph for height of water in each container in terms of the time water is added.
+        </p>
+        <image source="BlankGridA7.png" width="50%">
+          <description><p>Blank grid for plotting</p></description>
+        </image>
+      </statement>
+    </task>
+    
+    
+      
+    </example>
+</worksheet>

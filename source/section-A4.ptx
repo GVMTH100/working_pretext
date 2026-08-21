@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet>
+  <title>Generalizing number patterns</title>
+
+  <example xml:id="exA-100T">
+    <title>Generalizing the 100's table</title>
+
+    <introduction>
+      <p>
+        Consider the table below which list out the numbers from 0 to 109.
+      </p>
+
+      <tabular halign="center" left="minor">
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <col top="minor"/>
+        <row bottom="minor">
+          <cell right="minor">100</cell>
+          <cell right="minor">101</cell>
+          <cell right="minor">102</cell>
+          <cell right="minor">103</cell>
+          <cell right="minor">104</cell>
+          <cell right="minor">105</cell>
+          <cell right="minor">106</cell>
+          <cell right="minor">107</cell>
+          <cell right="minor">108</cell>
+          <cell right="minor">109</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">90</cell>
+          <cell right="minor">91</cell>
+          <cell right="minor">92</cell>
+          <cell right="minor">93</cell>
+          <cell right="minor">94</cell>
+          <cell right="minor">95</cell>
+          <cell right="minor">96</cell>
+          <cell right="minor">97</cell>
+          <cell right="minor">98</cell>
+          <cell right="minor">99</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">80</cell>
+          <cell right="minor">81</cell>
+          <cell right="minor">82</cell>
+          <cell right="minor">83</cell>
+          <cell right="minor">84</cell>
+          <cell right="minor">85</cell>
+          <cell right="minor">86</cell>
+          <cell right="minor">87</cell>
+          <cell right="minor">88</cell>
+          <cell right="minor">89</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">70</cell>
+          <cell right="minor">71</cell>
+          <cell right="minor">72</cell>
+          <cell right="minor">73</cell>
+          <cell right="minor">74</cell>
+          <cell right="minor">75</cell>
+          <cell right="minor">76</cell>
+          <cell right="minor">77</cell>
+          <cell right="minor">78</cell>
+          <cell right="minor">79</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">60</cell>
+          <cell right="minor">61</cell>
+          <cell right="minor">62</cell>
+          <cell right="minor">63</cell>
+          <cell right="minor">64</cell>
+          <cell right="minor">65</cell>
+          <cell right="minor">66</cell>
+          <cell right="minor">67</cell>
+          <cell right="minor">68</cell>
+          <cell right="minor">69</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">50</cell>
+          <cell right="minor">51</cell>
+          <cell right="minor">52</cell>
+          <cell right="minor">53</cell>
+          <cell right="minor">54</cell>
+          <cell right="minor">55</cell>
+          <cell right="minor">56</cell>
+          <cell right="minor">57</cell>
+          <cell right="minor">58</cell>
+          <cell right="minor">59</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">40</cell>
+          <cell right="minor">41</cell>
+          <cell right="minor">42</cell>
+          <cell right="minor">43</cell>
+          <cell right="minor">44</cell>
+          <cell right="minor">45</cell>
+          <cell right="minor">46</cell>
+          <cell right="minor">47</cell>
+          <cell right="minor">48</cell>
+          <cell right="minor">49</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">30</cell>
+          <cell right="minor">31</cell>
+          <cell right="minor">32</cell>
+          <cell right="minor">33</cell>
+          <cell right="minor">34</cell>
+          <cell right="minor">35</cell>
+          <cell right="minor">36</cell>
+          <cell right="minor">37</cell>
+          <cell right="minor">38</cell>
+          <cell right="minor">39</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">20</cell>
+          <cell right="minor">21</cell>
+          <cell right="minor">22</cell>
+          <cell right="minor">23</cell>
+          <cell right="minor">24</cell>
+          <cell right="minor">25</cell>
+          <cell right="minor">26</cell>
+          <cell right="minor">27</cell>
+          <cell right="minor">28</cell>
+          <cell right="minor">29</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">10</cell>
+          <cell right="minor">11</cell>
+          <cell right="minor">12</cell>
+          <cell right="minor">13</cell>
+          <cell right="minor">14</cell>
+          <cell right="minor">15</cell>
+          <cell right="minor">16</cell>
+          <cell right="minor">17</cell>
+          <cell right="minor">18</cell>
+          <cell right="minor">19</cell>
+        </row>
+
+        <row bottom="minor">
+          <cell right="minor">0</cell>
+          <cell right="minor">1</cell>
+          <cell right="minor">2</cell>
+          <cell right="minor">3</cell>
+          <cell right="minor">4</cell>
+          <cell right="minor">5</cell>
+          <cell right="minor">6</cell>
+          <cell right="minor">7</cell>
+          <cell right="minor">8</cell>
+          <cell right="minor">9</cell>
+        </row>
+      </tabular>
+    </introduction>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Choose any number on the interior of the table.
+          Describe in words what happens to the values as you move away from
+          this number.
+          Consider movement in multiple directions, up, down, left, right, and
+          diagonally.
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Consider a second number from the table.
+          Do the same patterns apply to this number as the one you chose in part
+          (a)?
+        </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Because our patterns remain consistent for any number chosen, we can
+          generalize the rules in terms of a variable.
+          Suppose that we choose one square from the interior of the table and
+          replace the value with <m>n</m>.
+          Write each of the values around this number in terms of <m>n</m>,
+          using the patterns you described above.
+        </p>
+
+        <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+      </statement>
+    </task>
+  </example>
+
+  <example xml:id="exA-ACN">
+    <title>Adding consecutive numbers</title>
+
+    <introduction>
+      <p>
+        In <xref ref="exA-CN"/> we looked at sums of consecutive integers.
+        As we continue working, we may want to ask the question, can we write
+        <m>134</m> as the sum of 4 consecutive integers?
+        We can generalize this by referring to the first value with a variable
+        name, say <m>x</m>.
+        The next larger number would then be <m>x+1</m>.
+        The third and fourth numbers would be <m>x+2</m> and <m>x+3</m>
+        respectively.
+        Our question, can then be expressed as
+        <md>
+          x+(x+1)+(x+2)+(x+3)=134
+        </md>
+      </p>
+    </introduction>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Write an equation to represent the question, is there a set of three
+          consecutive numbers that add up to 45?
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Write an expression that represents the product of two consecutive
+          numbers.
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Write an expression that represents the sum of four consecutive odd
+          numbers.
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Write an expression that represents the sum of a number and its
+          reciprocal.
+        </p>
+      </statement>
+    </task>
+  </example>
+
+  <example xml:id="exA-PP4">
+    <title>Polygon Puzzle</title>
+
+    <introduction>
+      <p>
+        In a polygon puzzle your goal is to fill in the circles so that the sum
+        of two circles connected by a line gives the value on the line.
+      </p>
+
+      <image source="SquarePuzzle.png" width="25%">
+        <description>
+          <p>
+            A square puzzle with sides labeled 12, 14, 7, and 9.
+          </p>
+        </description>
+      </image>
+    </introduction>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Find a solution to the polygon puzzle given above.
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Is a second solution possible?
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Suppose we want to generalize our solutions.
+          Express the upper left circle as <m>p</m> and then write the remaining
+          circles in terms of <m>p</m>.
+        </p>
+      </statement>
+    </task>
+  </example>
+
+  <example xml:id="exa-PT">
+    <title>Pascal's Triangle</title>
+    <introduction>
+      <p>
+        The image below shows a portion of Pascal's Triangle.
+      </p>
+        <image source="pascal.png" width="75%">
+      <description>
+        <p>Pascal's triangle with 6 completed rows and three blank rows</p>
+      </description>
+    </image>
+    </introduction>
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Describe any patterns you see present in rows or diagonals of Pascal's triangle.
+        </p>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          Fill in the missing values in the bottom rows of the triangle.
+        </p>
+      </statement>
+    </task>
+    
+    
+    
+  </example>
+</worksheet>

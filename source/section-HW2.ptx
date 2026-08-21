@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet>
+  <title>Homework Set 2</title>
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+<exercise xml:id="HW2A" workspace="1.5in">
+      <statement>
+        <p>
+          Critique the graph below. If the graph is accurate, say how you know. If the graph is 
+          incorrect, indicate all the ways it needs to be fixed, label the axes correctly, 
+          and redraw the graph.
+        </p>
+        <sidebyside>
+        <tabular halign='center' top='minor' left='minor'>
+          <row bottom='minor' header='yes'>
+            <cell right='minor'><m>x</m></cell>
+            <cell right='minor'><m>y</m></cell>
+          </row>
+
+          <row bottom='minor'>
+            <cell right='minor'>1</cell>
+            <cell right='minor'>1.2</cell>
+          </row>
+
+          <row bottom='minor'>
+            <cell right='minor'>10</cell>
+            <cell right='minor'>24</cell>
+          </row>
+
+          <row bottom='minor'>
+            <cell right='minor'>15</cell>
+            <cell right='minor'>36</cell>
+          </row>
+
+          <row bottom='minor'>
+            <cell right='minor'>50</cell>
+            <cell right='minor'>60</cell>
+          </row>
+        </tabular>
+        <image source="critique-graph" width="50%">
+          <description>
+            <p>
+                A graph with equally spaced horizontal tick marks labeled 1, 10, 15, and 50.
+            </p>
+          </description>
+        </image>
+        </sidebyside>
+        
+      </statement>
+    </exercise>
+
+    <exercise xml:id="HW2B">
+      <introduction>
+        <p>
+          A growing number pattern is shown below.
+        </p>
+         <image source="counting-dots.svg" width="70%">
+            <description>
+                <p>
+                    A growing pattern of dots, with 7, 13, and 19 dots respectively for the three steps of the progression.
+                </p>
+            </description>
+          </image>
+        
+      </introduction>
+
+      <task workspace="1.25in">
+        <statement>
+        <p>
+          Describe the visual pattern that is shown and draw the next step in the progression.
+        </p>
+        </statement>
+      </task>
+
+     
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            How many dots would be in the sixth figure of this progression? How do you know? 
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+<exercise xml:id="HW2C">
+      <introduction>
+        <p>
+          A growing number pattern is shown below.
+        </p>
+         <image source="rect-growth.png" width="70%">
+            <description>
+                <p>
+                    A growing pattern of rectangles, with 2x3-1, 3x5-1, and 4x7-1 squares respectively for the three steps of the progression.
+                </p>
+            </description>
+          </image>
+        
+      </introduction>
+
+      <task workspace="1.25in">
+        <statement>
+        <p>
+          Describe the visual pattern that is shown and draw the next step in the progression.
+        </p>
+        </statement>
+      </task>
+
+     
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            How many squares would be in the fifth figure of this progression? How do you know? 
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+
+<exercise xml:id="HW2D">
+      <introduction>
+        <p>
+          A growing number pattern is shown below.
+        </p>
+         <image source="boxcross.png" width="70%">
+            <description>
+                <p>
+                    A growing pattern of boxes in the shape of a cross, with arm lengths of 0, 1, and 2 squares respectively for the three steps of the progression.
+                </p>
+            </description>
+          </image>
+        
+      </introduction>
+
+      <task workspace="1.25in">
+        <statement>
+        <p>
+          Describe the visual pattern that is shown and draw the next step in the progression.
+        </p>
+        </statement>
+      </task>
+
+     
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            How many squares would be in the fifth figure of this progression? How do you know? 
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    <exercise xml:id="HW2E" workspace="1in">
+    
+
+    
+    <statement>
+      
+      <p>
+        Find a solution to the two polygon puzzles shown below.  Then generalize the solutions by labeling the upper left circle as <m>p</m> and writing all other circles in terms of <m>p</m>.
+      </p>
+
+      <sidebyside>
+        
+      <image source="hwsquarepuzzle.png" width="25%">
+        <description>
+          <p>
+            A square puzzle with sides labeled 12, 19, 16, and 9.
+          </p>
+        </description>
+      </image>
+      <image source="hwhexagonpuzzle.png" width="35%">
+        <description>
+          <p>
+            A hexagon puzzle with sides labeled 7, 8, 9, 6, 8, and 10.
+          </p>
+        </description>
+      </image>
+      </sidebyside>
+
+        
+      </statement>
+   
+  </exercise>
+
+
+</worksheet>

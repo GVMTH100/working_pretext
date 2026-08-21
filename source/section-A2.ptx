@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Order of operations</title>
+
+  <introduction>
+    <p>
+      The Order of Operations is an agreed upon order in which operations must
+      be completed when simplifying a numeric or an algebraic expression.
+      When presented as a list of rules, the Order of Operations can seem
+      arbitrary.
+      However, there are mathematical reasons underlying the order in which
+      operations are completed.
+      In general we preform more complicated operations first and then work down
+      in terms of complexity.
+      </p>
+      <p>
+      Our simplest operation is addition which is undone by subtraction.
+      Next, we consider multiplication which we consider repeated additions.
+      For example, <m>3\cdot4</m> can be thought of as adding 4 together 3 times
+      or <m>3\cdot4=4+4+4</m>.
+      Multiplication is undone with division, so they are treated as the same
+      level of complexity.
+      Next, we consider exponents which can be considered repeated
+      multiplications.
+      For example, <m>3^4</m> can be thought as multiplying 3 by itself 4 times,
+      that is <m>3^4=3\cdot3\cdot3\cdot3.</m> Finally, if we want to alter the
+      order we use a grouping symbol, generally parentheses or fraction bars in
+      this course.
+      So our order of operation follows:
+    </p>
+
+    <tabular top="minor" bottom="minor" left="minor" right="minor">
+        <row>
+          <cell>G</cell>
+          <cell>Grouping symbols, including parentheses and fraction bars</cell>
+        </row>
+
+        <row>
+          <cell>E</cell>
+          <cell>Exponents and Radicals (left to right)</cell>
+        </row>
+
+        <row>
+          <cell>M</cell>
+          <cell>Multiplication and Division (left to right)</cell>
+        </row>
+
+        <row>
+          <cell>A</cell>
+          <cell>Addition and Subtraction (left to right)</cell>
+        </row>
+      </tabular>
+    
+  </introduction>
+
+  <example xml:id="exA-OO">
+    <introduction>
+      <p>
+        Consider the following expressions.
+        Evaluate each of these following the prescribed order of operations.
+      </p>
+    </introduction>
+
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <m>3+5\cdot6-4\div 2+3^2</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <m>\frac{4+5}{2-4}+3^2\div(4-2)</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <m>9-2\cdot\sqrt{4+5}+6\div3\cdot4-1</m>
+        </p>
+      </statement>
+    </task>
+  </example>
+
+  <example xml:id="exA-TC">
+    <title>Three Threes</title>
+
+    <introduction>
+      <p>
+        Consider the Three Threes Clock Face shown below.
+        Verify that each number on the clock face is represented correctly using
+        three threes.
+        Think about how you are using the Order of Operations to check each
+        expression.        
+      </p>
+
+      <image source="three-threes" width="50%">
+        <description>
+        <p>A clock with each digit represented using three threes with appropriate order of operations</p></description>
+        </image>
+     
+    </introduction>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Verify that each expression is correct.
+          Show your work.
+          
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Find other expressions for some of the numbers 1 through 12 using
+          three threes.
+          Show your work.
+        </p>
+      </statement>
+    </task>
+  </example>
+
+  <example xml:id="exA-FF">
+     <title>Four Fours</title>
+
+        <introduction>
+            <p>
+                Use the number 4 exactly four times to write expressions
+                equivalent to the numbers from 0 through 20.
+                You may use any of the mathematical symbols below.
+                A few examples are provided.
+                <ul>
+                    <li>
+                        <p>
+                            Arithmetic operations: <m>+, -, \times, \div</m>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Parentheses: ( )
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Decimal points or percents: <eg/> <m>4.4</m>,
+                            <m>.44</m>, 44%
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Exponentiation: ^ (to the power of), <eg/>
+                            <m>(4 + 4)^4</m>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Square root: <eg/> <m>\sqrt{4}</m>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Factorial: !
+                            ( <m>4! = (4)(3)(2)(1) = 24</m>
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Concatenation: <eg/> 44, 444
+                        </p>
+                    </li>
+
+                    <li>
+                        <p>
+                            Repeating decimal:
+                            <m>. \overline{4} = \frac{4}{9}</m>
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                    Complete the table.
+                    Find at least one expression using 4 fours for each number.
+                    Use the Order of Operations; include grouping symbols as
+                    needed.
+                    You may check your responses using a graphing calculator.
+                    Some examples are provided, for the numbers whose solutions are shown in the table, find
+                    at least one more expression that works.
+                </p>
+
+                <tabular left="minor">
+                    <col top="minor" halign="center"/>
+                    <col top="minor"/>
+                    <col top="minor" halign="center"/>
+                    <col top="minor"/>
+                    <row bottom="medium" halign="center" header="yes">
+                        <cell right="minor">Number</cell>
+                        <cell right="medium">Four Fours Equation</cell>
+                        <cell right="minor">Number</cell>
+                        <cell right="minor">Four Fours Equation</cell>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">0</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">12</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">1</cell>
+                        <cell right="medium">
+                            <m>1 = \left(\frac{4}{4} \right) ^{44}</m>
+                        </cell>
+                        <cell right="minor">13</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">2</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">14</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">3</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">15</cell>
+                        <cell right="minor"><m>15 = \frac{44}{4} + 4</m></cell>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">4</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">16</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">5</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">17</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">6</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">18</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">7</cell>
+                        <cell right="medium">
+                            <m>7 = 4 + 4 - \frac{4}{4}</m>
+                        </cell>
+                        <cell right="minor">19</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">8</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">20</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">9</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">24</cell>
+                        <cell right="minor">
+                            <m>24 = 4! \cdot \left(\frac{\sqrt{4} \times \sqrt{4}}{4} \right)</m>
+                        </cell>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">10</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">30</cell>
+                        <cell right="minor"/>
+                    </row>
+
+                    <row bottom="minor">
+                        <cell right="minor">11</cell>
+                        <cell right="medium"/>
+                        <cell right="minor">100</cell>
+                        <cell right="minor"/>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Which of your solutions are not dependent on the number 4?
+                    For example <m>1=\ \left(\frac{4}{4}\right)^{44}</m> is also
+                    true when each 4 is replaced with 2, 6, or 9.
+                    Highlight these solutions in your table.
+                </p>
+            </statement>
+        </task>
+
+        
+  </example>
+  <example xml:id="exA-CTK">
+    <title>Using math rules</title>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Without using a calculator determine which is greater, <m>333333\times444444</m> or <m>222222\times666667</m>?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                Rewrite the expression using order of operations to show how much greater the larger value is.
+            </p>
+        </statement>
+    </task>
+</example>
+    
+
+</worksheet>

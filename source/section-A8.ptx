@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Describing Relationships</title>
+
+  <introduction>
+  <p>
+    As we continue to study patterns and graphs we want to describe relationships between sets.  We 
+    will describe these relationships using words, tables (numerically), graphs,
+     and equations.  We will choose the method of description based on the 
+     information we want to convey about the relationship.
+  </p>
+
+  </introduction>
+  
+  <example xml:id="exA-TS">
+  <title>Temperature scales</title>
+  
+  
+    <introduction>
+      <p>
+        One relationship we can consider is how temperature measured on the Celsius
+         scale compares to temperature measured on the Fahrenheit scale.  
+         The table below provides a numerical representation between these two scales.  
+      </p>
+      <tabular top="minor" bottom="minor" right="minor" left="minor">
+          <row>
+            <cell>Temperature in degrees Celsius</cell>
+            <cell>0</cell>
+            <cell>10</cell>
+            <cell>20</cell>
+            <cell>30</cell>
+            <cell>40</cell>
+            <cell>50</cell>
+            <cell>60</cell>
+            <cell>70</cell>
+            <cell>80</cell>
+            <cell>90</cell>
+            <cell>100</cell>
+          </row>
+          <row>
+            <cell>Temperature in degrees Fahrenheit</cell>
+            <cell>32</cell>
+            <cell>50</cell>
+            <cell>68</cell>
+            <cell>86</cell>
+            <cell>104</cell>
+            <cell>122</cell>
+            <cell>140</cell>
+            <cell>158</cell>
+            <cell>176</cell>
+            <cell>194</cell>
+            <cell>212</cell>
+          </row>
+        </tabular>
+      
+    </introduction>
+    <task workspace="0.5in">
+    <statement>
+      <p>
+        Look at the two rows, what do we notice about the data in each row?   
+        How might we use this information to describe the relationship between 
+        the two temperature scales?  
+
+      </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+       In this case we write <m>F=\frac{9}{5}C+32</m>.  (We'll discuss how to find the equations in 
+      more detail in later lessons.)  Notice here that <m>F</m> serves as a variable representing the 
+      temperature in degrees Fahrenheit and <m>C</m> a variable for the temperature in degrees Celsius.  
+      We can use the equation to find the relationship between temperature scales for additional points.
+       
+        </p>
+      
+
+    <task workspace="1in">
+      <p>
+       Find the temperature in degrees Fahrenheit at <m>25^{\circ}C</m>.
+      </p> 
+    </task>
+
+    <task workspace="1in">
+      <p>
+        Find the temperature in degrees Fahrenheit at <m>105^{\circ}C</m>.
+      </p>
+    </task>
+    </statement>
+    </task>
+
+    <task>
+    <statement>
+      <p>
+        To consider the graphical representation of a relationship, we place the input variable 
+        along the horizontal (independent) axis and the output variable along the 
+        vertical (dependent) axis.  Choose an appropriate scale and plot our temperature data below.
+      </p>
+      <image source="BlankGrid10.png" width="50%">
+        <description><p>Blank Grid for graphing</p></description>
+      </image>
+      
+      </statement>
+    </task>
+
+    
+    
+  </example>
+
+  <example xml:id="exA-TB">
+  <title> Height of a tennis ball </title>
+    <introduction>
+      <p>
+        A tennis ball is dropped and allowed to bounce twice. Its height is measured over time. A graphical representation of this relationship is given below.
+      </p>
+      <image source="tennisball.png" width="50%">
+        <description><p>
+        A graph giving the height of a tennis ball in terms of time.  The curve fall a parabolic arc from (0,6) to (3,0), then another arc from (3,0) to (6,0) reaching a vertex at (4.5, 4.5). A final arc from (6,0) to (9,0) with a vertex at (7.5, 2.25)
+        </p></description>
+      </image>
+    </introduction>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Identify the independent and dependent variables.
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <alert>The domain is defined as the set of all input values for the relationship.</alert>
+          What is the domain for this relationship.
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <alert>The range is defined as the set of all output values for the relationship.</alert>
+        What is the range for this relationship?
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          <alert>An intercept is where the graph intersects one of the axes.</alert>
+        Determine the intercepts of this graph and explain their meaning with respect to the relationship.
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Determine the intervals on which the graph is increasing
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Determine the intervals on which the graph is decreasing
+        </p>
+      </statement>
+    </task>
+  </example>
+    
+  <example xml:id="exA-RE">
+    <introduction>
+      <p>
+       A company found that if it priced its product at $40 it would sell 120 items per week.
+Experimenting with different prices they found that for every $5 increase in price they sold 12
+fewer items each week. 
+      </p>
+    </introduction>
+    <task>
+      <statement>
+        <p>
+          Model the relationship between weekly demand for the product in terms
+of its price using a numerical representation.
+        </p>
+        <tabular top="minor" bottom="minor" right="minor" left="minor">
+          <row>
+            <cell>Price <m>(p)</m> in dollars</cell>
+            <cell>40</cell>
+            <cell>45</cell>
+            <cell>50</cell>
+            <cell>55</cell>
+            <cell>60</cell>
+            <cell>65</cell>
+          </row>
+          <row>
+            <cell>Weekly demand <m>(d)</m> in items</cell>
+            <cell>120</cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          The revenue a company earns selling products can be calculated by multiplying the price they
+sell each item for by the number of items sold. Model the relationship between the weekly
+revenue for the company in terms of the price it sells its products for numerically.
+        </p>
+        <tabular top="minor" bottom="minor" right="minor" left="minor">
+          <row>
+            <cell>Price <m>(p)</m> in dollars</cell>
+            <cell>40</cell>
+            <cell>45</cell>
+            <cell>50</cell>
+            <cell>55</cell>
+            <cell>60</cell>
+            <cell>65</cell>
+          </row>
+          <row>
+            <cell>Weekly revenue <m>(R)</m> in dollars</cell>
+            <cell><m>120\dcot40=4800</m></cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+            <cell></cell>
+          </row>
+        </tabular>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          Using Desmos create a graphical representation for the weekly revenue in terms of price.
+        </p>
+      </statement>
+        </task>
+    <task>
+      <statement>
+        <p>
+          Revenue can be described in terms of price by the equation <m>R=-2.4p^2+216p</m>.  Graph this equation with your data on Desmos.
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          What is the independent variable for this relationship?
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          What is the dependent variable for this relationship?
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Find the intercepts of the graph.  Explain their meaning within the context of the relationship.
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          What is a reasonable domain for this relationship? Why?
+        </p>
+      </statement>
+    </task>
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          What is a reasonable range for this relationship? Why?
+        </p>
+      </statement>
+    </task>
+  </example>
+</worksheet>

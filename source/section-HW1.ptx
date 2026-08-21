@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet>
+  <title>Homework Set 1</title>
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+  <exercise>
+    <introduction>
+      <p>
+        Determine the factors of the following numbers:
+      </p>
+    </introduction>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            24
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            75
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            124
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+          Find a set of consecutive numbers that add up to the following value, or explain why no such set is possible.
+        </p>
+      </introduction>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            24
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            75
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            124
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    <exercise>
+     <introduction>
+      <p>
+        Consider the following expressions.
+        Evaluate each of these, following the prescribed order of operations.
+      </p>
+    </introduction>
+       <task workspace="0.5in">
+      <statement>
+        <p>
+          <m>3^2-4\cdot8+3(7-1)</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          <m>\frac{4+2}{3-1}\cdot5-\sqrt{4+12}</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          <m>9-3\cdot2^2+5(2+3)</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          <m>(4-2)\div2(3+4)</m>
+        </p>
+      </statement>
+    </task>
+    
+    </exercise>
+
+    <exercise xml:id="HW-1A">
+      <introduction>
+        <p>
+          While working on the four-fours problem (<xref ref="exA-FF"/>), students solved the following expression in these four ways.
+          
+            <md>
+              <mrow> \amp 4 + 4 / \sqrt{4} \times \sqrt{4} \amp \amp 4 + 4 / \sqrt{4} \times \sqrt{4} \amp \amp 4 + 4 / \sqrt{4} \times \sqrt{4} \amp \amp 4 + 4 / \sqrt{4} \times \sqrt{4}</mrow>
+              <mrow> \amp = 4 + 4 / 2 \times 2 \amp \amp = 4 + 4 / 2 \times 2 \amp \amp = 4 + 4 / 2 \times 2 \amp \amp = 4 + 4 / 2 \times 2</mrow>
+              <mrow> \amp = 4 + 4 / 4 \amp \amp = 8 / 4 \amp \amp = 4 + 2 \times 2 \amp \amp = 4 + 2 \times 2</mrow>
+              <mrow> \amp = 4 + 1 \amp \amp = 2 \amp \amp = 4 + 4 \amp \amp = 6 \times 2</mrow>
+              <mrow> \amp = 5 \amp \amp \amp \amp = 8 \amp \amp = 12</mrow>
+            </md>
+            
+          
+        </p>
+      </introduction>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Only one solution can be correct. Which one is it? How do you know?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            For the solutions above that are incorrect, identify the error(s) the student made.
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+<exercise>
+      <introduction>
+        <p>
+          For each of the following equations verify that the given statement is false.  Then insert parentheses into the equations to make the statement true.
+        </p>
+      </introduction>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+             <m>4 + 4 \div .4 \div \sqrt{4} = 7</m>.
+          </p>
+        </statement>
+      </task>
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            <m>\sqrt{4}^{\sqrt{4}} + \sqrt{4} / 4 = 4</m>.
+          </p>
+        </statement>
+      </task>
+      
+    </exercise>
+
+      
+</worksheet>

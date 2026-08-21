@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<worksheet>
+    <title>Visual Patterns</title>
+
+    <example xml:id="exA-BT">
+      <title>Block Towers</title>
+        <introduction>
+            <p>
+                Consider the image below which displays a tower made of blocks.
+            </p>
+
+            <image source="towerblocks.png" width="75%">
+                <description>
+                    <p>
+                        A tower of blocks with seven rows.
+                        The top row is a single block each row below is two
+                        longer then the previous
+                    </p>
+                </description>
+            </image>
+        </introduction>
+
+        <task workspace="0.15in">
+            <statement>
+                <p>
+                    The image displays a tower with 7 rows.
+                    How many blocks are there in the longest row?
+                    How many blocks are there in total?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    If we had instead only built the tower with 4 rows, how many
+                    blocks would have been in the longest row?
+                    How many blocks would there have been in total?
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Suppose we wanted to build a tower with 10 rows, how many
+                    blocks would be in the longest row?
+                    How many blocks would there be in total?
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Fill-in the table below
+                </p>
+
+                <tabular right="minor" left="minor" bottom="minor" top="minor" halign="center">
+                    <row>
+                        <cell>Number of rows</cell>
+                        <cell>Blocks in the longest row</cell>
+                        <cell>Total number of blocks</cell>
+                    </row>
+
+                    <row>
+                        <cell>1</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>2</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>9</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+
+                    <row>
+                        <cell>10</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Describe any patterns you notice in the table.
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    How could we rearrange the blocks in the tower to make the
+                    pattern for total number of blocks easier to recognize?
+                </p>
+
+                <image source="towerblocks.png" width="75%">
+                    <description>
+                        <p>
+                            A tower of blocks with seven rows.
+                            The top row is a single block each row below is two
+                            longer then the previous
+                        </p>
+                    </description>
+                </image>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    If we had 632 blocks, how many rows would the largest tower
+                    we could build have?
+                    Would there be any blocks left over?
+                </p>
+            </statement>
+        </task>
+    </example>
+    <example xml:id="exA-GD5">
+      <title>Growing Dots</title>
+      <introduction>
+        <p>
+          A pattern of growing dots is shown below.  
+        </p>
+        <image source="growing-dots.svg">
+          <description><p>An image showing a series of of 5 steps. Each step is a vertical rectangle containing circles. 
+            The number of circles increases with each step creating a larger isosceles right triangle after each step.</p></description>
+        </image> 
+      </introduction>
+      <task workspace="1in">
+        <statement>
+          <p>
+            Describe the pattern presented in the image. In particular, describe how each arrangement of dots is related to the arrangement in the step before it.
+          </p>
+        </statement>
+      </task>
+      <task workspace="1in">
+        <statement>
+          <p>
+            Determine the number of dots in each step of the pattern.  Describe the numeric pattern. 
+          </p>
+        </statement>
+      </task>
+      <task workspace="1in">
+        <statement>
+          <p>
+            If this pattern would continue, how many dots would be in step 10 of the pattern?  How did you determine your answer?
+          </p>
+        </statement>
+      </task>
+    </example>
+    <example xml:id="exA-GGPD">
+      <title>Graphing a Growing Pattern of Dots</title>
+           
+      <introduction>
+        <p>
+          Consider the data table you created for <xref ref="exA-GD5"/>. The data is plotted in the following 
+          graphs. 
+        </p>
+          <sidebyside>
+           
+              <image source="graphing-dots1">
+                <description><p>Graph of total dots in terms of steps with potential deficiencies</p></description>
+              </image>
+           
+              <image source="graphing-dots2">
+                <description><p>Graph of total dots in terms of steps with potential deficiencies</p></description>
+              </image>
+              <image source="graphing-dots3">
+                <description><p>Graph of total dots in terms of steps with potential deficiencies</p></description>
+              </image>
+              <image source="graphing-dots4">
+                <description><p>Graph of total dots in terms of steps with potential deficiencies</p></description>
+              </image>
+          </sidebyside>
+        
+      </introduction>
+
+      <task workspace="1.5in">
+        <statement>
+        <p>
+          For each graph, determine if it is a correct representation of the data?  Explain why or why not.
+        </p>
+        </statement>
+      </task>
+     
+    <task workspace="1in">
+      <statement>
+        <p>
+          What are some important characteristics of an accurate graph? List of at least 5 items.
+        </p>
+      </statement>
+    </task>
+     
+
+    </example>
+</worksheet>

@@ -1,0 +1,304 @@
+<worksheet>
+    <title>Graphing</title>
+
+    <example xml:id="exA-GAL">
+        <title>Plotting Legs</title>
+
+        <introduction>
+            <p>
+                For each of the tables below record the number of legs in each
+                group based on the number of animals present.
+            </p>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                    In a flock of geese (assume each goose has two legs)
+                </p>
+
+                <tabular bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>Number of geese (G)</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                        <cell>10</cell>
+                        <cell>12</cell>
+                        <cell>G</cell>
+                    </row>
+
+                    <row>
+                        <cell>Number of legs (L)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    In a pack of wolves (assume each wolf has four legs)
+                </p>
+
+                <tabular bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>Number of wolves (W)</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>W</cell>
+                    </row>
+
+                    <row>
+                        <cell>Number of legs (L)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    In a group of octopuses (assume each octopus has eight legs)
+                </p>
+
+                <tabular bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>Number of octopuses (C)</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>C</cell>
+                    </row>
+
+                    <row>
+                        <cell>Number of legs (L)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Plot the ordered pairs for each of your tables on the graph
+                    below.
+                    Be sure to choose an appropriate scale for both axes.
+                    Label the axes.
+                </p>
+
+                <image source="BlankAnimalGrid.png" width="50%">
+                    <description>
+                        <p>
+                            Blank grid for plotting
+                        </p>
+                    </description>
+                </image>
+            </statement>
+        </task>
+    </example>
+
+    <example xml:id="exA-GD">
+        <title>Plotting with technology</title>
+
+        <introduction>
+            <p>
+                Open your browser to
+                <url href="https://desmos.com" >Desmos.com</url>
+                and recreate the graph from <xref ref="exA-GAL"/>.
+                Instructions for plotting in Desmos:
+            </p>
+
+            <ol>
+                <li><p>Plotting points with Desmos</p>
+                    <ol>
+                        <li>Click on the add item menu, "+" (upper left). Choose table.</li>
+                        <li>Enter the date from your table into Desmos.</li>
+                        <li>Notice that points are being plotted as you type them.</li>
+                        <li>You might not be able to see all of your points on the graph.</li>
+                    </ol></li>
+                <li><p>Setting the graphing window with Desmos</p>
+                    <ol>
+                        <li>Click on the wrench icon in the upper right corner.</li>
+                        <li>For the independent variable, <m>x</m> enter the low and high values for your data.</li>
+                        <li>Choose a reasonable step size.  The step size is the interval between tick marks on the graph.</li>
+                        <li>Include a title for the <m>x</m>-axis. </li>
+                        <li>Repeat for the dependent variable, <m>y</m>.</li>
+                    </ol></li>
+                <li><p>Graphing an equation</p>
+                    <ol>
+                        <li>On the left side of the screen, type in the equation you want to plot in the next entry line. </li>   
+                        <li>It will automatically appear on the graphing screen.</li>
+                        <li>Troubleshoot and change the equation if it doesn't fit the data.</li>
+                    </ol>    </li>
+            </ol>
+        </introduction>
+    </example>
+
+    <example xml:id="exA-GP">
+        <title>Cost of Gas</title>
+        
+        
+        <introduction>
+        <p>
+          Gasoline prices sometimes vary greatly in a day. On January 28, 2015, gasoline prices in the Muskegon, MI area ranged from $1.879 to $2.199 per gallon.
+        </p>
+      </introduction>
+
+      <task>
+        <statement>
+          <p>
+            Fill in the table by calculating how much you would pay for the numbers of gallons of gas listed for each gasoline price. Round cost to the nearest penny (hundredth of a dollar).
+          </p>
+                    
+            
+            <tabular left="minor" halign="center" top="minor">
+              <row header="yes">
+                <cell left="minor" right="minor">
+                  <line>Number of Gallons</line><line>of Gas Purchased, <m>g</m></line>
+                </cell>
+                <cell colspan="2" right="minor" bottom="minor">
+                  Cost of Gas, <m>C</m>
+                </cell>
+              </row>
+              <row header="yes" bottom="minor">
+                <cell left="minor" right="minor">
+                </cell>
+                <cell right="minor">
+                  at a price of $1.879 per gallon
+                </cell>
+                <cell right="minor">
+                  at a price of $2.199 per gallon
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  1
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  2
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  3
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  4
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  5
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+              <row bottom="minor">
+                <cell left="minor" right="minor">
+                  g
+                </cell>
+                <cell right="minor">
+                </cell>
+                <cell right="minor">
+                </cell>
+              </row>
+            </tabular>
+          
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            Accurately plot the data. Label scales and titles for each axis.
+          </p>
+          <image source="BlankGrid15.png" width="50%">
+            <shortdescription><p>Blank Grid for plotting points</p></shortdescription>
+            
+          </image>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Write equations in the last row of the table that fit the data. Tell how you know your equations are correct.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            How many gallons of gasoline can you purchase for $10? Show your work for one of the gasoline prices, accurate to 2 decimal places.
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+            <p>
+                Recreate your graph on Desmos.
+            </p>
+        </statement>
+      </task>
+    </example>
+</worksheet>
