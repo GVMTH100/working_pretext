@@ -45,6 +45,66 @@
     </task>
 </example>
 
+<example xml:id="exB-SFG">
+    <title>Slope and Graphs</title>
+    <introduction>
+        <p>
+            In the previous examples we defined the slope as a rate of change 
+            of the output variable to the input variable.  Because this rate of change is remaining constant, when 
+            these equations are graphed we get a straight line (thus, linear equation). We can use the graph to determine the slope.
+            To do this we can choose any two points and determine the change in the inputs and outputs. Consider the graph of 
+            the tortoise's races from <xref ref="exA-TT"/> shown below.
+        </p>
+        <image source="slope1.png" width="50%">
+            <shortdescription>Graph of line y=20x</shortdescription>
+        </image>
+        <p>
+            We want to start by choosing two points on the graph, we will use the two labeled points 
+            <m>(2,40)</m> and <m>(8,160)</m> that are given.  Our independent variable represents time and we see that  
+            with the two given points we go from 2 minutes to 8 minutes a change of 6 minutes.  For our dependent variable, 
+            distance, we see that the tortoise went from 40 meters from the start line to 160 meters from the start line during
+            that 6 minute time interveal, which is a total distance traveled of 120 meters.  Now our slope represent the rate
+            of change of our output (dependent) variable to our input (independent) variable.  This gives us a slope 
+            of <m>\frac{120}{6}=20</m> meters per minute, which
+            describes the tortoise's speed during the race.  
+        </p>
+        <p>
+            For each of the graphs below, label two points on the graph and use this information to determine the change in the 
+            independent and dependent variable and calculate your slope.  Be sure to include appropriate units when describing 
+            your slope.
+        </p>
+    </introduction>
+    
+    <task>
+        <statement>
+            <image source="slope2.png" width="50%">
+                <shortdescription>Graph of the line y=6.2x+2</shortdescription>
+            </image>       
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <image source="slope3.png" width="50%">
+                <shortdescription>Graph of the line y=2.5x</shortdescription>
+            </image>
+        </statement>
+    </task>
+    
+    <task>
+        <statement>
+            <image source="slope4.png" width="50%">
+                <shortdescription>Graph of the line y=-750x+10000</shortdescription>
+            </image>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <image source="slope5.png" width="50%">
+                <shortdescription>Graph of the line y=0.05x+0.25</shortdescription>
+            </image>
+        </statement>
+    </task>
+</example>
 
 <example xml:id="exB-STT">
         <title>Slopes and Tree Trunks</title>
