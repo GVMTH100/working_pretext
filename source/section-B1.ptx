@@ -45,7 +45,7 @@
     </task>
 </example>
 
-<example xml:id="exB-SFG">
+<exercise xml:id="exB-SFG">
     <title>Slope and Graphs</title>
     <introduction>
         <p>
@@ -55,7 +55,7 @@
             To do this we can choose any two points and determine the change in the inputs and outputs. Consider the graph of 
             the tortoise's races from <xref ref="exA-TT"/> shown below.
         </p>
-        <image source="slope1.png" width="50%">
+        <image source="slope1.png" width="40%">
             <shortdescription>Graph of line y=20x</shortdescription>
         </image>
         <p>
@@ -75,14 +75,14 @@
         </p>
     </introduction>
     
-    <task>
+    <task workspace="1in">
         <statement>
-            <image source="slope2.png" width="50%">
+            <image source="slope2.png" width="40%">
                 <shortdescription>Graph of the line y=6.2x+2</shortdescription>
             </image>       
         </statement>
     </task>
-    <task>
+    <task workspace="1in">
         <statement>
             <image source="slope3.png" width="50%">
                 <shortdescription>Graph of the line y=2.5x</shortdescription>
@@ -90,21 +90,21 @@
         </statement>
     </task>
     
-    <task>
+    <task workspace="1in">
         <statement>
             <image source="slope4.png" width="50%">
                 <shortdescription>Graph of the line y=-750x+10000</shortdescription>
             </image>
         </statement>
     </task>
-    <task>
+    <task workspace="1in">
         <statement>
             <image source="slope5.png" width="50%">
                 <shortdescription>Graph of the line y=0.05x+0.25</shortdescription>
             </image>
         </statement>
     </task>
-</example>
+</exercise>
 
 <example xml:id="exB-STT">
         <title>Slopes and Tree Trunks</title>

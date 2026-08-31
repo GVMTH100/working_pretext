@@ -339,6 +339,23 @@
         </statement>
     </task>
 </example>
-    
+
+<example xml:id="exA-AP">
+    <title>Adding parentheses</title>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Evaluate the following statement using proper order of operations: <md>4+3-5*2+6\div2</md>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+               Adding parentheses to the expression in part (a) and using proper order of operations, what is the largest and smallest answers you can find?
+            </p>
+        </statement>
+    </task>
+</example>
 
 </worksheet>
