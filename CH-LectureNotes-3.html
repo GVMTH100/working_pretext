@@ -19,6 +19,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 <link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<style>
+@counter-style ptx-marker-0 { system: extends lower-alpha; prefix: '('; suffix: ') '; }
+</style>
 <script type="module">import { startMathJax } from './_static/pretext/js/dist/mathjax_startup.js';
 startMathJax({
 hasWebworkReps: false,
@@ -36,7 +39,7 @@ lang: "en-US",
 <meta name="twitter:description" content="A simple string (no markup is allowed) to describe your book.">
 <meta property="og:description" content="A simple string (no markup is allowed) to describe your book.">
 <meta name="twitter:card" content="summary">
-<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/dist/pretext-core.js?v=2.47"></script><script src="_static/pretext/js/dist/pretext-read-aloud.js?v=2.47"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<script src="_static/pretext/js/jquery.min.js"></script><script src="_static/pretext/js/dist/pretext-core.js?v=2.52"></script><script src="_static/pretext/js/dist/pretext-read-aloud.js?v=2.52"></script><!--** eBookCongig is necessary to configure interactive       **-->
 <!--** Runestone components to run locally in reader's browser **-->
 <!--** No external communication:                              **-->
 <!--**     log level is 0, Runestone Services are disabled     **-->
@@ -58,14 +61,14 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '8.2.7';
+eBookConfig.runestone_version = '8.2.10';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.7d3f08d51c2b60f8.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.bb5ac777721d4056.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
+<script src="_static/prefix-runtime.e3f9706509fcf6f7.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.c5ba0ffa5f963084.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
 <link rel="stylesheet" type="text/css" href="_static/prefix-runestone.efe427683fc41f98.css">
 <script src="_static/pretext/js/dist/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/dist/pretext_search.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script>
@@ -155,6 +158,17 @@ eBookConfig.enable_chatcodes =  false;
 </ul>
 </li>
 <li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="CH-MathMindset.html" class="internal"><span class="title">Mathematical Mindset</span></a></div>
+<ul id="ptx-toc-group-CH-MathMindset" class="structural toc-item-list">
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-MathMindset-2.html" class="internal"><span class="title">Mathematical Mindset 1</span></a></div></li>
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-MathMindset-3.html" class="internal"><span class="title">Finding rules to describe numeric properties</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="CH-Quizzes.html" class="internal"><span class="title">Mathematical Mindset</span></a></div>
+<ul id="ptx-toc-group-CH-Quizzes" class="structural toc-item-list"><li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-Quizzes-2.html" class="internal"><span class="title">Finding rules to describe numeric properties</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="CH-Course.html" class="internal"><span class="title">Course policies</span></a></div>
 <ul id="ptx-toc-group-CH-Course" class="structural toc-item-list">
 <li class="toc-item toc-section">
@@ -164,8 +178,10 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="CH-Course-2.html#CH-Course-2-3" class="internal"><span class="title"></span></a></div></li>
 </ul>
 </li>
-<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-Course-3.html" class="internal"><span class="title">Class Participation</span></a></div></li>
-<li class="toc-item toc-section"><div class="toc-title-box"><a href="CH-Course-4.html" class="internal"><span class="title">Sources</span></a></div></li>
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-Course-3.html" class="internal"><span class="title">Calendar</span></a></div></li>
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="CH-Course-4.html" class="internal"><span class="title">SLA Participation</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="CH-Course-5.html" class="internal"><span class="title">Sources</span></a></div></li>
+<li class="toc-item toc-handout"><div class="toc-title-box"><a href="MM-Syllabus.html" class="internal"><span class="title">Syllabus Review</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
@@ -433,6 +449,29 @@ eBookConfig.enable_chatcodes =  false;
 <div class="workspace" data-space="0.5in"></div>
 <div class="autopermalink" aria-hidden="true" data-description="Task 7.b"><a tabindex="-1" href="#exA-CTK-3" title="Copy heading and permalink for Task 7.b" aria-label="Copy heading and permalink for Task 7.b">🔗</a></div>
 </article><div class="autopermalink" aria-hidden="true" data-description="Example 7: Using math rules"><a tabindex="-1" href="#exA-CTK" title="Copy heading and permalink for Example 7: Using math rules" aria-label="Copy heading and permalink for Example 7: Using math rules">🔗</a></div>
+</article>
+<article class="example example-like" id="exA-AP"><h2 class="heading">
+<span class="type">Example</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber">8</span><span class="period heading-divison-mark heading-divison-mark__period">.</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Adding parentheses.</span>
+</h2>
+<article class="task exercise-like" id="exA-AP-2"><h3 class="heading"><span class="codenumber">(a)</span></h3>
+<div class="para logical" id="exA-AP-2-1-1">
+<div class="para">Evaluate the following statement using proper order of operations:</div>
+<div class="displaymath process-math" id="exA-AP-2-1-1-1">
+\begin{equation*}
+4+3-5*2+6\div2
+\end{equation*}
+</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#exA-AP-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0.25in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 8.a"><a tabindex="-1" href="#exA-AP-2" title="Copy heading and permalink for Task 8.a" aria-label="Copy heading and permalink for Task 8.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="exA-AP-3"><h3 class="heading"><span class="codenumber">(b)</span></h3>
+<div class="para" id="exA-AP-3-1-1">Adding parentheses to the expression in part (a) and using proper order of operations, what is the largest and smallest answers you can find?<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#exA-AP-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="0.25in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 8.b"><a tabindex="-1" href="#exA-AP-3" title="Copy heading and permalink for Task 8.b" aria-label="Copy heading and permalink for Task 8.b">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Example 8: Adding parentheses"><a tabindex="-1" href="#exA-AP" title="Copy heading and permalink for Example 8: Adding parentheses" aria-label="Copy heading and permalink for Example 8: Adding parentheses">🔗</a></div>
 </article><div class="autopermalink" aria-hidden="true" data-description="Worksheet: Order of operations"><a tabindex="-1" href="#CH-LectureNotes-3" title="Copy heading and permalink for Worksheet: Order of operations" aria-label="Copy heading and permalink for Worksheet: Order of operations">🔗</a></div>
 </section>
 </div>
