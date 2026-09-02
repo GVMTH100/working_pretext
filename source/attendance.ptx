@@ -1,11 +1,12 @@
 <worksheet>
-<title>Class Participation</title>
-<exercise number="Week 1 - Day 1" workspace="0.25in">
+<title>SLA Participation</title>
+<exercise number="Week 1 SLA" workspace="0.25in">
 <statement>
     <p>
         I would rate my participation score for today as ______%.  Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.
     </p>
     <ul>
+        <li><p>I was actively working for the entire class period</p></li>
         <li><p>I remained engaged and avoided distractions</p></li>
         <li><p>I attempted all problems</p></li>
         <li><p>I contributed to my group</p></li>
@@ -17,13 +18,14 @@
     </p>
 </statement>
 </exercise>
-<exercise number="Week 1 - Day 2" workspace="0.25in">
+<exercise number="Week 2 SLA" workspace="0.25in">
 <statement>
     <p>
         I would rate my participation score for today as ______%.  Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.
     </p>
     <ul>
-        <li><p>I avoided distractions</p></li>
+        <li><p>I was actively working for the entire class period</p></li>
+        <li><p>I remained engaged and avoided distractions</p></li>
         <li><p>I attempted all problems</p></li>
         <li><p>I contributed to my group</p></li>
         <li><p>I contributed to the class discussion</p></li>
@@ -34,13 +36,14 @@
     </p>
 </statement>
 </exercise>
-<exercise number="Week 2 - Day 1" workspace="0.25in">
+<exercise number="Week 3 SLA" workspace="0.25in">
 <statement>
     <p>
         I would rate my participation score for today as ______%.  Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.
     </p>
     <ul>
-        <li><p>I avoided distractions</p></li>
+        <li><p>I was actively working for the entire class period</p></li>
+        <li><p>I remained engaged and avoided distractions</p></li>
         <li><p>I attempted all problems</p></li>
         <li><p>I contributed to my group</p></li>
         <li><p>I contributed to the class discussion</p></li>
@@ -51,13 +54,14 @@
     </p>
 </statement>
 </exercise>
-<exercise number="Week 2 - Day 2" workspace="0.25in">
+<exercise number="Week 4 SLA" workspace="0.25in">
 <statement>
     <p>
         I would rate my participation score for today as ______%.  Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.
     </p>
     <ul>
-        <li><p>I avoided distractions</p></li>
+        <li><p>I was actively working for the entire class period</p></li>
+        <li><p>I remained engaged and avoided distractions</p></li>
         <li><p>I attempted all problems</p></li>
         <li><p>I contributed to my group</p></li>
         <li><p>I contributed to the class discussion</p></li>

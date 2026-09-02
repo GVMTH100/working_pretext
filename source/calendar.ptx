@@ -1,0 +1,20 @@
+<worksheet>
+<title>Calendar</title>
+<introduction>
+    <tabular bottom="minor" top="minor" right="minor" left="minor">
+        <row header="yes">
+            <cell>Week</cell>
+            <cell>Day 1</cell>
+            <cell>Day 2</cell>
+        </row>
+        <row>
+            <cell>Week 1</cell>
+            <cell>
+                <line>Example 1</line>
+                <line>Assign goal setting reading</line>
+            </cell>
+            <cell></cell>
+        </row>
+    </tabular>
+</introduction>
+</worksheet>

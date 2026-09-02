@@ -63,7 +63,7 @@
             <m>(2,40)</m> and <m>(8,160)</m> that are given.  Our independent variable represents time and we see that  
             with the two given points we go from 2 minutes to 8 minutes a change of 6 minutes.  For our dependent variable, 
             distance, we see that the tortoise went from 40 meters from the start line to 160 meters from the start line during
-            that 6 minute time interveal, which is a total distance traveled of 120 meters.  Now our slope represent the rate
+            that 6 minute time interval, which is a total distance traveled of 120 meters.  Now our slope represent the rate
             of change of our output (dependent) variable to our input (independent) variable.  This gives us a slope 
             of <m>\frac{120}{6}=20</m> meters per minute, which
             describes the tortoise's speed during the race.  
@@ -75,14 +75,14 @@
         </p>
     </introduction>
     
-    <task workspace="1in">
+    <task>
         <statement>
             <image source="slope2.png" width="40%">
                 <shortdescription>Graph of the line y=6.2x+2</shortdescription>
             </image>       
         </statement>
     </task>
-    <task workspace="1in">
+    <task>
         <statement>
             <image source="slope3.png" width="50%">
                 <shortdescription>Graph of the line y=2.5x</shortdescription>
@@ -90,14 +90,14 @@
         </statement>
     </task>
     
-    <task workspace="1in">
+    <task>
         <statement>
             <image source="slope4.png" width="50%">
                 <shortdescription>Graph of the line y=-750x+10000</shortdescription>
             </image>
         </statement>
     </task>
-    <task workspace="1in">
+    <task>
         <statement>
             <image source="slope5.png" width="50%">
                 <shortdescription>Graph of the line y=0.05x+0.25</shortdescription>

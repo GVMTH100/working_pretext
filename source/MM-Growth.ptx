@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+    <title>Mathematical Mindset 1</title>
+
+    <introduction>
+        <p>
+            In today’s reading you were introduced to the idea of a fixed mindset (performance-goal-orientation) 
+            compared to a growth mindset (learning-goal-orientation).  As with most things we do not necessarily 
+            have a completely fixed or a completely growth mindset, instead we are probably on a continuum between the two.  For
+            example, we might believe we can learn new things and take on challenges to do so, but then falter when faced with
+            criticism.  We also vary in mindset based on the setting, for example, we might have a more growth mindset when it 
+            comes to learning to draw, but find ourselves in a more fixed mindset when it comes to learning a new language.
+        </p>
+    </introduction>
+    <exercise>
+        <introduction>
+            <p>
+            Think about your mindset in terms of learning mathematics.  Where do you currently fall on the spectrum with the 
+            fixed mindset on the left and the growth mindset on the right.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    Beliefs about Human Potential
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Everyone is born with certain skills and aptitudes.</cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>With effective strategies and time, people can improve their skills and aptitudes.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Effort and Difficulty
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Believe abilities and knowledge the come easily indicate natural talent, and that if something isn't easy, it cannot be learned.</cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>Value the effort itself as a key element of gaining knowledge and mastery.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Challenges and Obstacles
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Generally avoid challenges and see obstacles as signs they are in the wrong direction.</cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>Seeks out new challenges and see obstacles as problems to solve and ways to grow.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Mistakes and Failure
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Hides or makes excuses for mistakes; becomes discouraged and frustrated by failure. </cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>Takes ownership of mistakes and understands that failure often leads to learning and long-term success.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Feedback, Criticism, and Suggestions
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Rejects negative feedback and can become defensive; likely focuses on positive feedback.</cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>Appreciates the perspectives of others and welcomes candid feedback.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Outlook on the Future
+                </p>
+                <tabular>
+                    <row>
+                        <cell>Success is limited to a few specific areas along a firmly defined pathway.</cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell><m>\bigcirc</m></cell>
+                        <cell>Success is possible in many areas, once individuals create their own pathways.</cell>
+                    </row>
+                </tabular>
+            </statement>
+        </task>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Choose one of the areas in question 1 and discuss where you are currently in terms of mindset and how you 
+            might transition to or maintain a growth mindset.  
+        </p>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            What messages can you give yourself to help you develop or keep a growth mindset in mathematics?
+        </p>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            What is one piece of advice you would give to another student after completing this reading?
+        </p>
+    </exercise>
+   
+</worksheet>
