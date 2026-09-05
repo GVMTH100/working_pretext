@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="CH-Quizzes" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Mathematical Mindset</title>
+  <title>Quizzes</title>
 
   <!-- include sections -->
-  <xi:include href="MM-Representation.ptx" />
+  <xi:include href="rev_quiz_1.ptx" />
  
 </chapter>

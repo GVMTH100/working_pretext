@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="QuizReview1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 1 Review</title>
+  <introduction>
+    <p>
+        The first quiz will contain questions on the following learning targets.
+    </p>
+    <ul>
+        <li>
+            <p>
+                I can identify and describe a visual pattern in words. <url href="https://gvsuoer.github.io/beckmann-textbook/S_connectmath.html">(1.3)</url>
+
+            </p>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <p>
+               I can properly apply the order of operations to evaluate a numerical expression. <url href="https://gvsuoer.github.io/beckmann-textbook/S_orderofop.html">(1.4, 1.5)</url>
+                
+            </p>
+        </li>
+    </ul>
+  </introduction>
+
+  <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            \frac{3-7}{5-3}+3\cdot4+(2-7)^2
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            \frac{3-7}{5-3}+3\cdot4+(2-7)^2
+            </md>
+            <md>
+                \frac{-4}{5-3}+3\cdot4+(2-7)^2
+            </md>
+            <md>
+                \frac{-4}{2}+3\cdot4+(2-7)^2
+            </md>
+            <md>
+                \frac{-4}{2}+3\cdot4+(-5)^2
+            </md>
+            <md>
+                \frac{-4}{2}+3\cdot4+25
+            </md>
+            <md>
+                -2+3\cdot4+25
+            </md>
+            <md>
+                -2+12+25
+            </md>
+            <md>
+                10+25
+            </md>
+            <md>
+                35
+            </md>
+            
+        </p>
+    </solution>
+    
+  </exercise>
+
+  <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            3\sqrt{4\cdot5-(3+1)}-5(2-7)+4\div2^2-7
+        </md>
+    </p>
+    <solution>
+        <p>
+           <md>
+            3\sqrt{4\cdot5-4}-5(2-7)+4\div2^2-7
+        </md> 
+         <md>
+            3\sqrt{20-4}-5(2-7)+4\div2^2-7
+        </md> 
+        <md>
+            3\sqrt{16}-5(2-7)+4\div2^2-7
+        </md> 
+        <md>
+            3\sqrt{16}-5(-5)+4\div2^2-7
+        </md> 
+        <md>
+            3\cdot4-5(-5)+4\div2^2-7
+        </md> 
+        <md>
+            3\cdot4-5(-5)+4\div4-7
+        </md> 
+        <md>
+            12-5(-5)+4\div4-7
+        </md> 
+        <md>
+            12+25+4\div4-7
+        </md> 
+        <md>
+            12+25+1-7
+        </md> 
+        <md>
+           27+1-7
+        </md> 
+        <md>
+           28-7
+        </md> 
+        <md>
+           21
+        </md> 
+        </p>
+    </solution>
+  </exercise>
+
+  <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            3^{\sqrt{4}}\div(3-2\cdot8)+4-2\cdot\frac{2-1}{9-4}
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            3^{\sqrt{4}}\div(3-16)+4-2\cdot\frac{2-1}{9-4}
+        </md>
+        <md>
+            3^{\sqrt{4}}\div(-13)+4-2\cdot\frac{2-1}{9-4}
+        </md>
+        <md>
+            3^{\sqrt{4}}\div(-13)+4-2\cdot\frac{1}{9-4}
+        </md>
+        <md>
+            3^{\sqrt{4}}\div(-13)+4-2\cdot\frac{1}{5}
+        </md>
+        <md>
+            3^{2}\div(-13)+4-2\cdot\frac{1}{5}
+        </md>
+        <md>
+            9\div(-13)+4-2\cdot\frac{1}{5}
+        </md>
+        <md>
+            -\frac{9}{13}+4-2\cdot\frac{1}{5}
+        </md>
+        <md>
+            -\frac{9}{13}+4-\frac{2}{5}
+        </md>
+        <md>
+            -\frac{9}{13}+\frac{52}{13}-\frac{2}{5}
+        </md>
+        <md>
+            \frac{43}{13}-\frac{2}{5}
+        </md>
+        <md>
+            \frac{215}{65}-\frac{26}{65}
+        </md>
+        <md>
+            \frac{189}{65}
+        </md>
+
+        </p>
+    </solution>
+  </exercise>
+
+  <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            4\cdot4-4\div4+4^{(4-4)}+(4+4)\div4
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            4\cdot4-4\div4+4^{0}+(4+4)\div4
+            </md>
+            <md>
+            4\cdot4-4\div4+4^{0}+8\div4
+            </md>
+            <md>
+            4\cdot4-4\div4+1+8\div4
+            </md>
+            <md>
+            16-4\div4+1+8\div4
+            </md>
+            <md>
+            16-1+1+8\div4
+            </md>
+            <md>
+            16-1+1+2
+            </md>
+            <md>
+            15+1+2
+            </md>
+            <md>
+            16+2
+            </md>
+            <md>
+            18
+            </md>
+        </p>
+    </solution>
+ </exercise>
+
+ <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            3-4^{7\div(5+9)}\cdot(7-3)^2\div(8-12)
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            3-4^{7\div(5+9)}\cdot(7-3)^2\div(8-12)
+        </md>
+        <md>
+            3-4^{7\div14}\cdot(7-3)^2\div(8-12)
+        </md>
+         <md>
+            3-4^{\frac{1}{2}}\cdot(7-3)^2\div(8-12)
+        </md>
+        <md>
+            3-4^{\frac{1}{2}}\cdot(4)^2\div(8-12)
+        </md>
+        <md>
+            3-4^{\frac{1}{2}}\cdot(4)^2\div(-4)
+        </md>
+        <md>
+            3-2\cdot(4)^2\div(-4)
+        </md>
+        <md>
+            3-2\cdot16\div(-4)
+        </md>
+        <md>
+            3-32\div(-4)
+        </md>
+        <md>
+            3+8
+        </md>
+        <md>
+            11
+        </md>
+        </p>
+    </solution>
+ </exercise>
+
+ <exercise workspace="0.5in">
+    <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            9+3\div5+1-2\cdot4^2\div3
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            9+3\div5+1-2\cdot4^2\div3
+        </md>
+        <md>
+            9+3\div5+1-2\cdot16\div3
+        </md>
+        <md>
+            9+\frac{3}{5}+1-2\cdot16\div3
+        </md>
+        <md>
+            9+\frac{3}{5}+1-32\div3
+        </md>
+        <md>
+            9+\frac{3}{5}+1-\frac{32}{3}
+        </md>
+        <md>
+            \frac{45}{5}+\frac{3}{5}+1-\frac{32}{3}
+        </md>
+         <md>
+            \frac{48}{5}+1-\frac{32}{3}
+        </md>
+        <md>
+            \frac{48}{5}+\frac{5}{5}-\frac{32}{3}
+        </md>
+        <md>
+            \frac{53}{5}-\frac{32}{3}
+        </md>
+        <md>
+            \frac{159}{15}-\frac{160}{15}
+        </md>
+        <md>
+            -\frac{1}{15}
+        </md>
+        </p>
+    </solution>
+ </exercise>
+
+  <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_quad1.png" width="75%">
+            <shortdescription>A visual pattern showing growing center squares of length 1, 2, 3, and 4. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows a central square with four squares additional squares, one at each corner.  
+                The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and 
+                increasing to a 4x4 square in step 4.  We would expect the fifth step to have a central 5x5 square 
+                with 1x1 squares at each corner. 
+            </p>
+            <image source="VP_quad1A.png" width="40%">
+                <shortdescription>A 5x5 square with 1x1 squares at the corners.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin1.png" width="75%">
+            <shortdescription>A visual pattern showing a single square expanding to a growing x. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows a central square to start, but with an extra square added to each corner on each additional
+                step creating an X with growing arm lengths.  We would expect the fifth step to be an X with 4 squares along
+                each leg.  
+            </p>
+            <image source="VP_lin1A.png" width="40%">
+                <shortdescription>An X shape patterns with arms of length 4 and a central square</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin2.png" width="75%">
+            <shortdescription>A visual pattern showing a sequence of stacked squares. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern starts with a single square. Each additional step adds a square to the right and 
+                one additional square on top of each column.  We would expect the fifth step to be a triangle
+                with five squares for the long leg.  
+            </p>
+            <image source="VP_lin1A.png" width="40%">
+                <shortdescription>A stack of square in a right triangular shape with sides of length 5</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin3.png" width="75%">
+            <shortdescription>A visual pattern showing a sequence of filled pie charts. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern an additional sector of the pie is being filled in.  We would expect the fifth
+                step to include a pie that is filled halfway.
+            </p>
+            <image source="VP_lin3A.png" width="40%">
+                <shortdescription>a pie chart that is filled halfway.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin4.png" width="50%">
+            <shortdescription>A visual pattern showing a sequence of filled pie charts. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed.
+                We would expect the fifth step to include two pies that are completely filled and a third pie
+                with 5 sectors filled in.
+            </p>
+            <image source="VP_lin4A.png" width="40%">
+                <shortdescription>a pie chart</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_exp1.png" width="75%">
+            <shortdescription>A visual pattern showing the shaded region of a box cut in half at each step </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern the amount of shading is cut in half.  We would expect the fifth step
+                to have four squares shaded.
+            </p>
+            <image source="VP_exp1A.png" width="40%">
+                <shortdescription>A square 4-64ths shaded</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+</worksheet>
