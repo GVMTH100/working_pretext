@@ -712,6 +712,60 @@ var ptx_lunr_docs = [
   "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing the shaded region of a box cut in half at each step    At each step of the pattern the amount of shading is cut in half. We would expect the fifth step to have four squares shaded.   A square 4-64ths shaded    "
 },
 {
+  "id": "quiz1",
+  "level": "1",
+  "url": "quiz1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Quiz 1",
+  "body": " Quiz 1      BSO #1: I can identify and describe a visual pattern in words.     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of drops following sequence 8, 13, 19, 26.    The pattern shows an increasing number of dots with the final column of one step being replaced by two columns with one more dot in each in the next step. For the fifth step we would expect that the final column of step 4 is replaced with 2 columns each containing 7 dots.   An arrangement of 34 dots.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of stacked squares following sequence 1, 3, 6, 10.    The pattern shows an increasing stack of blocks with each new row containing one more block than in the previous step. We would expect the fifth step to include the stack from step 4 sitting on a fifth row with 5 blocks.   A stack of 15 squares.      Simplify the following expression using correct order of operations:                    Simplify the following expression using correct order of operations:                    "
+},
+{
+  "id": "quiz1-2",
+  "level": "2",
+  "url": "quiz1.html#quiz1-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    "
+},
+{
+  "id": "quiz1-3",
+  "level": "2",
+  "url": "quiz1.html#quiz1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of drops following sequence 8, 13, 19, 26.    The pattern shows an increasing number of dots with the final column of one step being replaced by two columns with one more dot in each in the next step. For the fifth step we would expect that the final column of step 4 is replaced with 2 columns each containing 7 dots.   An arrangement of 34 dots.    "
+},
+{
+  "id": "quiz1-4",
+  "level": "2",
+  "url": "quiz1.html#quiz1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of stacked squares following sequence 1, 3, 6, 10.    The pattern shows an increasing stack of blocks with each new row containing one more block than in the previous step. We would expect the fifth step to include the stack from step 4 sitting on a fifth row with 5 blocks.   A stack of 15 squares.    "
+},
+{
+  "id": "quiz1-5",
+  "level": "2",
+  "url": "quiz1.html#quiz1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                  "
+},
+{
+  "id": "quiz1-6",
+  "level": "2",
+  "url": "quiz1.html#quiz1-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
