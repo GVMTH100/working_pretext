@@ -10,9 +10,16 @@
         <row>
             <cell>Week 1</cell>
             <cell>
-                <line>Example 1</line>
+                <line>Examples 1 - 2</line>
                 <line>Assign goal setting reading</line>
             </cell>
+            <cell><line>Example 3</line>
+                <line>Assign mindset reading</line>
+            </cell>
+        </row>
+        <row>
+            <cell>Week 2</cell>
+            <cell></cell>
             <cell></cell>
         </row>
     </tabular>
