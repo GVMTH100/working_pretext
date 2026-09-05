@@ -591,17 +591,125 @@ var ptx_lunr_docs = [
   "url": "CH-MathMindset-3.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Finding rules to describe numeric properties",
-  "body": " Finding rules to describe numeric properties      "
+  "title": "Mathematical Mindset 2",
+  "body": " Mathematical Mindset 2      "
 },
 {
-  "id": "CH-Quizzes-2",
+  "id": "QuizReview1",
   "level": "1",
-  "url": "CH-Quizzes-2.html",
+  "url": "QuizReview1.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Finding rules to describe numeric properties",
-  "body": " Finding rules to describe numeric properties      "
+  "title": "Quiz 1 Review",
+  "body": " Quiz 1 Review   The first quiz will contain questions on the following learning targets.    I can identify and describe a visual pattern in words. (1.3)       I can properly apply the order of operations to evaluate a numerical expression. (1.4, 1.5)       Simplify the following expression using correct order of operations:                  Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                  Simplify the following expression using correct order of operations:                   Simplify the following expression using correct order of operations:                    Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing center squares of length 1, 2, 3, and 4.    The pattern shows a central square with four squares additional squares, one at each corner. The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and increasing to a 4x4 square in step 4. We would expect the fifth step to have a central 5x5 square with 1x1 squares at each corner.   A 5x5 square with 1x1 squares at the corners.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a single square expanding to a growing x.    The pattern shows a central square to start, but with an extra square added to each corner on each additional step creating an X with growing arm lengths. We would expect the fifth step to be an X with 4 squares along each leg.   An X shape patterns with arms of length 4 and a central square      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of stacked squares.    The pattern starts with a single square. Each additional step adds a square to the right and one additional square on top of each column. We would expect the fifth step to be a triangle with five squares for the long leg.   A stack of square in a right triangular shape with sides of length 5      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional sector of the pie is being filled in. We would expect the fifth step to include a pie that is filled halfway.   a pie chart that is filled halfway.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed. We would expect the fifth step to include two pies that are completely filled and a third pie with 5 sectors filled in.   a pie chart      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing the shaded region of a box cut in half at each step    At each step of the pattern the amount of shading is cut in half. We would expect the fifth step to have four squares shaded.   A square 4-64ths shaded     "
+},
+{
+  "id": "QuizReview1-3",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                "
+},
+{
+  "id": "QuizReview1-4",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "QuizReview1-5",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "QuizReview1-6",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                "
+},
+{
+  "id": "QuizReview1-7",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "QuizReview1-8",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                  "
+},
+{
+  "id": "QuizReview1-9",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing center squares of length 1, 2, 3, and 4.    The pattern shows a central square with four squares additional squares, one at each corner. The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and increasing to a 4x4 square in step 4. We would expect the fifth step to have a central 5x5 square with 1x1 squares at each corner.   A 5x5 square with 1x1 squares at the corners.    "
+},
+{
+  "id": "QuizReview1-10",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a single square expanding to a growing x.    The pattern shows a central square to start, but with an extra square added to each corner on each additional step creating an X with growing arm lengths. We would expect the fifth step to be an X with 4 squares along each leg.   An X shape patterns with arms of length 4 and a central square    "
+},
+{
+  "id": "QuizReview1-11",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-11",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of stacked squares.    The pattern starts with a single square. Each additional step adds a square to the right and one additional square on top of each column. We would expect the fifth step to be a triangle with five squares for the long leg.   A stack of square in a right triangular shape with sides of length 5    "
+},
+{
+  "id": "QuizReview1-12",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-12",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional sector of the pie is being filled in. We would expect the fifth step to include a pie that is filled halfway.   a pie chart that is filled halfway.    "
+},
+{
+  "id": "QuizReview1-13",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-13",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed. We would expect the fifth step to include two pies that are completely filled and a third pie with 5 sectors filled in.   a pie chart    "
+},
+{
+  "id": "QuizReview1-14",
+  "level": "2",
+  "url": "QuizReview1.html#QuizReview1-14",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing the shaded region of a box cut in half at each step    At each step of the pattern the amount of shading is cut in half. We would expect the fifth step to have four squares shaded.   A square 4-64ths shaded    "
 },
 {
   "id": "CH-Course-2",
