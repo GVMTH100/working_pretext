@@ -45,7 +45,7 @@
     </task>
 </example>
 
-<exercise xml:id="exB-SFG">
+<example xml:id="exB-SFG">
     <title>Slope and Graphs</title>
     <introduction>
         <p>
@@ -104,7 +104,7 @@
             </image>
         </statement>
     </task>
-</exercise>
+</example>
 
 <example xml:id="exB-STT">
         <title>Slopes and Tree Trunks</title>

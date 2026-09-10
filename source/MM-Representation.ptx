@@ -5,8 +5,97 @@
 
     <introduction>
         <p>
-            
+            Watch the video on <url href="https://www.youcubed.org/resources/brain-crossing-video/">Brain Crossing</url> and 
+            answer the following questions.
         </p>
     </introduction>
+
+    <exercise workspace="0.25in">
+        <p>
+            What is something you learned from the video?
+        </p>
+    </exercise>
+    
+    <exercise workspace="0.5in">
+        <p>
+            One visual representation we can use for multiplication is a square array.  Explain how this representation 
+            shows us that <m>4\cdot3=12</m>.
+        </p>
+        <image source="multrect.png" width="15%">
+            <shortdescription>A 3 x 4 array to visually represent multiplication.</shortdescription>
+        </image>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            A second visual representation we can use for multiplication is physical groups.
+            Explain how this representation 
+            shows us that <m>4\cdot3=12</m>.
+        </p>
+        <image source="multgroup.png" width="15%">
+            <shortdescription>A visual representation of multiplication using 4 groups of 3 elements.</shortdescription>
+        </image>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            A third visual representation we can use for multiplication is intersecting lines.
+            Explain how this representation 
+            shows us that <m>4\cdot3=12</m>.
+        </p>
+        <image source="multlines.png" width="25%">
+            <shortdescription>A visual representation of multiplication using 4 horizontal lines intersecting 3 vertical lines.</shortdescription>
+        </image>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Which of the representations of multiplication do you prefer? Why?
+        </p>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Consider the following visual representation of an algebraic idea.  Explain how this visual
+            represents the algebraic expression <m>(x+3)(x+2)=x^2+5x+6</m>
+        </p>
+        <image source="multpoly.png" width="40%">
+            <shortdescription>A visual representation consisting of a rectangle with sides x+3 and x+2.</shortdescription>
+        </image>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Draw a visual representation of the fraction <m>\frac{5}{6}</m>.
+        </p>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Which two fractions are represented below?
+        </p>
+        <image source="fractions1.png" width="40%">
+            <shortdescription>A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.</shortdescription>
+        </image>
+    </exercise>
    
+    <exercise workspace="0.5in">
+        <p>
+            When we add fractions, we want to have common denominators to be able to add.  Explain how this visual shows finding 
+            common denominators for the fractions in the previous question and then find the sum of those two fractions.  
+        </p>
+        <image source="fractions2.png" width="40%">
+            <shortdescription>A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.</shortdescription>
+        </image>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Find the product of <m>\frac{2}{3}</m> and <m>\frac{1}{3}.</m> Explain how the following visual representation helps us understand the meaning of <m>\frac{2}{3}\cdot{1}{3}.</m>
+        </p>
+        <image source="fractions3.png" width="40%">
+            <shortdescription>A pie with 1/3 shaded green.  Two thirds of the shaded region is shaded a darker color.</shortdescription>
+        </image>
+        
+    </exercise>
 </worksheet>

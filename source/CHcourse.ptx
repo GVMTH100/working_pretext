@@ -4,11 +4,11 @@
   <title>Course policies</title>
 
   <!-- include sections -->
-  <xi:include href="syllabus.ptx" />
+  <!-- <xi:include href="syllabus.ptx" /> -->
   <xi:include href="calendar.ptx" />
   <xi:include href="attendance.ptx" />
   <xi:include href="sources.ptx" />
-  <xi:include href="MM-Syllabus.ptx" />
+  <!-- <xi:include href="MM-Syllabus.ptx" /> -->
   
   
 </chapter>
