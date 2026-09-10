@@ -355,8 +355,8 @@ var ptx_lunr_docs = [
   "id": "exB-SFG",
   "level": "2",
   "url": "CH-LectureNotes-11.html#exB-SFG",
-  "type": "Worksheet Exercise",
-  "number": "1",
+  "type": "Example",
+  "number": "29",
   "title": "Slope and Graphs.",
   "body": " Slope and Graphs   In the previous examples we defined the slope as a rate of change of the output variable to the input variable. Because this rate of change is remaining constant, when these equations are graphed we get a straight line (thus, linear equation). We can use the graph to determine the slope. To do this we can choose any two points and determine the change in the inputs and outputs. Consider the graph of the tortoise's races from shown below.   Graph of line y=20x   We want to start by choosing two points on the graph, we will use the two labeled points and that are given. Our independent variable represents time and we see that with the two given points we go from 2 minutes to 8 minutes a change of 6 minutes. For our dependent variable, distance, we see that the tortoise went from 40 meters from the start line to 160 meters from the start line during that 6 minute time interval, which is a total distance traveled of 120 meters. Now our slope represent the rate of change of our output (dependent) variable to our input (independent) variable. This gives us a slope of meters per minute, which describes the tortoise's speed during the race.  For each of the graphs below, label two points on the graph and use this information to determine the change in the independent and dependent variable and calculate your slope. Be sure to include appropriate units when describing your slope.      Graph of the line y=6.2x+2        Graph of the line y=2.5x        Graph of the line y=-750x+10000        Graph of the line y=0.05x+0.25     "
 },
@@ -365,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "CH-LectureNotes-11.html#exB-STT",
   "type": "Example",
-  "number": "29",
+  "number": "30",
   "title": "Slopes and Tree Trunks.",
   "body": " Slopes and Tree Trunks   Near the Calder Plaza in downtown Grand Rapids, Michigan a stand of trees is planted in a 5 by 5 grid as shown below. Each green dot represents the location of a tree. The trunks of the trees are uniform in size. All of the trunks are straight and perpendicular to the ground.   Explained in the preceding paragraph      The line of sight from the origin to the trees with coordinates (1, 1), (2, 2), (3, 3), (4, 4), and (5, 5) is shown. Which of these tree trunks can you see if you are standing at the origin, (0, 0)? Why do you think so?      Other than the tree trunks in Row 1 and Column 1, which tree trunks can you see if you are standing at the origin? Why do you think these tree trunks are visible?      What is the slope of the line of sight from the origin (0, 0) to the tree trunk at point (4, 2)? What other tree trunks are along this line of sight? How do you know?      At what point on one of the axes would you have to be standing in order for the tree trunks at points (2, 5) and (1, 3) to be on the same line of sight? What is the slope of this line of sight? What do you think the equation of this line of site is? Why do you think so?      Draw a line of sight through point (2, 0) parallel to the line you found in the previous question. What trees are along this line of sight? Find the slope of this equation.      How are the slopes of these two lines related?    "
 },
@@ -532,15 +532,6 @@ var ptx_lunr_docs = [
   "body": "  Simplify each of the following expressions by combining like terms.                               "
 },
 {
-  "id": "CH-Homework-5",
-  "level": "1",
-  "url": "CH-Homework-5.html",
-  "type": "Section",
-  "number": "",
-  "title": "Sources",
-  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                     The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
-},
-{
   "id": "CH-MathMindset-2",
   "level": "1",
   "url": "CH-MathMindset-2.html",
@@ -592,7 +583,97 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Mathematical Mindset 2",
-  "body": " Mathematical Mindset 2      "
+  "body": " Mathematical Mindset 2   Watch the video on Brain Crossing and answer the following questions.    What is something you learned from the video?    One visual representation we can use for multiplication is a square array. Explain how this representation shows us that .   A 3 x 4 array to visually represent multiplication.     A second visual representation we can use for multiplication is physical groups. Explain how this representation shows us that .   A visual representation of multiplication using 4 groups of 3 elements.     A third visual representation we can use for multiplication is intersecting lines. Explain how this representation shows us that .   A visual representation of multiplication using 4 horizontal lines intersecting 3 vertical lines.     Which of the representations of multiplication do you prefer? Why?    Consider the following visual representation of an algebraic idea. Explain how this visual represents the algebraic expression    A visual representation consisting of a rectangle with sides x+3 and x+2.     Draw a visual representation of the fraction .    Which two fractions are represented below?   A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.     When we add fractions, we want to have common denominators to be able to add. Explain how this visual shows finding common denominators for the fractions in the previous question and then find the sum of those two fractions.   A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.     Find the product of and Explain how the following visual representation helps us understand the meaning of    A pie with 1\/3 shaded green. Two thirds of the shaded region is shaded a darker color.    "
+},
+{
+  "id": "CH-MathMindset-3-3",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " What is something you learned from the video?  "
+},
+{
+  "id": "CH-MathMindset-3-4",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " One visual representation we can use for multiplication is a square array. Explain how this representation shows us that .   A 3 x 4 array to visually represent multiplication.   "
+},
+{
+  "id": "CH-MathMindset-3-5",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " A second visual representation we can use for multiplication is physical groups. Explain how this representation shows us that .   A visual representation of multiplication using 4 groups of 3 elements.   "
+},
+{
+  "id": "CH-MathMindset-3-6",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " A third visual representation we can use for multiplication is intersecting lines. Explain how this representation shows us that .   A visual representation of multiplication using 4 horizontal lines intersecting 3 vertical lines.   "
+},
+{
+  "id": "CH-MathMindset-3-7",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Which of the representations of multiplication do you prefer? Why?  "
+},
+{
+  "id": "CH-MathMindset-3-8",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Consider the following visual representation of an algebraic idea. Explain how this visual represents the algebraic expression    A visual representation consisting of a rectangle with sides x+3 and x+2.   "
+},
+{
+  "id": "CH-MathMindset-3-9",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Draw a visual representation of the fraction .  "
+},
+{
+  "id": "CH-MathMindset-3-10",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Which two fractions are represented below?   A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.   "
+},
+{
+  "id": "CH-MathMindset-3-11",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-11",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " When we add fractions, we want to have common denominators to be able to add. Explain how this visual shows finding common denominators for the fractions in the previous question and then find the sum of those two fractions.   A rectangle divided into 4 regions with 3 shaded. A rectangle divided into 10 regions with 7 shaded.   "
+},
+{
+  "id": "CH-MathMindset-3-12",
+  "level": "2",
+  "url": "CH-MathMindset-3.html#CH-MathMindset-3-12",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " Find the product of and Explain how the following visual representation helps us understand the meaning of    A pie with 1\/3 shaded green. Two thirds of the shaded region is shaded a darker color.   "
 },
 {
   "id": "QuizReview1",
@@ -781,7 +862,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Calendar",
-  "body": " Calendar     Week  Day 1  Day 2    Week 1   Example 1  Assign goal setting reading       "
+  "body": " Calendar     Week  Day 1  Day 2    Week 1   Examples 1 - 2  Assign goal setting reading   Example 3  Assign mindset reading     Week 2       "
 },
 {
   "id": "CH-Course-4",
