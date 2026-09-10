@@ -532,6 +532,60 @@ var ptx_lunr_docs = [
   "body": "  Simplify each of the following expressions by combining like terms.                               "
 },
 {
+  "id": "HW4",
+  "level": "1",
+  "url": "HW4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 4",
+  "body": " Homework Set 4     Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     One mile equals 2000 average steps while walking. If you walk at a rate of 3 miles per hour, you will average 100 steps per minute.     Fill in the table below.      Number of minutes  Number of steps taken    1  100    10     20     30     40         Plot the number of minutes versus the number of steps taken. Indicate the scales and titles for each axis.   A blank grid for graphing          As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work hours?     Fill in the table below.      Hours worked  Amount earned    1     10     20     30     40         Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.   A blank grid for graphing         The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: Bureau of Transportation Statistics , retrieved 4\/21\/20.))    Data presented is fuel efficiency rating in miles per gallon for a given year. In 1995 fuel efficiency was 28.7 miles per gallon. In 2000 fuel efficiency was 28.5 miles per gallon. In 2005 fuel efficiency was 30.3 miles per gallon. In 2010 fuel efficiency was 33.9 miles per gallon. In 2015 fuel efficiency was 37.2 miles per gallon.       Fill in the table with the data from the figure above adjusting the start year as years from 1995.    Year  Adjusted year,  Fuel efficiency in mpg    1995  0     2000  5     2005      2010      2015          Plot the data, Adjusted Year versus Average Fuel Efficiency.   A blank grid for graphing       Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both and -scales and other pertinent aspects of accurate graphs.       The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.   The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years. In 2016 life expectancy was 78.8 years. In 1970 life expectancy was 70.8 years. In 1980 life expectancy was 73.6 years. In 1990 life expectancy was 75.2 years. In 2000 life expectancy was 76.6 years. In 2010 life expectancy was 78.5 years.      Create a table for the data in the figure. Let years since 1960 be the independent variable.    Year  Adjusted year,  Life Expectancy    1960  0     1970  10     1980      1990      2000      2010          Plot the data, adjusted year vs. Years of life expectancy at birth.   A blank grid for graphing       Is the figure accurate for the set of data? Why or why not?      Choose one of the graphs from the previous exercises and recreate the graph in Desmos. Be sure to adjust the scale on Desmos to match your homework graph. Print a copy of the graph and include it with your work. You can find the option to print a graph by clicking the share graph button.   Share graph icon    "
+},
+{
+  "id": "exer-walking-22",
+  "level": "2",
+  "url": "HW4.html#exer-walking-22",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  One mile equals 2000 average steps while walking. If you walk at a rate of 3 miles per hour, you will average 100 steps per minute.     Fill in the table below.      Number of minutes  Number of steps taken    1  100    10     20     30     40         Plot the number of minutes versus the number of steps taken. Indicate the scales and titles for each axis.   A blank grid for graphing     "
+},
+{
+  "id": "exer-wages-22",
+  "level": "2",
+  "url": "HW4.html#exer-wages-22",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work hours?     Fill in the table below.      Hours worked  Amount earned    1     10     20     30     40         Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.   A blank grid for graphing     "
+},
+{
+  "id": "HW4-4",
+  "level": "2",
+  "url": "HW4.html#HW4-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: Bureau of Transportation Statistics , retrieved 4\/21\/20.))    Data presented is fuel efficiency rating in miles per gallon for a given year. In 1995 fuel efficiency was 28.7 miles per gallon. In 2000 fuel efficiency was 28.5 miles per gallon. In 2005 fuel efficiency was 30.3 miles per gallon. In 2010 fuel efficiency was 33.9 miles per gallon. In 2015 fuel efficiency was 37.2 miles per gallon.       Fill in the table with the data from the figure above adjusting the start year as years from 1995.    Year  Adjusted year,  Fuel efficiency in mpg    1995  0     2000  5     2005      2010      2015          Plot the data, Adjusted Year versus Average Fuel Efficiency.   A blank grid for graphing       Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both and -scales and other pertinent aspects of accurate graphs.    "
+},
+{
+  "id": "HW4-5",
+  "level": "2",
+  "url": "HW4.html#HW4-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.   The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years. In 2016 life expectancy was 78.8 years. In 1970 life expectancy was 70.8 years. In 1980 life expectancy was 73.6 years. In 1990 life expectancy was 75.2 years. In 2000 life expectancy was 76.6 years. In 2010 life expectancy was 78.5 years.      Create a table for the data in the figure. Let years since 1960 be the independent variable.    Year  Adjusted year,  Life Expectancy    1960  0     1970  10     1980      1990      2000      2010          Plot the data, adjusted year vs. Years of life expectancy at birth.   A blank grid for graphing       Is the figure accurate for the set of data? Why or why not?    "
+},
+{
+  "id": "HW4-6",
+  "level": "2",
+  "url": "HW4.html#HW4-6",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Choose one of the graphs from the previous exercises and recreate the graph in Desmos. Be sure to adjust the scale on Desmos to match your homework graph. Print a copy of the graph and include it with your work. You can find the option to print a graph by clicking the share graph button.   Share graph icon   "
+},
+{
   "id": "CH-MathMindset-2",
   "level": "1",
   "url": "CH-MathMindset-2.html",
@@ -850,10 +904,10 @@ var ptx_lunr_docs = [
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
-  "type": "Section",
+  "type": "Worksheet",
   "number": "",
-  "title": "MTH 108: Algebra - Stretch I",
-  "body": " MTH 108: Algebra - Stretch I   Course and Instructor Information    Course: Math 108: Algebra - Stretch I, Fall 2026  Instructor: Mr. Greg Thull  Email: thullg@gvsu.edu  Office: A-2-118 MAK  Office Hours: Monday and Wednesday: 2:30 - 4:30 in A-2-118 MAK  Lectures:    MTH 108-01: Tuesday 10:00-11:15 in D-2-123 MAK and Thursday 10:00-11:15 in A-2-161 MAK  MTH 108-13: Monday and Wednesday 4:30-5:45 in A-2-161 MAK and Thursday 4:30-5:20 in D-2-227 MAK  MTH 108-15: Monday and Wednesday 6:00-7:15 in A-2-153 MAK  MTH 108-33: Tuesday and Thursday 1:00-2:15 in D-1-227 MAK  MTH 108-35: Tuesday and Thursday 2:30-3:45 in 205A HHLC    Course Website: Blackboard       Math Tutoring Center: GVSU’s Math Tutoring Center offers both in-person and online drop-in tutoring this semester, starting Wednesday, August 30. You can access the most up-to-date information on our website at http:\/\/gvsu.edu\/tutoring\/math\/. There you will find our current hours, information on how to access online tutoring with Discord Voice and a schedule of when you can find tutors to help with your specific course. Bring questions to any center about using technology (calculator or Desmos), on methods and concepts, or on specific problems. All Math Center tutoring is FREE, so stop by early and often. The Math Tutoring Center offers:  in-person tutoring on the Allendale campus (MAK A-2-601): Monday – Thursday 10am – 5pm and Friday 10am – 2pm  in-person tutoring on the Pew campus (EC 608): Monday – Thursday 1pm – 5pm  online tutoring via Discord Voice: Sunday – Thursday 5pm – 9pm  To access virtual drop-in tutoring, you can use the link in your Blackboard course called Math Tutoring Center or visit our website. Then you will need to click on the “Online Math Tutoring Center” button, which will require a GVSU login. We ask that when you enter our Discord server, please change your username to your first and last name so we can get you signed in and connected with a tutor.   Tutoring and Reading Center Appointments: GVSU’s Tutoring and Reading Center offers appointment tutoring both in-person and virtually. You can sign up for 50-minute tutoring appointments for many Math courses. Request a tutor at https:\/\/www.gvsu.edu\/trc\/ or schedule directly on Navigate.   "
+  "title": "Calendar",
+  "body": " Calendar     Week  Day 1  Day 2    Week 1   Examples 1 - 2  Assign goal setting reading   Example 3  Assign mindset reading     Week 2   Examples 4 - 5  Assign Motivation\/Procrastination reading  DUE: Mathematical Mindset #1       "
 },
 {
   "id": "CH-Course-3",
@@ -861,71 +915,53 @@ var ptx_lunr_docs = [
   "url": "CH-Course-3.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Calendar",
-  "body": " Calendar     Week  Day 1  Day 2    Week 1   Examples 1 - 2  Assign goal setting reading   Example 3  Assign mindset reading     Week 2       "
-},
-{
-  "id": "CH-Course-4",
-  "level": "1",
-  "url": "CH-Course-4.html",
-  "type": "Worksheet",
-  "number": "",
   "title": "SLA Participation",
   "body": " SLA Participation    I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:      I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:      I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:      I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:    "
 },
 {
-  "id": "CH-Course-4-2",
+  "id": "CH-Course-3-2",
   "level": "2",
-  "url": "CH-Course-4.html#CH-Course-4-2",
+  "url": "CH-Course-3.html#CH-Course-3-2",
   "type": "Worksheet Exercise",
   "number": "Week 1 SLA",
   "title": "",
   "body": "  I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:   "
 },
 {
-  "id": "CH-Course-4-3",
+  "id": "CH-Course-3-3",
   "level": "2",
-  "url": "CH-Course-4.html#CH-Course-4-3",
+  "url": "CH-Course-3.html#CH-Course-3-3",
   "type": "Worksheet Exercise",
   "number": "Week 2 SLA",
   "title": "",
   "body": "  I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:   "
 },
 {
-  "id": "CH-Course-4-4",
+  "id": "CH-Course-3-4",
   "level": "2",
-  "url": "CH-Course-4.html#CH-Course-4-4",
+  "url": "CH-Course-3.html#CH-Course-3-4",
   "type": "Worksheet Exercise",
   "number": "Week 3 SLA",
   "title": "",
   "body": "  I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:   "
 },
 {
-  "id": "CH-Course-4-5",
+  "id": "CH-Course-3-5",
   "level": "2",
-  "url": "CH-Course-4.html#CH-Course-4-5",
+  "url": "CH-Course-3.html#CH-Course-3-5",
   "type": "Worksheet Exercise",
   "number": "Week 4 SLA",
   "title": "",
   "body": "  I would rate my participation score for today as ______%. Comment on any of the participation criteria that you feel you struggled with or excelled with during today's class.   I was actively working for the entire class period  I remained engaged and avoided distractions  I attempted all problems  I contributed to my group  I contributed to the class discussion  I felt challenged by the material but persevered   Respond to the question of the day:   "
 },
 {
-  "id": "CH-Course-5",
+  "id": "CH-Course-4",
   "level": "1",
-  "url": "CH-Course-5.html",
+  "url": "CH-Course-4.html",
   "type": "Section",
   "number": "",
   "title": "Sources",
   "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                     The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
-},
-{
-  "id": "MM-Syllabus",
-  "level": "1",
-  "url": "MM-Syllabus.html",
-  "type": "Handout",
-  "number": "",
-  "title": "Syllabus Review",
-  "body": " Syllabus Review  Most instructors will provide you with a course syllabus on the first day of class, but what is a Syllabus? Generally, you can think of a syllabus as a roadmap of your course -- it contains valuable information that will help you succeed and stay organized throughout the entire semester. In order to fully benefit from the course syllabus, it is important for you to read it, understand it, and keep it handy as you will be continuously referring to it throughout the duration of your course.  Reviewing the syllabus at the start of the semester is an important first step to help you plan your semester efficiently and help limit confusion and stress. In short, a course syllabus will indicate what you as a student will be expected to do in a course, and how your performance throughout the course will be evaluated and graded. Common questions about a course can often be answered by reading and understanding the course syllabus. With a partner begin reading through the syllabus for this class and determining the answer to the following questions that can commonly be found in a course syllabus.    Common questions whose answers can often be found by reviewing the course syllabus  Find the answers for the common questions for MTH 108  Choose another course and review its syllabus    What is my instructor's name?      What will I be learning in this course? What are the required textbooks? What happens if I miss an exam? What is the policy on late work? Where do I go if I am struggling in my courses? How will I be graded on my work? When are the due dates for my assignments? How can I contact my professor out of class? How to Read and Understand a Course Syllabus A course syllabus has several different parts to it. At a first glance, a course syllabus may seem overwhelming, but be assured that it is actually a very easy to read document. Below you will find a list of sections you will commonly see your course syllabus, the type of information found in each of those sections, and how that information can be important to your success in the course.  "
 },
 {
   "id": "backmatter-2",
