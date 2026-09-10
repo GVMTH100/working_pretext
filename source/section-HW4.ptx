@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="HW4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework Set 4</title>
+  <page>
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+  <exercise xml:id="exer-walking-22">
+      <introduction>
+        <p>
+          One mile equals 2000 average steps while walking. If you walk at a rate of 3 miles per hour, you will average 100 steps per minute.
+        </p>
+      </introduction>
+
+      <task xml:id="exer22-2a">
+        <statement>
+          <p>
+            Fill in the table below.
+          </p>
+          
+            <tabular left="minor" halign="center">
+              <col top="minor"/>
+              <col top="minor"/>
+              <row bottom="minor" header="yes">
+                <cell right="minor">Number of minutes</cell>
+                <cell right="minor">Number of steps taken</cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">1</cell>
+                <cell right="minor">100</cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">10</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">20</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">30</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">40</cell>
+                <cell right="minor"></cell>
+              </row>
+
+            </tabular>
+          
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            Plot the number of minutes versus the number of steps taken. Indicate the scales and titles for each axis.
+          </p>
+          <image source="BlankGrid10.png" width="60%">
+            <shortdescription>A blank grid for graphing</shortdescription>
+          </image>
+        </statement>
+      </task>
+
+    </exercise>
+</page>
+
+<page>
+
+    <exercise xml:id="exer-wages-22">
+      <introduction>
+        <p>
+          As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work <m>h</m> hours? 
+        </p>
+      </introduction>
+
+      <task xml:id="exer22-3a">
+        <statement>
+          <p>
+            Fill in the table below.
+          </p>
+          
+            <tabular left="minor" halign="center">
+              <col top="minor"/>
+              <col top="minor"/>
+              <row bottom="minor" header="yes">
+                <cell right="minor">Hours worked</cell>
+                <cell right="minor">Amount earned</cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">1</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">10</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">20</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">30</cell>
+                <cell right="minor"></cell>
+              </row>
+              <row bottom="minor">
+                <cell right="minor">40</cell>
+                <cell right="minor"></cell>
+              </row>
+
+            </tabular>
+         
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.
+          </p>
+          <image source="BlankGrid10.png" width="60%">
+            <shortdescription>A blank grid for graphing</shortdescription>
+          </image>
+        </statement>
+      </task>
+      
+    </exercise>
+
+</page>
+
+    <exercise>
+      <introduction>
+        <p>
+          The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: <url href="https://www.bts.gov/content/average-fuel-efficiency-us-passenger-cars-and-light-trucks" visual="bts.gov/content/average-fuel-efficiency-us-passenger-cars-and-light-trucks">Bureau of Transportation Statistics</url>, retrieved 4/21/20.))
+        </p>
+        <image source="fuel-eff" width="50%">
+            <description>
+                <p>
+                   Data presented is fuel efficiency rating in miles per gallon for a given year.
+                   In 1995 fuel efficiency was 28.7 miles per gallon. 
+                   In 2000 fuel efficiency was 28.5 miles per gallon.
+                   In 2005 fuel efficiency was 30.3 miles per gallon.
+                   In 2010 fuel efficiency was 33.9 miles per gallon.
+                   In 2015 fuel efficiency was 37.2 miles per gallon.
+                </p>
+            </description>
+          </image>
+        
+      </introduction>
+
+      <task xml:id="exer-fuel-a">
+        <statement>
+          <p>
+            Fill in the table with the data from the figure above adjusting the start year as years from 1995.
+          </p>
+          
+            <tabular left="minor" top="minor" halign="center">
+              <row header="yes" bottom="minor">
+                <cell right="minor">Year</cell>
+                <cell right="minor">Adjusted year, <m>x</m></cell>
+                <cell right="minor">Fuel efficiency in mpg</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">1995</cell>
+                <cell right="minor">0</cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2000</cell>
+                <cell right="minor">5</cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2005</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2010</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2015</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+            </tabular>
+          
+        </statement>
+      </task>
+    
+
+      <task>
+        <statement>
+          <p>
+            Plot the data, Adjusted Year versus Average Fuel Efficiency.
+          </p>
+          <image source="BlankGrid10.png" width="60%">
+            <shortdescription>A blank grid for graphing</shortdescription>
+          </image>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both <m>x</m> and <m>y</m>-scales and other pertinent aspects of accurate graphs.
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+
+
+    <exercise>
+      <introduction>
+        <p>
+          The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.
+        </p>
+       
+          <image source="life-expect" width="50%">
+            <description><p>
+                The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years.
+                In 2016 life expectancy was 78.8 years.
+                In 1970 life expectancy was 70.8 years.
+                In 1980 life expectancy was 73.6 years.
+                In 1990 life expectancy was 75.2 years.
+                In 2000 life expectancy was 76.6 years.
+                In 2010 life expectancy was 78.5 years.
+            </p></description>
+          </image>
+       
+      </introduction>
+
+      <task xml:id="exer-life-a">
+        <statement>
+          <p>
+            Create a table for the data in the figure. Let years since 1960 be the independent variable.
+          </p>
+
+          <tabular left="minor" top="minor" halign="center">
+              <row header="yes" bottom="minor">
+                <cell right="minor">Year</cell>
+                <cell right="minor">Adjusted year, <m>x</m></cell>
+                <cell right="minor">Life Expectancy</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">1960</cell>
+                <cell right="minor">0</cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">1970</cell>
+                <cell right="minor">10</cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">1980</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">1990</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2000</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">2010</cell>
+                <cell right="minor"></cell>
+                <cell right="minor"><nbsp/></cell>
+              </row>
+            </tabular>
+        </statement>
+      </task>
+
+
+       <task>
+        <statement>
+          <p>
+            Plot the data, adjusted year vs. Years of life expectancy at birth.
+          </p>
+          <image source="BlankGrid10.png" width="60%">
+            <shortdescription>A blank grid for graphing</shortdescription>
+          </image>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Is the figure accurate for the set of data? Why or why not?
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    <exercise>
+        <p>
+            Choose one of the graphs from the previous exercises and recreate the graph in Desmos.  Be sure to adjust the scale on Desmos to match your homework graph.  
+            Print a copy of the graph and include it with your work.  You can find the option to print a graph by clicking the share graph button.
+        </p>
+        <image source="sharebutton.png" width="5%">
+            <shortdescription>Share graph icon</shortdescription>
+        </image>
+    </exercise>
+
+</worksheet>
