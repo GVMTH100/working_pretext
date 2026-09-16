@@ -42,41 +42,15 @@
         
       </statement>
     </exercise>  
-  <exercise xml:id="HW3E">
-      <statement>
-        <p>
-          Simplify each of the following expressions by combining like terms.   
-        </p>
+    <exercise workspace="0.5in">
+      <p>
+        Generalize the solutions to the polygon puzzle by labeling the upper left circle as <m>p</m> and writing all other circles in terms of <m>p</m>.
+      </p>
+      <image source="hexpuzzle.png" width="40%">
+        <shortdescription>A hexagon puzzle with sides 7, 9, 8, 4, 6, and 8 going clockwise</shortdescription>
         
+      </image>
       
-      <task workspace="0.25in">
-        <statement>
-          <p>
-            <m>3x^2+5x-4+2(3x+1)</m>
-          </p>
-        </statement>
-      </task>
-      <task workspace="0.25in">
-        <statement>
-          <p>
-            <m>-x^2+8x+2+2x^2-8x+9</m>
-          </p>
-        </statement>
-      </task>
-      <task workspace="0.25in">
-        <statement>
-          <p>
-            <m>2(x+4)+5x-3x^2+7</m>
-          </p>
-        </statement>
-      </task>
-      <task workspace="0.25in">
-        <statement>
-          <p>
-            <m>3x+4y-2+5x-9y+7</m>
-          </p>
-        </statement>
-      </task>
-      </statement>
-    </exercise>  
+    </exercise>
+  
 </worksheet>
