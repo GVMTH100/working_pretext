@@ -484,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Set 3",
-  "body": " Homework Set 3    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Write an expression to represent the sum of a number and its square.      Write an expression to represent the sum of three consecutive even numbers. Simplify your answer by combining like terms.      Write an expression to represent the product of three consecutive numbers.      Write an expression to represent the sum of a number and twice the number.      Simplify each of the following expressions by combining like terms.                                "
+  "body": " Homework Set 3    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Write an expression to represent the sum of a number and its square.      Write an expression to represent the sum of three consecutive even numbers. Simplify your answer by combining like terms.      Write an expression to represent the product of three consecutive numbers.      Write an expression to represent the sum of a number and twice the number.     Generalize the solutions to the polygon puzzle by labeling the upper left circle as and writing all other circles in terms of .   A hexagon puzzle with sides 7, 9, 8, 4, 6, and 8 going clockwise    "
 },
 {
   "id": "HW3A",
@@ -523,13 +523,13 @@ var ptx_lunr_docs = [
   "body": "  Write an expression to represent the sum of a number and twice the number.   "
 },
 {
-  "id": "HW3E",
+  "id": "CH-Homework-4-7",
   "level": "2",
-  "url": "CH-Homework-4.html#HW3E",
+  "url": "CH-Homework-4.html#CH-Homework-4-7",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  Simplify each of the following expressions by combining like terms.                               "
+  "body": " Generalize the solutions to the polygon puzzle by labeling the upper left circle as and writing all other circles in terms of .   A hexagon puzzle with sides 7, 9, 8, 4, 6, and 8 going clockwise   "
 },
 {
   "id": "HW4",
@@ -538,12 +538,30 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Set 4",
-  "body": " Homework Set 4     Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     One mile equals 2000 average steps while walking. If you walk at a rate of 3 miles per hour, you will average 100 steps per minute.     Fill in the table below.      Number of minutes  Number of steps taken    1  100    10     20     30     40         Plot the number of minutes versus the number of steps taken. Indicate the scales and titles for each axis.   A blank grid for graphing          As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work hours?     Fill in the table below.      Hours worked  Amount earned    1     10     20     30     40         Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.   A blank grid for graphing         The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: Bureau of Transportation Statistics , retrieved 4\/21\/20.))    Data presented is fuel efficiency rating in miles per gallon for a given year. In 1995 fuel efficiency was 28.7 miles per gallon. In 2000 fuel efficiency was 28.5 miles per gallon. In 2005 fuel efficiency was 30.3 miles per gallon. In 2010 fuel efficiency was 33.9 miles per gallon. In 2015 fuel efficiency was 37.2 miles per gallon.       Fill in the table with the data from the figure above adjusting the start year as years from 1995.    Year  Adjusted year,  Fuel efficiency in mpg    1995  0     2000  5     2005      2010      2015          Plot the data, Adjusted Year versus Average Fuel Efficiency.   A blank grid for graphing       Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both and -scales and other pertinent aspects of accurate graphs.       The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.   The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years. In 2016 life expectancy was 78.8 years. In 1970 life expectancy was 70.8 years. In 1980 life expectancy was 73.6 years. In 1990 life expectancy was 75.2 years. In 2000 life expectancy was 76.6 years. In 2010 life expectancy was 78.5 years.      Create a table for the data in the figure. Let years since 1960 be the independent variable.    Year  Adjusted year,  Life Expectancy    1960  0     1970  10     1980      1990      2000      2010          Plot the data, adjusted year vs. Years of life expectancy at birth.   A blank grid for graphing       Is the figure accurate for the set of data? Why or why not?      Choose one of the graphs from the previous exercises and recreate the graph in Desmos. Be sure to adjust the scale on Desmos to match your homework graph. Print a copy of the graph and include it with your work. You can find the option to print a graph by clicking the share graph button.   Share graph icon    "
+  "body": " Homework Set 4    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Simplify each of the following expressions by combining like terms.                                       "
+},
+{
+  "id": "HW3E",
+  "level": "2",
+  "url": "HW4.html#HW3E",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Simplify each of the following expressions by combining like terms.                                      "
+},
+{
+  "id": "HW5",
+  "level": "1",
+  "url": "HW5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 5",
+  "body": " Homework Set 5     Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     One mile equals 2000 average steps while walking. If you walk at a rate of 3 miles per hour, you will average 100 steps per minute.     Fill in the table below.      Number of minutes  Number of steps taken    1  100    10     20     30     40         Plot the number of minutes versus the number of steps taken. Indicate the scales and titles for each axis.   A blank grid for graphing          As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work hours?     Fill in the table below.      Hours worked  Amount earned    1     10     20     30     40         Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.   A blank grid for graphing         The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: Bureau of Transportation Statistics , retrieved 4\/21\/20.))    Data presented is fuel efficiency rating in miles per gallon for a given year. In 1995 fuel efficiency was 28.7 miles per gallon. In 2000 fuel efficiency was 28.5 miles per gallon. In 2005 fuel efficiency was 30.3 miles per gallon. In 2010 fuel efficiency was 33.9 miles per gallon. In 2015 fuel efficiency was 37.2 miles per gallon.       Fill in the table with the data from the figure above adjusting the start year as years from 1995.    Year  Adjusted year,  Fuel efficiency in mpg    1995  0     2000  5     2005      2010      2015          Plot the data, Adjusted Year versus Average Fuel Efficiency.   A blank grid for graphing       Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both and -scales and other pertinent aspects of accurate graphs.       The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.   The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years. In 2016 life expectancy was 78.8 years. In 1970 life expectancy was 70.8 years. In 1980 life expectancy was 73.6 years. In 1990 life expectancy was 75.2 years. In 2000 life expectancy was 76.6 years. In 2010 life expectancy was 78.5 years.      Create a table for the data in the figure. Let years since 1960 be the independent variable.    Year  Adjusted year,  Life Expectancy    1960  0     1970  10     1980      1990      2000      2010          Plot the data, adjusted year vs. Years of life expectancy at birth.   A blank grid for graphing       Is the figure accurate for the set of data? Why or why not?      Choose one of the graphs from the previous exercises and recreate the graph in Desmos. Be sure to adjust the scale on Desmos to match your homework graph. Print a copy of the graph and include it with your work. You can find the option to print a graph by clicking the share graph button.   Share graph icon    "
 },
 {
   "id": "exer-walking-22",
   "level": "2",
-  "url": "HW4.html#exer-walking-22",
+  "url": "HW5.html#exer-walking-22",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
@@ -552,34 +570,34 @@ var ptx_lunr_docs = [
 {
   "id": "exer-wages-22",
   "level": "2",
-  "url": "HW4.html#exer-wages-22",
+  "url": "HW5.html#exer-wages-22",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  As of January 1, 2020, the minimum wage for non-tipped employees in Michigan is $9.65 per hour. How much will you earn if you work hours?     Fill in the table below.      Hours worked  Amount earned    1     10     20     30     40         Plot the number of hours worked versus the amount earned. Indicate the scales and titles for each axis.   A blank grid for graphing     "
 },
 {
-  "id": "HW4-4",
+  "id": "HW5-4",
   "level": "2",
-  "url": "HW4.html#HW4-4",
+  "url": "HW5.html#HW5-4",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  The figure below presents information about the average fuel efficiency in miles per gallon for a new car in the year shown. (Resource: Bureau of Transportation Statistics , retrieved 4\/21\/20.))    Data presented is fuel efficiency rating in miles per gallon for a given year. In 1995 fuel efficiency was 28.7 miles per gallon. In 2000 fuel efficiency was 28.5 miles per gallon. In 2005 fuel efficiency was 30.3 miles per gallon. In 2010 fuel efficiency was 33.9 miles per gallon. In 2015 fuel efficiency was 37.2 miles per gallon.       Fill in the table with the data from the figure above adjusting the start year as years from 1995.    Year  Adjusted year,  Fuel efficiency in mpg    1995  0     2000  5     2005      2010      2015          Plot the data, Adjusted Year versus Average Fuel Efficiency.   A blank grid for graphing       Does the presented figure accurately represent the data you've graphed? Why or why not? Discuss both and -scales and other pertinent aspects of accurate graphs.    "
 },
 {
-  "id": "HW4-5",
+  "id": "HW5-5",
   "level": "2",
-  "url": "HW4.html#HW4-5",
+  "url": "HW5.html#HW5-5",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
   "body": "  The figure below presents life expectancy for selected years. Life expectancy at birth indicates the number of years a newborn would live if prevailing patterns of mortality at the time of birth stay the same throughout life.   The figure presents the following life expectancy figures. In 1960 life expectancy was 69.8 years. In 2016 life expectancy was 78.8 years. In 1970 life expectancy was 70.8 years. In 1980 life expectancy was 73.6 years. In 1990 life expectancy was 75.2 years. In 2000 life expectancy was 76.6 years. In 2010 life expectancy was 78.5 years.      Create a table for the data in the figure. Let years since 1960 be the independent variable.    Year  Adjusted year,  Life Expectancy    1960  0     1970  10     1980      1990      2000      2010          Plot the data, adjusted year vs. Years of life expectancy at birth.   A blank grid for graphing       Is the figure accurate for the set of data? Why or why not?    "
 },
 {
-  "id": "HW4-6",
+  "id": "HW5-6",
   "level": "2",
-  "url": "HW4.html#HW4-6",
+  "url": "HW5.html#HW5-6",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
@@ -899,6 +917,96 @@ var ptx_lunr_docs = [
   "number": "4",
   "title": "",
   "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "QuizReview2",
+  "level": "1",
+  "url": "QuizReview2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Quiz 2 Review",
+  "body": " Quiz 2 Review     The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)        You will also have the option to reattempt either BSO1 or BSO2 if you want. See review 1 for practice problems on these learning targets.       Simplify the following expressions.                                                                            Simplify the following expressions.                                                              Simplify the following expressions.                                                                  Consider the following table which lists the even numbers from 0 to .    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the sum of three consecutive numbers.         Write an expression for the product of three consecutive even numbers.         Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.     "
+},
+{
+  "id": "QuizReview2-2",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)        You will also have the option to reattempt either BSO1 or BSO2 if you want. See review 1 for practice problems on these learning targets.    "
+},
+{
+  "id": "QuizReview2-3",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Simplify the following expressions.                                                                         "
+},
+{
+  "id": "QuizReview2-4",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Simplify the following expressions.                                                           "
+},
+{
+  "id": "QuizReview2-5",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Simplify the following expressions.                                                               "
+},
+{
+  "id": "QuizReview2-6",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Consider the following table which lists the even numbers from 0 to .    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+},
+{
+  "id": "QuizReview2-7",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Write an expression for the sum of three consecutive numbers.       "
+},
+{
+  "id": "QuizReview2-8",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Write an expression for the product of three consecutive even numbers.       "
+},
+{
+  "id": "QuizReview2-9",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    "
+},
+{
+  "id": "QuizReview2-10",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    "
 },
 {
   "id": "CH-Course-2",
