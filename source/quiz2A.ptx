@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="quiz1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 2A</title>
+  <objectives>
+    <ul>
+        <li>
+            <p>
+                <alert>BSO #1:</alert> I can identify and describe a visual pattern in words.
+
+            </p>
+        </li>
+    </ul>
+  </objectives>
+  
+
+  <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_quiz1A.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of drops following sequence 8, 13, 19, 26. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows an increasing number of dots with the final column of one step being replaced by two columns
+                with one more dot in each in the next step.  For the fifth step we would expect that the final column of 
+                step 4 is replaced with 2 columns each containing 7 dots. 
+            </p>
+            <image source="VP_quiz1Aa.png" width="40%">
+                <shortdescription>An arrangement of 34 dots.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_quiz1B.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of stacked squares following sequence 1, 3, 6, 10. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows an increasing stack of blocks with each new row containing one more block than
+                in the previous step.  We would expect the fifth step to include the stack from step 4 sitting
+                on a fifth row with 5 blocks.
+            </p>
+            <image source="VP_quiz1Ba.png" width="40%">
+                <shortdescription>A stack of 15 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    
+
+</worksheet>

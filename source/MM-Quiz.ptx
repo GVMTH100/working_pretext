@@ -1,6 +1,219 @@
 <worksheet xml:id="MMQuiz">
     <title>Mathematical Mindset 3 - Quiz Reflection</title>
-    
-    
+    <introduction>
+        <p>
+            After a quiz, it is important to review what went well and what didn't, what you learned, and what type of mistakes you
+            made.  Reflect on the your quiz performance by answering the following questions.  
+        </p>
+        <p>
+            <alert>Quiz Prep</alert>
+        </p>
+     </introduction>
+
+    <exercise>
+        <p>
+            On a scale of 1-10, how prepared did you feel going into the quiz?
+        </p>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+             How long before the quiz did you start studying?
+        </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    From that date to the quiz, about how many hours did you study?
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Did you use a planner/calendar to space out your studying?
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    On average, for how long did you study at any one give time?
+                </p>
+            </statement>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                Reflect on your study habits and the space(s) where you studied for the quiz.  
+            </p>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Is there anything that stands out as problematic (distractions, messy space, etc.) that you might want to address before the next quiz? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Is there anything about your habits and space that you are proud of or that you think made your studying more effective?
+                </p>
+            </statement>
+        </task>
+        
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                Which study strategies and/or resources did you use? Indicate an estimate of the amount or percentage of time spent doing each. 
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    Attending all lectures and being engaged
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Reviewing lecture notes
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Re-doing homework problems
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Working new problems (unassigned, online, etc.)
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Completing the quiz review
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Study group/collaboration
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Academic tutoring
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Going to office hours
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Using concept maps and other visualizations
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Other strategies
+                </p>
+            </statement>
+        </task>
+        
+    </exercise>
+    <exercise workspace="0.25in">
+        <p>
+            Did you spend more or less time on specific content/concepts? Did that impact your level of comfort or confidence with those topics.
+        </p>
+    </exercise>
+
+    <p>
+        <alert>The Quiz</alert>
+    </p>
+
+    <exercise workspace="0.25in">
+        <p>
+             Review any questions you got wrong and consider why. Here is a (non-exhaustive) list of some potential reasons:  
+            </p>
+        <ul>
+            <li>Misunderstood the question</li>
+            <li>Didn't know the material/concept well enough</li>
+            <li>Difficulty applying a concept in a new context</li>
+            <li>Overthought the question/thought it was a trick question</li>
+            <li>Didn't know where to start</li>
+            <li>Careless mistake</li>
+            <li>Rushed through the problem/ran out of time</li>
+        </ul>
+    </exercise>
+    <exercise workspace="0.25in">
+        <p>
+            Do you notice any patterns to where you lost points?
+        </p>
+    </exercise>
+    <exercise workspace="0.25in">
+       <p>
+        How does your actual grade compare with your expected grade? To what would you attribute that difference, if any?
+       </p>
+    </exercise>
+    <p>
+        <alert>The next quiz</alert>
+    </p>
+    <exercise workspace="0.25in">
+        <p>
+           What is/are your goal(s) for the next quiz? Be specific.
+        </p>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+             Take a look back at the study strategies and habits that you noted above:  
+            </p>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                  How do you learn best? How can you better implement that moving forward? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Which past practices were effective and should be continued to achieve your goal? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Which are problematic and need to be modified or abandoned to achieve your goal? 
+                </p>
+            </statement>
+        </task>
+    </exercise>
 </worksheet>
 

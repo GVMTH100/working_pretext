@@ -1,0 +1,207 @@
+<worksheet xml:id="ws-lines">
+    <title>Equations of lines</title>
+ 
+    <example>
+    <title>Pricing Pizzas</title>
+    <introduction>
+      <p>
+        Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          Complete the table below.   
+        </p>
+        
+          <tabular halign="center" top="minor" left="minor">
+            <row header="yes" bottom="minor">
+              <cell right="minor">Description</cell>
+              <cell right="minor">individual</cell>
+              <cell right="minor">small</cell>
+              <cell right="minor">medium</cell>
+              <cell right="minor">large</cell>
+              <cell right="minor">extra large</cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor">Diameter of pizza</cell>
+              <cell right="minor">10 inches</cell>
+              <cell right="minor">12 inches</cell>
+              <cell right="minor">14 inches</cell>
+              <cell right="minor">16 inches</cell>
+              <cell right="minor">18 inches</cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of Plain</line><line>Cheese Pizza</line></cell>
+              <cell right="minor">10.49</cell>
+              <cell right="minor">11.49</cell>
+              <cell right="minor">13.49</cell>
+              <cell right="minor">14.49</cell>
+              <cell right="minor">14.99</cell>
+            </row>
+
+            <row bottom="major">
+              <cell right="minor"><line>Cost of one</line><line>topping on pizza</line></cell>
+              <cell right="minor">1.25</cell>
+              <cell right="minor">1.50</cell>
+              <cell right="minor">1.75</cell>
+              <cell right="minor">2.00</cell>
+              <cell right="minor">2.25</cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of</line><line>Cheese Pizza</line><line>with 1 topping</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of</line><line>Cheese Pizza</line><line>with 2 toppings</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of</line><line>Cheese Pizza</line><line>with 3 toppings</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of</line><line>Cheese Pizza</line><line>with 4 toppings</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price of</line><line>Cheese Pizza</line><line>with 5 toppings</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+
+            <row bottom="minor">
+              <cell right="minor"><line>Price, <m>P</m>, of</line><line>Cheese Pizza</line><line>with <m>t</m> toppings (equation)</line></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+              <cell right="minor"><nbsp/></cell>
+            </row>
+          </tabular>
+        
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          For each type of pizza, find an equation that gives the price of a pizza with <m>t</m> toppings. Write the equation in the last row of the table above.
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.25in">
+      <statement>
+        <p>
+          Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?
+        </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.25in">
+     
+        <statement>
+          <p>
+            Which graph is the steepest? What is the slope of the steepest graph?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How does the slope show up in the table?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How does the slope show up in the equation?
+          </p>
+        </statement>
+      </task>
+    
+
+    
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            Which graph has the largest <m>y</m>-intercept?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you tell the <m>y</m>-intercept from the graph?
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement workspace="0.25in">
+          <p>
+            How can you tell the <m>y</m>-intercept from the table?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you tell the <m>y</m>-intercept from the equation?
+          </p>
+        </statement>
+      </task>
+    
+
+    <task>
+        <statement>
+          <p>
+            The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?  
+          </p>
+        </statement>
+      </task>
+
+      
+    </example>
+</worksheet>

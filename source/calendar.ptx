@@ -24,7 +24,16 @@
                 <line>Assign Motivation/Procrastination reading</line>
                 <line><alert>DUE:</alert> Mathematical Mindset #1</line>
             </cell>
-            <cell></cell>
+            <cell>
+            <line>Examples 6 -8</line></cell>
+        </row>
+        <row>
+            <cell>Week 3</cell>
+            <cell>
+            <line>Examples 9 - 12</line>
+            <line><alert>DUE: </alert>Homework Set 1</line></cell>
+            <cell><line>Examples 13 - 16a</line>
+            <line><alert>DUE:</alert> Mathematical Mindset 2</line></cell>
         </row>
     </tabular>
 </introduction>
