@@ -370,6 +370,24 @@ var ptx_lunr_docs = [
   "body": " Slopes and Tree Trunks   Near the Calder Plaza in downtown Grand Rapids, Michigan a stand of trees is planted in a 5 by 5 grid as shown below. Each green dot represents the location of a tree. The trunks of the trees are uniform in size. All of the trunks are straight and perpendicular to the ground.   Explained in the preceding paragraph      The line of sight from the origin to the trees with coordinates (1, 1), (2, 2), (3, 3), (4, 4), and (5, 5) is shown. Which of these tree trunks can you see if you are standing at the origin, (0, 0)? Why do you think so?      Other than the tree trunks in Row 1 and Column 1, which tree trunks can you see if you are standing at the origin? Why do you think these tree trunks are visible?      What is the slope of the line of sight from the origin (0, 0) to the tree trunk at point (4, 2)? What other tree trunks are along this line of sight? How do you know?      At what point on one of the axes would you have to be standing in order for the tree trunks at points (2, 5) and (1, 3) to be on the same line of sight? What is the slope of this line of sight? What do you think the equation of this line of site is? Why do you think so?      Draw a line of sight through point (2, 0) parallel to the line you found in the previous question. What trees are along this line of sight? Find the slope of this equation.      How are the slopes of these two lines related?    "
 },
 {
+  "id": "ws-lines",
+  "level": "1",
+  "url": "ws-lines.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Equations of lines",
+  "body": " Equations of lines   Pricing Pizzas   Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?     Complete the table below.    Description  individual  small  medium  large  extra large    Diameter of pizza  10 inches  12 inches  14 inches  16 inches  18 inches    Price of Plain Cheese Pizza  10.49  11.49  13.49  14.49  14.99    Cost of one topping on pizza  1.25  1.50  1.75  2.00  2.25    Price of Cheese Pizza with 1 topping         Price of Cheese Pizza with 2 toppings         Price of Cheese Pizza with 3 toppings         Price of Cheese Pizza with 4 toppings         Price of Cheese Pizza with 5 toppings         Price, , of Cheese Pizza with toppings (equation)             For each type of pizza, find an equation that gives the price of a pizza with toppings. Write the equation in the last row of the table above.      Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?      Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?      Which graph is the steepest? What is the slope of the steepest graph?      How does the slope show up in the table?      How does the slope show up in the equation?      Which graph has the largest -intercept?      How can you tell the -intercept from the graph?      How can you tell the -intercept from the table?      How can you tell the -intercept from the equation?      The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?     "
+},
+{
+  "id": "ws-lines-2",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-2",
+  "type": "Example",
+  "number": "31",
+  "title": "Pricing Pizzas.",
+  "body": " Pricing Pizzas   Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?     Complete the table below.    Description  individual  small  medium  large  extra large    Diameter of pizza  10 inches  12 inches  14 inches  16 inches  18 inches    Price of Plain Cheese Pizza  10.49  11.49  13.49  14.49  14.99    Cost of one topping on pizza  1.25  1.50  1.75  2.00  2.25    Price of Cheese Pizza with 1 topping         Price of Cheese Pizza with 2 toppings         Price of Cheese Pizza with 3 toppings         Price of Cheese Pizza with 4 toppings         Price of Cheese Pizza with 5 toppings         Price, , of Cheese Pizza with toppings (equation)             For each type of pizza, find an equation that gives the price of a pizza with toppings. Write the equation in the last row of the table above.      Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?      Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?      Which graph is the steepest? What is the slope of the steepest graph?      How does the slope show up in the table?      How does the slope show up in the equation?      Which graph has the largest -intercept?      How can you tell the -intercept from the graph?      How can you tell the -intercept from the table?      How can you tell the -intercept from the equation?      The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?    "
+},
+{
   "id": "CH-Homework-2",
   "level": "1",
   "url": "CH-Homework-2.html",
@@ -748,6 +766,105 @@ var ptx_lunr_docs = [
   "body": " Find the product of and Explain how the following visual representation helps us understand the meaning of    A pie with 1\/3 shaded green. Two thirds of the shaded region is shaded a darker color.   "
 },
 {
+  "id": "MMQuiz",
+  "level": "1",
+  "url": "MMQuiz.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Mathematical Mindset 3 - Quiz Reflection",
+  "body": " Mathematical Mindset 3 - Quiz Reflection   After a quiz, it is important to review what went well and what didn't, what you learned, and what type of mistakes you made. Reflect on the your quiz performance by answering the following questions.   Quiz Prep     On a scale of 1-10, how prepared did you feel going into the quiz?     How long before the quiz did you start studying?     From that date to the quiz, about how many hours did you study?      Did you use a planner\/calendar to space out your studying?      On average, for how long did you study at any one give time?       Reflect on your study habits and the space(s) where you studied for the quiz.     Is there anything that stands out as problematic (distractions, messy space, etc.) that you might want to address before the next quiz?      Is there anything about your habits and space that you are proud of or that you think made your studying more effective?       Which study strategies and\/or resources did you use? Indicate an estimate of the amount or percentage of time spent doing each.     Attending all lectures and being engaged      Reviewing lecture notes      Re-doing homework problems      Working new problems (unassigned, online, etc.)      Completing the quiz review      Study group\/collaboration      Academic tutoring      Going to office hours      Using concept maps and other visualizations      Other strategies      Did you spend more or less time on specific content\/concepts? Did that impact your level of comfort or confidence with those topics.    The Quiz    Review any questions you got wrong and consider why. Here is a (non-exhaustive) list of some potential reasons:   Misunderstood the question  Didn't know the material\/concept well enough  Difficulty applying a concept in a new context  Overthought the question\/thought it was a trick question  Didn't know where to start  Careless mistake  Rushed through the problem\/ran out of time     Do you notice any patterns to where you lost points?    How does your actual grade compare with your expected grade? To what would you attribute that difference, if any?    The next quiz    What is\/are your goal(s) for the next quiz? Be specific.     Take a look back at the study strategies and habits that you noted above:     How do you learn best? How can you better implement that moving forward?      Which past practices were effective and should be continued to achieve your goal?      Which are problematic and need to be modified or abandoned to achieve your goal?     "
+},
+{
+  "id": "MMQuiz-3",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " On a scale of 1-10, how prepared did you feel going into the quiz?  "
+},
+{
+  "id": "MMQuiz-4",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  How long before the quiz did you start studying?     From that date to the quiz, about how many hours did you study?      Did you use a planner\/calendar to space out your studying?      On average, for how long did you study at any one give time?    "
+},
+{
+  "id": "MMQuiz-5",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Reflect on your study habits and the space(s) where you studied for the quiz.     Is there anything that stands out as problematic (distractions, messy space, etc.) that you might want to address before the next quiz?      Is there anything about your habits and space that you are proud of or that you think made your studying more effective?    "
+},
+{
+  "id": "MMQuiz-6",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Which study strategies and\/or resources did you use? Indicate an estimate of the amount or percentage of time spent doing each.     Attending all lectures and being engaged      Reviewing lecture notes      Re-doing homework problems      Working new problems (unassigned, online, etc.)      Completing the quiz review      Study group\/collaboration      Academic tutoring      Going to office hours      Using concept maps and other visualizations      Other strategies    "
+},
+{
+  "id": "MMQuiz-7",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Did you spend more or less time on specific content\/concepts? Did that impact your level of comfort or confidence with those topics.  "
+},
+{
+  "id": "MMQuiz-9",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Review any questions you got wrong and consider why. Here is a (non-exhaustive) list of some potential reasons:   Misunderstood the question  Didn't know the material\/concept well enough  Difficulty applying a concept in a new context  Overthought the question\/thought it was a trick question  Didn't know where to start  Careless mistake  Rushed through the problem\/ran out of time   "
+},
+{
+  "id": "MMQuiz-10",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-10",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Do you notice any patterns to where you lost points?  "
+},
+{
+  "id": "MMQuiz-11",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-11",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " How does your actual grade compare with your expected grade? To what would you attribute that difference, if any?  "
+},
+{
+  "id": "MMQuiz-13",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-13",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " What is\/are your goal(s) for the next quiz? Be specific.  "
+},
+{
+  "id": "MMQuiz-14",
+  "level": "2",
+  "url": "MMQuiz.html#MMQuiz-14",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "  Take a look back at the study strategies and habits that you noted above:     How do you learn best? How can you better implement that moving forward?      Which past practices were effective and should be continued to achieve your goal?      Which are problematic and need to be modified or abandoned to achieve your goal?    "
+},
+{
   "id": "QuizReview1",
   "level": "1",
   "url": "QuizReview1.html",
@@ -925,7 +1042,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Quiz 2 Review",
-  "body": " Quiz 2 Review     The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)        You will also have the option to reattempt either BSO1 or BSO2 if you want. See review 1 for practice problems on these learning targets.       Simplify the following expressions.                                                                            Simplify the following expressions.                                                              Simplify the following expressions.                                                                  Consider the following table which lists the even numbers from 0 to .    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the sum of three consecutive numbers.         Write an expression for the product of three consecutive even numbers.         Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.     "
+  "body": " Quiz 2 Review     The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)         BOS2: I can properly apply the order of operations to evaluate a numerical expression. (1.4, 1.5)        Simplify the following expressions.                                                                            Simplify the following expressions.                                                              Simplify the following expressions.                                                                  Consider the following table which lists the even numbers from 0 to 96.    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the sum of three consecutive numbers.         Write an expression for the product of three consecutive even numbers.         Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.      Simplify the following expression using correct order of operations:                   Simplify the following expression using correct order of operations:                     Additional practice problems for order of operations can be found on the quiz 1 review.   "
 },
 {
   "id": "QuizReview2-2",
@@ -934,7 +1051,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)        You will also have the option to reattempt either BSO1 or BSO2 if you want. See review 1 for practice problems on these learning targets.    "
+  "body": "   The second quiz will contain questions on the following learning targets.    BSO3: I can simplify algebraic expressions by combining like terms. (1.6)      BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)         BOS2: I can properly apply the order of operations to evaluate a numerical expression. (1.4, 1.5)     "
 },
 {
   "id": "QuizReview2-3",
@@ -970,7 +1087,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Consider the following table which lists the even numbers from 0 to .    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+  "body": "  Consider the following table which lists the even numbers from 0 to 96.    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
   "id": "QuizReview2-7",
@@ -1009,13 +1126,112 @@ var ptx_lunr_docs = [
   "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    "
 },
 {
+  "id": "QuizReview2-11",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-11",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "QuizReview2-12",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-12",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "QuizReview2-13",
+  "level": "2",
+  "url": "QuizReview2.html#QuizReview2-13",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": " Additional practice problems for order of operations can be found on the quiz 1 review.  "
+},
+{
+  "id": "quiz2",
+  "level": "1",
+  "url": "quiz2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Quiz 2",
+  "body": " Quiz 2       BSO3: I can simplify algebraic expressions by combining like terms.     BOS4: I can identify a numerical pattern and generalize the pattern using variables.     BOS2: I can properly apply the order of operations to evaluate a numerical expression.       Simplify each of the following expressions:                              Simplify each of the following expressions:                                    Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.        Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "quiz2-2-1",
+  "level": "2",
+  "url": "quiz2.html#quiz2-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO3: I can simplify algebraic expressions by combining like terms.     BOS4: I can identify a numerical pattern and generalize the pattern using variables.     BOS2: I can properly apply the order of operations to evaluate a numerical expression.    "
+},
+{
+  "id": "quiz2-2-2",
+  "level": "2",
+  "url": "quiz2.html#quiz2-2-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                           "
+},
+{
+  "id": "quiz2-2-3",
+  "level": "2",
+  "url": "quiz2.html#quiz2-2-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                               "
+},
+{
+  "id": "quiz2-3-1",
+  "level": "2",
+  "url": "quiz2.html#quiz2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+},
+{
+  "id": "quiz2-4-1",
+  "level": "2",
+  "url": "quiz2.html#quiz2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    "
+},
+{
+  "id": "quiz2-5-1",
+  "level": "2",
+  "url": "quiz2.html#quiz2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "quiz2-5-2",
+  "level": "2",
+  "url": "quiz2.html#quiz2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
   "type": "Worksheet",
   "number": "",
   "title": "Calendar",
-  "body": " Calendar     Week  Day 1  Day 2    Week 1   Examples 1 - 2  Assign goal setting reading   Example 3  Assign mindset reading     Week 2   Examples 4 - 5  Assign Motivation\/Procrastination reading  DUE: Mathematical Mindset #1       "
+  "body": " Calendar     Week  Day 1  Day 2    Week 1   Examples 1 - 2  Assign goal setting reading   Example 3  Assign mindset reading     Week 2   Examples 4 - 5  Assign Motivation\/Procrastination reading  DUE: Mathematical Mindset #1    Examples 6 -8    Week 3   Examples 9 - 12  DUE: Homework Set 1  Examples 13 - 16a  DUE: Mathematical Mindset 2     "
 },
 {
   "id": "CH-Course-3",
