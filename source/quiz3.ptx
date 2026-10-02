@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="Quiz3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Quiz 3</title>
+<page>
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    <alert>BSO1:</alert> I can identify and describe a visual
+                    pattern in words. (2nd attempt)
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    <alert>BSO4:</alert> I can identify a numerical pattern and
+                    generalize the pattern using variables. (2nd attempt)
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    <alert>BSO5:</alert> I can translate written words into
+                    mathematical expressions.
+                </p>
+            </li>
+
+            <li>
+                <p>
+                    <alert>G1:</alert> I can create an accurate scatterplot (by
+                    hand and Desmos) given a set of data including proper labels
+                    and scale.                    
+                </p>
+            </li>
+        </ul>
+    </objectives>
+
+    <exercise workspace="0.5in">
+        <p>
+            <alert>BSO5:</alert> Write an expression for the product of 12 and the square root of a number.
+        </p>
+        <solution>
+            <p>
+                <m>12\sqrt{n}</m>
+            </p>
+        </solution>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            <alert>BSO5:</alert> Write an expression for the quotient of 10 and the sum of a number and 2.
+        </p>
+        <solution>
+            <p>
+                <m>\frac{10}{n+2}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    </page>
+    <page>
+    
+    <exercise>
+    <p>
+        <alert>G1:</alert> The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.
+    </p>
+    <sidebyside>
+    <tabular halign="center">
+        <row bottom="minor">
+            <cell>Years since 2015</cell>
+            <cell>Energy (in terawatt hours)</cell>
+        </row>
+        <row>
+            <cell>0</cell>
+            <cell>190.72</cell>
+        </row>
+        <row>
+            <cell>1</cell>
+            <cell>226.99</cell>
+        </row>
+        <row>
+            <cell>2</cell>
+            <cell>254.3</cell>
+        </row>
+        <row>
+            <cell>3</cell>
+            <cell>272.67</cell>
+        </row>
+        <row>
+            <cell>4</cell>
+            <cell>295.88</cell>
+        </row>
+        <row>
+            <cell>5</cell>
+            <cell>337.94</cell>
+        </row>
+        <row>
+            <cell>6</cell>
+            <cell>378.2</cell>
+        </row>
+        <row>
+            <cell>7</cell>
+            <cell>434.3</cell>
+        </row>
+        <row>
+            <cell>8</cell>
+            <cell>421.14</cell>
+        </row>
+        <row>
+            <cell>9</cell>
+            <cell>451.9</cell>
+        </row>
+        <row>
+            <cell>10</cell>
+            <cell>464.39</cell>
+        </row>
+        <row>
+            <cell>Source <url href="https://www.statista.com/statistics/189412/us-electricity-generation-from-wind-energy-since-2005/">statista</url></cell>
+        </row>
+        </tabular>
+        <image source="BlankGrid15.png">
+                <shortdescription>Blank Grid for graphing</shortdescription>
+            </image>
+        </sidebyside>
+        <solution>
+            <image source="quiz3graph.png" width="30%">
+                <shortdescription>Grid with the points from the table plotted</shortdescription>
+            </image>
+        </solution>
+
+    </exercise>
+    <exercise>
+        <p>
+            <alert>G1:</alert> Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in 
+            your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check
+            your graph.
+        </p>
+    </exercise>
+
+    </page>
+    <page>
+
+   <exercise>
+        <introduction>
+            <p>
+               <alert>BSO4:</alert> Consider the following table which lists the multiples of 3 from 0 to 97.
+            </p>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row>
+                    <cell>0</cell>
+                    <cell>3</cell>
+                    <cell>6</cell>
+                    <cell>9</cell>
+                    <cell>12</cell>
+                    <cell>15</cell>
+                    <cell>18</cell>
+                </row>
+                <row>
+                    <cell>21</cell>
+                    <cell>24</cell>
+                    <cell>27</cell>
+                    <cell>30</cell>
+                    <cell>33</cell>
+                    <cell>36</cell>
+                    <cell>39</cell>
+                </row>
+                <row>
+                    <cell>42</cell>
+                    <cell>45</cell>
+                    <cell>48</cell>
+                    <cell>51</cell>
+                    <cell>54</cell>
+                    <cell>57</cell>
+                    <cell>60</cell>
+                </row>
+                <row>
+                    <cell>63</cell>
+                    <cell>66</cell>
+                    <cell>69</cell>
+                    <cell>72</cell>
+                    <cell>75</cell>
+                    <cell>78</cell>
+                    <cell>81</cell>
+                </row>
+                <row>
+                    <cell>84</cell>
+                    <cell>87</cell>
+                    <cell>90</cell>
+                    <cell>93</cell>
+                    <cell>96</cell>
+                    <cell>99</cell>
+                    <cell>102</cell>
+                </row>
+                <row>
+                    <cell>105</cell>
+                    <cell>108</cell>
+                    <cell>111</cell>
+                    <cell>114</cell>
+                    <cell>117</cell>
+                    <cell>120</cell>
+                    <cell>123</cell>
+                </row>
+                <row>
+                    <cell>126</cell>
+                    <cell>129</cell>
+                    <cell>132</cell>
+                    <cell>135</cell>
+                    <cell>138</cell>
+                    <cell>141</cell>
+                    <cell>144</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Choose a number on the interior of the table and describe the pattern as you move up from that position. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move up a column of the table the values are decreasing by 21
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move down and right along a diagonal the values are increasing by 24.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move to the left. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move to the left on the table the values are decreasing by 3.  
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Choose one square from the interior of the table and replace the value with <m>n</m>. Write each of the values around this number in terms of <m>n</m>, using the patterns you described above.
+                </p>
+                <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+            </statement>
+        <solution>
+            <p>
+                <tabular left="minor" top="minor" right="minor" bottom="minor" halign="center">
+                    <row>
+                        <cell><m>n-27</m></cell>
+                        <cell><m>n-24</m></cell>
+                        <cell><m>n-21</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n-3</m></cell>
+                        <cell><m>n</m></cell>
+                        <cell><m>n+3</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+21</m></cell>
+                        <cell><m>n+24</m></cell>
+                        <cell><m>n+27</m></cell>
+                    </row>
+                </tabular>
+            </p>
+        </solution>
+        </task>
+    </exercise>
+
+    </page>
+    <page>
+    
+     <exercise workspace="1in">
+        <p>
+            <alert>BSO1:</alert> Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP4.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of squares following sequence 5,13,25,41. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest.  The rows start at length one at
+                the top and increase down to the central row by 2 each time.  The middle row is increasing by 2 at each step.  
+            </p>
+            <image source="VP4S.png" width="40%">
+                <shortdescription>An arrangement of 61 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+    <exercise workspace="1in">
+        <p>
+            <alert>BSO1:</alert> Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP5.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step.  We would expect the next pattern
+                to have arms of length 4 for a total of 17 squares. 
+            </p>
+            <image source="VP5a.png" width="40%">
+                <shortdescription>An arrangement of 17 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    </page>
+    
+    
+   
+</worksheet>

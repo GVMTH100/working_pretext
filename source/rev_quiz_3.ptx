@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="QuizReview3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Quiz 3 Review</title>
+
+    <objectives>
+        <ul>
+            <li>
+                <p>
+                    The third quiz will contain questions on the following
+                    learning targets.
+                </p>
+            </li>
+                        <li>
+                            <p>
+                                <alert>BSO1:</alert> I can identify and describe a visual pattern in words. <url href="https://gvsuoer.github.io/beckmann-textbook/S_connectmath.html">(1.3)</url>
+                                <ul>
+                                    <li>
+                                        <p>
+                                            See question 1. For additional practice problems see Review 1.
+                                        </p>
+                                    </li>
+                                </ul>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                <alert>BOS4:</alert> I can identify a numerical
+                                pattern and generalize the pattern using
+                                variables.
+                                <url href="https://gvsuoer.github.io/beckmann-textbook/S_more_patterns.html">(1.7)</url>
+                            <ul>
+                                    <li>
+                                        <p>
+                                            See questions 2-3. For additional practice problems see Review 2.
+                                        </p>
+                                    </li>
+                                </ul>
+                            </p>
+                        </li>
+                   
+               
+
+            <li>
+                <p>
+                    <alert>BOS5:</alert> I can translate written words into mathematical expressions. <url href="https://gvsuoer.github.io/beckmann-textbook/S_alg_puzz.html">(1.9)</url>
+                <ul>
+                                    <li>
+                                        <p>
+                                            See questions 4-9. 
+                                        </p>
+                                    </li>
+                                </ul>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <alert>G1:</alert> I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and
+scale. <url href="https://gvsuoer.github.io/beckmann-textbook/S_graphs_lit.html">(2.1)</url>
+                </p>
+            </li>
+        </ul>
+    </objectives>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_rev3.png" width="75%">
+            <shortdescription>A visual pattern showing stacked squares of 1, 5, 11, 19. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern a number of additional squares, equal to the step number are added to both
+                the left and right side of the pattern.  To create the fifth step of the pattern we would take the pattern
+                from step 4 and add 5 square to the left and 5 squares to the right.  
+            </p>
+            <image source="VP_rev3A.png" width="40%">
+                <shortdescription>A pattern with 29 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+     <exercise>
+        <introduction>
+            <p>
+                Consider the following table which lists the odd numbers from 1 to 97.
+            </p>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row>
+                    <cell>1</cell>
+                    <cell>3</cell>
+                    <cell>5</cell>
+                    <cell>7</cell>
+                    <cell>9</cell>
+                    <cell>11</cell>
+                    <cell>13</cell>
+                </row>
+                <row>
+                    <cell>15</cell>
+                    <cell>17</cell>
+                    <cell>19</cell>
+                    <cell>21</cell>
+                    <cell>23</cell>
+                    <cell>25</cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>29</cell>
+                    <cell>31</cell>
+                    <cell>33</cell>
+                    <cell>35</cell>
+                    <cell>37</cell>
+                    <cell>39</cell>
+                    <cell>41</cell>
+                </row>
+                <row>
+                    <cell>43</cell>
+                    <cell>45</cell>
+                    <cell>47</cell>
+                    <cell>49</cell>
+                    <cell>51</cell>
+                    <cell>53</cell>
+                    <cell>55</cell>
+                </row>
+                <row>
+                    <cell>57</cell>
+                    <cell>59</cell>
+                    <cell>61</cell>
+                    <cell>63</cell>
+                    <cell>65</cell>
+                    <cell>67</cell>
+                    <cell>69</cell>
+                </row>
+                <row>
+                    <cell>71</cell>
+                    <cell>73</cell>
+                    <cell>75</cell>
+                    <cell>77</cell>
+                    <cell>79</cell>
+                    <cell>81</cell>
+                    <cell>83</cell>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>87</cell>
+                    <cell>89</cell>
+                    <cell>91</cell>
+                    <cell>93</cell>
+                    <cell>95</cell>
+                    <cell>97</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Choose a number on the interior of the table and describe the pattern as you move up from that position. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move up a column of the table the values are decreasing by 14
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move down and right along a diagonal the values are increasing by 16.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move to the left. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move to the left on the table the values are decreasing by 2.  
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Choose one square from the interior of the table and replace the value with <m>n</m>. Write each of the values around this number in terms of <m>n</m>, using the patterns you described above.
+                </p>
+                <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+            </statement>
+        <solution>
+            <p>
+                <tabular left="minor" top="minor" right="minor" bottom="minor" halign="center">
+                    <row>
+                        <cell><m>n-16</m></cell>
+                        <cell><m>n-14</m></cell>
+                        <cell><m>n-12</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n-2</m></cell>
+                        <cell><m>n</m></cell>
+                        <cell><m>n+2</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+12</m></cell>
+                        <cell><m>n+14</m></cell>
+                        <cell><m>n+16</m></cell>
+                    </row>
+                </tabular>
+            </p>
+        </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <p>
+            Generalize the solution to this polygon puzzle by writing the upper left corner as <m>p</m>
+            and then writing the remaining vertices in terms of <m>p</m>.
+        </p>
+        <image source="puzzle_rev3.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                To find the upper right vertex we subtract <m>p</m> from 10.  
+                To find the lower left vertex we subtract <m>p</m> from 11.
+                To find the lower right vertex we can subtract <m>10-p</m> from 13.
+                <md>
+                    13-(10-p)
+                </md>
+                <md>
+                    13-10-(-p)
+                </md>
+                <md>
+                    3+p
+                </md>
+                To find the lower right vertex we could also have subtracted <m>11-p</m> from 14.
+                <md>14-(11-p)</md>
+                <md>14-11-(-p)</md>
+                <md>3+p</md>
+            </p>
+            <image source="puzzle_rev3A.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square. </shortdescription>
+        </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the sum of 4 and 2 times a number.
+        </p>
+        <solution>
+            <p>
+                <m>4+2n</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the product of 12 and the square root of a number.
+        </p>
+        <solution>
+            <p>
+                <m>12\sqrt{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the sum of three consecutive numbers.
+        </p>
+        <solution>
+            <p>
+                <m>n+(n+1)+(n+2)</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the quotient of 2 and the sum of a number and 6.
+        </p>
+        <solution>
+            <p>
+                <m>\frac{2}{n+6}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the difference of a number and its square.
+        </p>
+        <solution>
+            <p>
+                <m>n-n^2</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for difference of a number and its reciprocal. 
+        </p>
+        <solution>
+            <p>
+                <m>n+\frac{1}{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <p>
+            Create a scatter plot of the data presented.  Label your axes. Choose a suitable scale that ensures all data points 
+            are visible without leaving excessive blank space.              
+            You should be able to complete this problem both by hand and using Desmos.
+        </p>
+        <p>
+            A baby's weight during the first year of life is recorded in the table
+        </p>
+        <sidebyside>
+            <tabular halign="center">
+                <row>
+                    <cell bottom="minor">Age of baby (in months)</cell>
+                    <cell bottom="minor">Weight of baby (in pounds)</cell>
+                </row>
+                <row>
+                    <cell>0</cell>
+                    <cell>7</cell>
+                </row>
+                <row>
+                    <cell>2</cell>
+                    <cell>11</cell>
+                </row>
+                <row>
+                    <cell>4</cell>
+                    <cell>15</cell>
+                </row>
+                <row>
+                    <cell>6</cell>
+                    <cell>16</cell>
+                </row>
+                <row>
+                    <cell>8</cell>
+                    <cell>19</cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>20</cell>
+                </row>
+                <row>
+                    <cell>12</cell>
+                    <cell>21</cell>
+                </row>
+            </tabular>
+            <image source="BlankGrid15.png">
+                <shortdescription>Blank Grid for graphing</shortdescription>
+            </image>
+        </sidebyside>
+        <solution>
+            <image source="rev3_graph1.png" width="30%">
+                <shortdescription>Grid with the points from the table plotted</shortdescription>
+            </image>
+        </solution>
+
+
+    </exercise>
+
+    <exercise>
+        <p>
+            Create a scatter plot of the data presented.  Label your axes. Choose a suitable scale that ensures all data points 
+            are visible without leaving excessive blank space.              
+            You should be able to complete this problem both by hand and using Desmos.
+        </p>
+        <p>
+            A child's height, in inches, and weight, in pounds, are recorded in the table
+        </p>
+        <sidebyside>
+            <tabular halign="center">
+                <row>
+                    <cell bottom="minor">Height (in inches)</cell>
+                    <cell bottom="minor">Weight (in pounds)</cell>
+                </row>
+                <row>
+                    <cell>28</cell>
+                    <cell>22</cell>
+                </row>
+                <row>
+                    <cell>31</cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>33</cell>
+                    <cell>33</cell>
+                </row>
+                <row>
+                    <cell>37</cell>
+                    <cell>35</cell>
+                </row>
+                <row>
+                    <cell>40</cell>
+                    <cell>41</cell>
+                </row>
+                <row>
+                    <cell>42</cell>
+                    <cell>45</cell>
+                </row>
+                
+            </tabular>
+            <image source="BlankGrid15.png">
+                <shortdescription>Blank Grid for graphing</shortdescription>
+            </image>
+        </sidebyside>
+        <solution>
+            <image source="rev3_graph2.png" width="30%">
+                <shortdescription>Grid with the points from the table plotted</shortdescription>
+            </image>
+        </solution>
+
+
+    </exercise>
+
+</worksheet>

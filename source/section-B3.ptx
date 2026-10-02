@@ -1,0 +1,127 @@
+<worksheet xml:id="equations">
+    <title>Solving linear equations</title>
+<example workspace="0.5in">
+    <p>
+        Consider the visual representation of the equation <m>3x+2=8</m> shown below and explain how this helps us understand solving the equation for <m>x</m>.
+    </p>
+    <image source="polypadscale1.png">
+        <shortdescription>A visual representation of the equation 3x+2=8 using a balance scale</shortdescription>
+    </image>
+</example>
+
+<example>
+    <introduction>
+        <p>
+            Using polypad create visual representations for the following equations and then solve the equation.
+        </p>
+    </introduction>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                <m>2x+5=4</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                <m>3x+2=11</m>
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                <m>4x+2=4</m>
+            </p>
+        </statement>
+    </task>
+</example>
+<example>
+    <introduction>
+        <p>
+          Solve each equation. Show your steps one at a time. Put your solution back into the original equation and show that you are correct. If you are not correct, illustrate your work using pawns for x and cubes for constants. Use the illustration to solve the equation then revisit your algebraic work, find your error, and try again. Think about a context such as balancing a scale to help you. Be ready to convince others that your work is correct.
+        </p>
+      </introduction>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>4x + 3 = 7x</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>3x + 2 = 5x + 1</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>-4x + 3 = -x + 9</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>3x + 2 = 2 \left( x + 1 \right)</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>2 \left( x + 6 \right) = 5 \left( x - 3 \right)</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>5 \left( 7 + 4x \right) = 5 \left( 3x + 10 \right)</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>-2 \left( x - 3 \right) = - \left( x + 7 \right)</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>8 + 2x = 1.4x + 11</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>200 - 7.5x = 35</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            <m>4 \left( x - 3 \right) + 2 = 2 \left( 3x + 5 \right)</m>
+          </p>
+        </statement>
+      </task>
+</example>
+</worksheet>

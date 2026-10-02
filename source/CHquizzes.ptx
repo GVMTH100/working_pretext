@@ -8,5 +8,7 @@
   <xi:include href="quiz1.ptx" />
   <xi:include href="rev_quiz_2.ptx" />
   <xi:include href="quiz2.ptx" />
+  <xi:include href="rev_quiz_3.ptx" />
+  <xi:include href="quiz3.ptx" />
  
 </chapter>
