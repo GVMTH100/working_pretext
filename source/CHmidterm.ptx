@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Midterm" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Midterm Exam</title>
+
+  <!-- include sections -->
+  <xi:include href="MT_BSO1.ptx" />
+  <xi:include href="MT_BSO2.ptx" />
+  <xi:include href="MT_BSO3.ptx" />
+  <xi:include href="MT_full.ptx" />
+  
+  
+</chapter>
+ 

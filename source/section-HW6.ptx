@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="HW6" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework Set 6</title>
+ 
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+  <exercise>
+    <introduction>
+        <p>
+            Consider the 100-meter race between the fox (dashed line) and the squirrel (solid line) shown in the graph below. Use this 
+            information to answer the questions that follow.
+        </p>
+        <image source="foxsquirrel.png" width="40%">
+            <shortdescription>A graph of two piecewise functions</shortdescription>
+        </image>
+    </introduction>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                How much of a head start did the squirrel receive?  
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                How far does the fox run before she first catches the squirrel?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Who is winning the race at 5 seconds?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                How far does the fox run in the first 3 seconds?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Who wins the race?
+            </p>
+        </statement>
+    </task>
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Is the fox running faster at 2 seconds or 8 seconds?
+            </p>
+        </statement>
+    </task>
+  </exercise>
+
+  <exercise xml:id="ez-tandem-spherical-tank-conical-chimney">
+    <statement>
+      <p>
+        Suppose we have an unusual tank whose base is a perfect sphere, and then atop the spherical base is a cylindrical <q>chimney</q> that is a circular cylinder, as shown.  The tank is initially empty, but then a spigot is turned on that pumps water into the tank at a constant rate.
+      </p>
+      
+        <image width="30%" source="tandem-ez-chiminea"><description><p>A spherical tank with a cylindrical chimney.</p>
+        </description></image>
+      
+
+      <p>
+              On the blank axes provided below, sketch (by hand) possible graphs of how volume and time change in tandem and how height and time change in tandem.
+            </p>
+
+            <sidebyside width="40%">
+              <image source="BlankGrid10.png"><description><p>Blank Grid</p></description></image>
+              <image source="BlankGrid10.png"><description><p>Blank Grid</p></description></image>
+            </sidebyside>
+
+            
+    </statement>
+    </exercise>
+
+
+</worksheet>

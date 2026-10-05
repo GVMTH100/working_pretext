@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTFull" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Midterm Exam</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>BSO #1:</alert> I can identify and describe a visual
+                    pattern in words. 
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #2:</alert> I can properly apply the order of operations to evaluate a numerical expression. 
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #3:</alert> I can simplify algebraic expressions by combining like terms.
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #4:</alert> I can identify a numerical pattern and generalize the pattern using variables.
+                </p></li>
+                </ul>
+            
+    </objectives>
+    
+<exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_MT1.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern increases by adding a column to the left and right of the figure in the current step, with each new column
+                being one block taller than the tallest column in the existing step.  For the fifth step, we would expect to add a column of 5 blocks to 
+                the left and right of the figure in step 4.  
+            </p>
+            <image source="VP_MT1s.png" width="40%">
+                <shortdescription>An arrangement of 29 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_MT2.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                We start out with a stack of circles (1x2) and at each step we add a row and column.  For the fifth step, 
+                we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles. 
+            </p>
+            <image source="VP_MT2s.png" width="40%">
+                <shortdescription>An arrangement of 30 circles.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1.5in">
+        <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            \frac{9-4}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+           \frac{9-4}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{2}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{2}(6)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+         <md>
+            \frac{5}{2}(6)+2^2\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            \frac{5}{2}(6)+4\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            15+4\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            15+16\div2-5\cdot3
+        </md>
+        <md>
+            15+8-5\cdot3
+        </md>
+        <md>
+            15+8-15
+        </md>
+        <md>
+            23-15
+        </md>
+        <md>
+            8
+        </md>
+        </p>
+    </solution>
+    </exercise>
+    
+<exercise workspace="1.5in">
+        <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            \sqrt{4+12}-2^3\div4\cdot3+3(2-5)\div9
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            \sqrt{16}-2^3\div4\cdot3+3(2-5)\div9
+        </md>
+        <md>
+            \sqrt{16}-2^3\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-2^3\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-8\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-2\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-6+3(-3)\div9
+        </md>
+        <md>
+            4-6-9\div9
+        </md>
+        <md>
+            4-6-1
+        </md>
+        <md>
+            -2-1
+        </md>
+        <md>
+            -3
+        </md>
+        
+        </p>
+    </solution>
+    </exercise>
+
+    <exercise>
+    <introduction>
+        <p>
+            Simplify each of the following expressions:
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(5x-1)+(3x+5)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <m>8x+4</m>
+            </p>
+        </solution>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(4a-3b+7)+(-2a+5b-3)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <m>2a+2b+4</m>
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+            Simplify each of the following expressions:
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>4x^2+3x+1+2(-2x^2+4x+2)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <md>
+                    4x^2+3x+1+2(-2x^2+4x+2)
+                </md>
+                <md>
+                    4x^2+3x+1-4x^2+8x+4
+                </md>
+                <md>
+                   11x+5
+                </md>
+                
+                
+            </p>
+        </solution>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(5n+7)-(2n+9)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <md>
+                    (5n+7)-(2n+9)
+                </md>
+                <md>
+                    5n+7-2n-9
+                </md>
+                <md>
+                    3n-2
+                </md>
+                
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+        <introduction>
+            <p>
+                Consider the following table which lists the multiples of 5 from 0 to 240.
+            </p>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row>
+                    <cell>30</cell>
+                    <cell>25</cell>
+                    <cell>20</cell>
+                    <cell>15</cell>
+                    <cell>10</cell>
+                    <cell>5</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell>65</cell>
+                    <cell>60</cell>
+                    <cell>55</cell>
+                    <cell>50</cell>
+                    <cell>45</cell>
+                    <cell>40</cell>
+                    <cell>35</cell>
+                </row>
+                <row>
+                    <cell>100</cell>
+                    <cell>95</cell>
+                    <cell>90</cell>
+                    <cell>85</cell>
+                    <cell>80</cell>
+                    <cell>75</cell>
+                    <cell>70</cell>
+                </row>
+                <row>
+                    <cell>135</cell>
+                    <cell>130</cell>
+                    <cell>125</cell>
+                    <cell>120</cell>
+                    <cell>115</cell>
+                    <cell>110</cell>
+                    <cell>105</cell>
+                </row>
+                <row>
+                    <cell>170</cell>
+                    <cell>165</cell>
+                    <cell>160</cell>
+                    <cell>155</cell>
+                    <cell>150</cell>
+                    <cell>145</cell>
+                    <cell>140</cell>
+                </row>
+                <row>
+                    <cell>205</cell>
+                    <cell>200</cell>
+                    <cell>195</cell>
+                    <cell>190</cell>
+                    <cell>185</cell>
+                    <cell>180</cell>
+                    <cell>175</cell>
+                </row>
+                <row>
+                    <cell>240</cell>
+                    <cell>235</cell>
+                    <cell>230</cell>
+                    <cell>225</cell>
+                    <cell>220</cell>
+                    <cell>215</cell>
+                    <cell>210</cell>
+                </row>
+            
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Choose a number on the interior of the table and describe the pattern as you move up from that position. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move up a column of the table the values are decreasing by 35
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move down and right along a diagonal the values are decreasing by 30.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move to the left. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move to the left on the table the values are increasing by 5.  
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Choose one square from the interior of the table and replace the value with <m>n</m>. Write each of the values around this number in terms of <m>n</m>, using the patterns you described above.
+                </p>
+                <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+            </statement>
+        <solution>
+            <p>
+                <tabular left="minor" top="minor" right="minor" bottom="minor" halign="center">
+                    <row>
+                        <cell><m>n-30</m></cell>
+                        <cell><m>n-35</m></cell>
+                        <cell><m>n-40</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+5</m></cell>
+                        <cell><m>n</m></cell>
+                        <cell><m>n-5</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+40</m></cell>
+                        <cell><m>n+35</m></cell>
+                        <cell><m>n+30</m></cell>
+                    </row>
+                </tabular>
+            </p>
+        </solution>
+        </task>
+    </exercise>
+   
+    </worksheet>

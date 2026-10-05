@@ -58,7 +58,14 @@
                 <p>
                     <alert>G1:</alert> I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and
 scale. <url href="https://gvsuoer.github.io/beckmann-textbook/S_graphs_lit.html">(2.1)</url>
-                </p>
+<ul>
+                                    <li>
+                                        <p>
+                                            See questions 10-11. 
+                                        </p>
+                                    </li>
+                                </ul>                
+</p>
             </li>
         </ul>
     </objectives>

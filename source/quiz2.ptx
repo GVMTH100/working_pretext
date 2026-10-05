@@ -105,6 +105,7 @@
         </solution>
     </task>
     </exercise>
+
 </page>
 <page>
     <exercise>
@@ -186,7 +187,7 @@
             </statement>
             <solution>
                 <p>
-                    As we move up a column of the table the values are decreasing by 35
+                    As we move up a column of the table the values are increasing by 35
                 </p>
             </solution>
         </task>
@@ -210,7 +211,7 @@
             </statement>
             <solution>
                 <p>
-                    As we move to the left on the table the values are decreasing by 5.  
+                    As we move to the left on the table the values are increasing by 5.  
                 </p>
             </solution>
         </task>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTBSO3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skill and Operations #3</title>
+
+    <objectives>
+                    <ul><li>    <p>
+                    <alert>BSO #3:</alert> I can simplify algebraic expressions by combining like terms.
+                </p></li></ul>
+            
+    </objectives>
+
+<exercise>
+    <introduction>
+        <p>
+            Simplify each of the following expressions:
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(5x-1)+(3x+5)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <m>8x+4</m>
+            </p>
+        </solution>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(4a-3b+7)+(-2a+5b-3)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <m>2a+2b+4</m>
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+<exercise>
+    <introduction>
+        <p>
+            Simplify each of the following expressions:
+        </p>
+    </introduction>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>4x^2+3x+1+2(-2x^2+4x+2)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <md>
+                    4x^2+3x+1+2(-2x^2+4x+2)
+                </md>
+                <md>
+                    4x^2+3x+1-4x^2+8x+4
+                </md>
+                <md>
+                   11x+5
+                </md>
+                
+                
+            </p>
+        </solution>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                <m>(5n+7)-(2n+9)</m>
+            </p>
+        </statement>
+        <solution>
+            <p>
+                <md>
+                    (5n+7)-(2n+9)
+                </md>
+                <md>
+                    5n+7-2n-9
+                </md>
+                <md>
+                    3n-2
+                </md>
+                
+            </p>
+        </solution>
+    </task>
+</exercise>
+
+</worksheet>

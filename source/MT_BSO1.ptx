@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTBSO1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skill and Operations #1</title>
+
+    <objectives>
+                    <ul><li>    <p>
+                    <alert>BSO #1:</alert> I can identify and describe a visual
+                    pattern in words. 
+                </p></li></ul>
+            
+    </objectives>
+    
+<exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_MT1.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern increases by adding a column to the left and right of the figure in the current step, with each new column
+                being one block taller than the tallest column in the existing step.  For the fifth step, we would expect to add a column of 5 blocks to 
+                the left and right of the figure in step 4.  
+            </p>
+            <image source="VP_MT1s.png" width="40%">
+                <shortdescription>An arrangement of 29 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_MT2.png" width="75%">
+            <shortdescription>A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                We start out with a stack of circles (1x2) and at each step we add a row and column.  For the fifth step, 
+                we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles. 
+            </p>
+            <image source="VP_MT2s.png" width="40%">
+                <shortdescription>An arrangement of 30 circles.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+   
+    </worksheet>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTBSO2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skill and Operations #2</title>
+
+    <objectives>
+                    <ul><li>    <p>
+                    <alert>BSO #2:</alert> I can properly apply the order of operations to evaluate a numerical expression. 
+                </p></li></ul>
+            
+    </objectives>
+
+<exercise workspace="1.5in">
+        <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            \frac{9-4}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+           \frac{9-4}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{2}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+        <md>
+            \frac{5}{2}(6)+2^2\cdot4\div2-5\cdot(2+1)
+        </md>
+         <md>
+            \frac{5}{2}(6)+2^2\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            \frac{5}{2}(6)+4\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            15+4\cdot4\div2-5\cdot3
+        </md>
+        <md>
+            15+16\div2-5\cdot3
+        </md>
+        <md>
+            15+8-5\cdot3
+        </md>
+        <md>
+            15+8-15
+        </md>
+        <md>
+            23-15
+        </md>
+        <md>
+            8
+        </md>
+        </p>
+    </solution>
+    </exercise>
+    
+<exercise workspace="1.5in">
+        <p>
+        Simplify the following expression using correct order of operations:
+        <md>
+            \sqrt{4+12}-2^3\div4\cdot3+3(2-5)\div9
+        </md>
+        
+    </p>
+    <solution>
+        <p>
+            <md>
+            \sqrt{16}-2^3\div4\cdot3+3(2-5)\div9
+        </md>
+        <md>
+            \sqrt{16}-2^3\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-2^3\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-8\div4\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-2\cdot3+3(-3)\div9
+        </md>
+        <md>
+            4-6+3(-3)\div9
+        </md>
+        <md>
+            4-6-9\div9
+        </md>
+        <md>
+            4-6-1
+        </md>
+        <md>
+            -2-1
+        </md>
+        <md>
+            -3
+        </md>
+        
+        </p>
+    </solution>
+    </exercise>
+
+    </worksheet>
