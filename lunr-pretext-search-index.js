@@ -658,6 +658,33 @@ var ptx_lunr_docs = [
   "body": " Choose one of the graphs from the previous exercises and recreate the graph in Desmos. Be sure to adjust the scale on Desmos to match your homework graph. Print a copy of the graph and include it with your work. You can find the option to print a graph by clicking the share graph button.   Share graph icon   "
 },
 {
+  "id": "HW6",
+  "level": "1",
+  "url": "HW6.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 6",
+  "body": " Homework Set 6    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Consider the 100-meter race between the fox (dashed line) and the squirrel (solid line) shown in the graph below. Use this information to answer the questions that follow.   A graph of two piecewise functions      How much of a head start did the squirrel receive?      How far does the fox run before she first catches the squirrel?      Who is winning the race at 5 seconds?      How far does the fox run in the first 3 seconds?      Who wins the race?      Is the fox running faster at 2 seconds or 8 seconds?       Suppose we have an unusual tank whose base is a perfect sphere, and then atop the spherical base is a cylindrical chimney that is a circular cylinder, as shown. The tank is initially empty, but then a spigot is turned on that pumps water into the tank at a constant rate.  A spherical tank with a cylindrical chimney.   On the blank axes provided below, sketch (by hand) possible graphs of how volume and time change in tandem and how height and time change in tandem.   Blank Grid  Blank Grid     "
+},
+{
+  "id": "HW6-3",
+  "level": "2",
+  "url": "HW6.html#HW6-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the 100-meter race between the fox (dashed line) and the squirrel (solid line) shown in the graph below. Use this information to answer the questions that follow.   A graph of two piecewise functions      How much of a head start did the squirrel receive?      How far does the fox run before she first catches the squirrel?      Who is winning the race at 5 seconds?      How far does the fox run in the first 3 seconds?      Who wins the race?      Is the fox running faster at 2 seconds or 8 seconds?    "
+},
+{
+  "id": "ez-tandem-spherical-tank-conical-chimney",
+  "level": "2",
+  "url": "HW6.html#ez-tandem-spherical-tank-conical-chimney",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose we have an unusual tank whose base is a perfect sphere, and then atop the spherical base is a cylindrical chimney that is a circular cylinder, as shown. The tank is initially empty, but then a spigot is turned on that pumps water into the tank at a constant rate.  A spherical tank with a cylindrical chimney.   On the blank axes provided below, sketch (by hand) possible graphs of how volume and time change in tandem and how height and time change in tandem.   Blank Grid  Blank Grid    "
+},
+{
   "id": "CH-MathMindset-2",
   "level": "1",
   "url": "CH-MathMindset-2.html",
@@ -1195,7 +1222,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Quiz 2",
-  "body": " Quiz 2       BSO3: I can simplify algebraic expressions by combining like terms.     BOS4: I can identify a numerical pattern and generalize the pattern using variables.     BOS2: I can properly apply the order of operations to evaluate a numerical expression.       Simplify each of the following expressions:                              Simplify each of the following expressions:                                    Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.        Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                   "
+  "body": " Quiz 2       BSO3: I can simplify algebraic expressions by combining like terms.     BOS4: I can identify a numerical pattern and generalize the pattern using variables.     BOS2: I can properly apply the order of operations to evaluate a numerical expression.       Simplify each of the following expressions:                              Simplify each of the following expressions:                                    Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are increasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.        Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                   "
 },
 {
   "id": "quiz2-2-1",
@@ -1231,7 +1258,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    240  235  230  225  220  215  210    205  200  195  190  185  180  175    170  165  160  155  150  145  140    135  130  125  120  115  110  105    100  95  90  85  80  75  70    65  60  55  50  45  40  35    30  25  20  15  10  5  0       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are increasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 40.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
   "id": "quiz2-4-1",
@@ -1267,7 +1294,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Quiz 3 Review",
-  "body": " Quiz 3 Review     The third quiz will contain questions on the following learning targets.     BSO1: I can identify and describe a visual pattern in words. (1.3)    See question 1. For additional practice problems see Review 1.        BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)    See questions 2-3. For additional practice problems see Review 2.        BOS5: I can translate written words into mathematical expressions. (1.9)    See questions 4-9.        G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale. (2.1)       Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing stacked squares of 1, 5, 11, 19.    At each step of the pattern a number of additional squares, equal to the step number are added to both the left and right side of the pattern. To create the fifth step of the pattern we would take the pattern from step 4 and add 5 square to the left and 5 squares to the right.   A pattern with 29 squares.       Consider the following table which lists the odd numbers from 1 to 97.    1  3  5  7  9  11  13    15  17  19  21  23  25  27    29  31  33  35  37  39  41    43  45  47  49  51  53  55    57  59  61  63  65  67  69    71  73  75  77  79  81  83    85  87  89  91  93  95  97       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 11. To find the lower right vertex we can subtract from 13.   To find the lower right vertex we could also have subtracted from 14.      Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.      Write an expression for the sum of 4 and 2 times a number.         Write an expression for the product of 12 and the square root of a number.         Write an expression for the sum of three consecutive numbers.         Write an expression for the quotient of 2 and the sum of a number and 6.         Write an expression for the difference of a number and its square.         Write an expression for difference of a number and its reciprocal.         Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A baby's weight during the first year of life is recorded in the table     Age of baby (in months)  Weight of baby (in pounds)    0  7    2  11    4  15    6  16    8  19    10  20    12  21     Blank Grid for graphing      Grid with the points from the table plotted      Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A child's height, in inches, and weight, in pounds, are recorded in the table     Height (in inches)  Weight (in pounds)    28  22    31  27    33  33    37  35    40  41    42  45     Blank Grid for graphing      Grid with the points from the table plotted     "
+  "body": " Quiz 3 Review     The third quiz will contain questions on the following learning targets.     BSO1: I can identify and describe a visual pattern in words. (1.3)    See question 1. For additional practice problems see Review 1.        BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)    See questions 2-3. For additional practice problems see Review 2.        BOS5: I can translate written words into mathematical expressions. (1.9)    See questions 4-9.        G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale. (2.1)    See questions 10-11.         Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing stacked squares of 1, 5, 11, 19.    At each step of the pattern a number of additional squares, equal to the step number are added to both the left and right side of the pattern. To create the fifth step of the pattern we would take the pattern from step 4 and add 5 square to the left and 5 squares to the right.   A pattern with 29 squares.       Consider the following table which lists the odd numbers from 1 to 97.    1  3  5  7  9  11  13    15  17  19  21  23  25  27    29  31  33  35  37  39  41    43  45  47  49  51  53  55    57  59  61  63  65  67  69    71  73  75  77  79  81  83    85  87  89  91  93  95  97       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 11. To find the lower right vertex we can subtract from 13.   To find the lower right vertex we could also have subtracted from 14.      Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.      Write an expression for the sum of 4 and 2 times a number.         Write an expression for the product of 12 and the square root of a number.         Write an expression for the sum of three consecutive numbers.         Write an expression for the quotient of 2 and the sum of a number and 6.         Write an expression for the difference of a number and its square.         Write an expression for difference of a number and its reciprocal.         Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A baby's weight during the first year of life is recorded in the table     Age of baby (in months)  Weight of baby (in pounds)    0  7    2  11    4  15    6  16    8  19    10  20    12  21     Blank Grid for graphing      Grid with the points from the table plotted      Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A child's height, in inches, and weight, in pounds, are recorded in the table     Height (in inches)  Weight (in pounds)    28  22    31  27    33  33    37  35    40  41    42  45     Blank Grid for graphing      Grid with the points from the table plotted     "
 },
 {
   "id": "QuizReview3-2",
@@ -1276,7 +1303,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   The third quiz will contain questions on the following learning targets.     BSO1: I can identify and describe a visual pattern in words. (1.3)    See question 1. For additional practice problems see Review 1.        BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)    See questions 2-3. For additional practice problems see Review 2.        BOS5: I can translate written words into mathematical expressions. (1.9)    See questions 4-9.        G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale. (2.1)     "
+  "body": "   The third quiz will contain questions on the following learning targets.     BSO1: I can identify and describe a visual pattern in words. (1.3)    See question 1. For additional practice problems see Review 1.        BOS4: I can identify a numerical pattern and generalize the pattern using variables. (1.7)    See questions 2-3. For additional practice problems see Review 2.        BOS5: I can translate written words into mathematical expressions. (1.9)    See questions 4-9.        G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale. (2.1)    See questions 10-11.       "
 },
 {
   "id": "QuizReview3-3",
@@ -1384,7 +1411,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Quiz 3",
-  "body": " Quiz 3       BSO1: I can identify and describe a visual pattern in words. (2nd attempt)     BSO4: I can identify a numerical pattern and generalize the pattern using variables. (2nd attempt)     BSO5: I can translate written words into mathematical expressions.     G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.      Write an expression for the product of 12 and the square root of a number.         Write an expression for the quotient of 10 and the sum of a number and 2.           The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted      Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.       Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.      "
+  "body": " Quiz 3       BSO1: I can identify and describe a visual pattern in words. (2nd attempt)     BSO4: I can identify a numerical pattern and generalize the pattern using variables. (2nd attempt)     BSO5: I can translate written words into mathematical expressions.     G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.       BSO5: Write an expression for the product of 12 and the square root of a number.          BSO5: Write an expression for the quotient of 10 and the sum of a number and 2.            G1: The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted       G1: Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.        BSO4: Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.      "
 },
 {
   "id": "Quiz3-2-1",
@@ -1402,7 +1429,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Write an expression for the product of 12 and the square root of a number.       "
+  "body": "  BSO5: Write an expression for the product of 12 and the square root of a number.       "
 },
 {
   "id": "Quiz3-2-3",
@@ -1411,7 +1438,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " Write an expression for the quotient of 10 and the sum of a number and 2.       "
+  "body": "  BSO5: Write an expression for the quotient of 10 and the sum of a number and 2.       "
 },
 {
   "id": "Quiz3-3-1",
@@ -1420,7 +1447,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted    "
+  "body": "  G1: The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted    "
 },
 {
   "id": "Quiz3-3-2",
@@ -1429,7 +1456,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": " Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.  "
+  "body": "  G1: Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.  "
 },
 {
   "id": "Quiz3-4-1",
@@ -1438,7 +1465,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+  "body": "   BSO4: Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
   "id": "Quiz3-5-1",
@@ -1447,7 +1474,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
-  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.    "
+  "body": "  BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.    "
 },
 {
   "id": "Quiz3-5-2",
@@ -1456,7 +1483,196 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
-  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.    "
+  "body": "  BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.    "
+},
+{
+  "id": "MTBSO1",
+  "level": "1",
+  "url": "MTBSO1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skill and Operations #1",
+  "body": " Basic Skill and Operations #1     BSO #1: I can identify and describe a visual pattern in words.    Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.     "
+},
+{
+  "id": "MTBSO1-2",
+  "level": "2",
+  "url": "MTBSO1.html#MTBSO1-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   BSO #1: I can identify and describe a visual pattern in words.  "
+},
+{
+  "id": "MTBSO1-3",
+  "level": "2",
+  "url": "MTBSO1.html#MTBSO1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.    "
+},
+{
+  "id": "MTBSO1-4",
+  "level": "2",
+  "url": "MTBSO1.html#MTBSO1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.    "
+},
+{
+  "id": "MTBSO2",
+  "level": "1",
+  "url": "MTBSO2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skill and Operations #2",
+  "body": " Basic Skill and Operations #2     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                  "
+},
+{
+  "id": "MTBSO2-2",
+  "level": "2",
+  "url": "MTBSO2.html#MTBSO2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   BSO #2: I can properly apply the order of operations to evaluate a numerical expression.  "
+},
+{
+  "id": "MTBSO2-3",
+  "level": "2",
+  "url": "MTBSO2.html#MTBSO2-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "MTBSO2-4",
+  "level": "2",
+  "url": "MTBSO2.html#MTBSO2-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "MTBSO3",
+  "level": "1",
+  "url": "MTBSO3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skill and Operations #3",
+  "body": " Basic Skill and Operations #3     BSO #3: I can simplify algebraic expressions by combining like terms.     Simplify each of the following expressions:                              Simplify each of the following expressions:                                "
+},
+{
+  "id": "MTBSO3-2",
+  "level": "2",
+  "url": "MTBSO3.html#MTBSO3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   BSO #3: I can simplify algebraic expressions by combining like terms.  "
+},
+{
+  "id": "MTBSO3-3",
+  "level": "2",
+  "url": "MTBSO3.html#MTBSO3-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                           "
+},
+{
+  "id": "MTBSO3-4",
+  "level": "2",
+  "url": "MTBSO3.html#MTBSO3-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                               "
+},
+{
+  "id": "MTFull",
+  "level": "1",
+  "url": "MTFull.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Midterm Exam",
+  "body": " Midterm Exam      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.      Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                    Simplify each of the following expressions:                              Simplify each of the following expressions:                                  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                   "
+},
+{
+  "id": "MTFull-2",
+  "level": "2",
+  "url": "MTFull.html#MTFull-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.   "
+},
+{
+  "id": "MTFull-3",
+  "level": "2",
+  "url": "MTFull.html#MTFull-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.    "
+},
+{
+  "id": "MTFull-4",
+  "level": "2",
+  "url": "MTFull.html#MTFull-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.    "
+},
+{
+  "id": "MTFull-5",
+  "level": "2",
+  "url": "MTFull.html#MTFull-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "MTFull-6",
+  "level": "2",
+  "url": "MTFull.html#MTFull-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "MTFull-7",
+  "level": "2",
+  "url": "MTFull.html#MTFull-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                           "
+},
+{
+  "id": "MTFull-8",
+  "level": "2",
+  "url": "MTFull.html#MTFull-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Simplify each of the following expressions:                               "
+},
+{
+  "id": "MTFull-9",
+  "level": "2",
+  "url": "MTFull.html#MTFull-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
   "id": "CH-Course-2",
