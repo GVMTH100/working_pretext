@@ -1594,13 +1594,112 @@ var ptx_lunr_docs = [
   "body": "  Simplify each of the following expressions:                               "
 },
 {
+  "id": "MTBSO4",
+  "level": "1",
+  "url": "MTBSO4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skill and Operations #4",
+  "body": " Basic Skill and Operations #4     BSO #4: I can identify a numerical pattern and generalize the pattern using variables.     Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                   "
+},
+{
+  "id": "MTBSO4-2",
+  "level": "2",
+  "url": "MTBSO4.html#MTBSO4-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   BSO #4: I can identify a numerical pattern and generalize the pattern using variables.  "
+},
+{
+  "id": "MTBSO4-3",
+  "level": "2",
+  "url": "MTBSO4.html#MTBSO4-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+},
+{
+  "id": "MTBSO5",
+  "level": "1",
+  "url": "MTBSO5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skill and Operations #5",
+  "body": " Basic Skill and Operations #5      BSO #5: I can translate written words into mathematical expressions.     Write an expression for the product of 3 and the reciprocal of a number.         Write an expression for the difference of 12 and the product of 2 and a number.        "
+},
+{
+  "id": "MTBSO5-2",
+  "level": "2",
+  "url": "MTBSO5.html#MTBSO5-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #5: I can translate written words into mathematical expressions.   "
+},
+{
+  "id": "MTBSO5-3",
+  "level": "2",
+  "url": "MTBSO5.html#MTBSO5-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Write an expression for the product of 3 and the reciprocal of a number.       "
+},
+{
+  "id": "MTBSO5-4",
+  "level": "2",
+  "url": "MTBSO5.html#MTBSO5-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Write an expression for the difference of 12 and the product of 2 and a number.       "
+},
+{
+  "id": "MTG1",
+  "level": "1",
+  "url": "MTG1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #1",
+  "body": " Graphing #1      G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.     The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted      Recreate the graph above on Desmos.   "
+},
+{
+  "id": "MTG1-2",
+  "level": "2",
+  "url": "MTG1.html#MTG1-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.   "
+},
+{
+  "id": "QM_1",
+  "level": "2",
+  "url": "MTG1.html#QM_1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted    "
+},
+{
+  "id": "MTG1-4",
+  "level": "2",
+  "url": "MTG1.html#MTG1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Recreate the graph above on Desmos.  "
+},
+{
   "id": "MTFull",
   "level": "1",
   "url": "MTFull.html",
   "type": "Worksheet",
   "number": "",
   "title": "Midterm Exam",
-  "body": " Midterm Exam      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.      Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                    Simplify each of the following expressions:                              Simplify each of the following expressions:                                  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                   "
+  "body": " Midterm Exam      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.      Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                    Simplify each of the following expressions:                              Simplify each of the following expressions:                                  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the product of 3 and the reciprocal of a number.         Write an expression for the difference of 12 and the product of 2 and a number.        "
 },
 {
   "id": "MTFull-2",
@@ -1609,7 +1708,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.   "
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.   "
 },
 {
   "id": "MTFull-3",
@@ -1675,6 +1774,24 @@ var ptx_lunr_docs = [
   "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
+  "id": "MTFull-10",
+  "level": "2",
+  "url": "MTFull.html#MTFull-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Write an expression for the product of 3 and the reciprocal of a number.       "
+},
+{
+  "id": "MTFull-11",
+  "level": "2",
+  "url": "MTFull.html#MTFull-11",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Write an expression for the difference of 12 and the product of 2 and a number.       "
+},
+{
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
@@ -1735,7 +1852,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Sources",
-  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                     The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
+  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                     The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      The following problems were adopted from Algebra and Trigonometry by Jay Abramson on OpenStax.     "
 },
 {
   "id": "backmatter-2",
