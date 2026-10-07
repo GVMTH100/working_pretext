@@ -18,6 +18,10 @@
                 <li>    <p>
                     <alert>BSO #4:</alert> I can identify a numerical pattern and generalize the pattern using variables.
                 </p></li>
+                <li>    <p>
+                    <alert>BSO #5:</alert> I can translate written words into
+                    mathematical expressions.
+                </p></li>
                 </ul>
             
     </objectives>
@@ -410,6 +414,28 @@
             </p>
         </solution>
         </task>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Write an expression for the product of 3 and the reciprocal of a number.
+        </p>
+        <solution>
+            <p>
+                <m>3\frac{1}{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Write an expression for the difference of 12 and the product of 2 and a number.
+        </p>
+        <solution>
+            <p>
+                <m>12-2n</m>
+            </p>
+        </solution>
     </exercise>
    
     </worksheet>

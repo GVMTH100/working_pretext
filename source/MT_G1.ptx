@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTG1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Graphing #1</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>G #1:</alert> I can create an accurate scatterplot (by
+                    hand and Desmos) given a set of data including proper labels
+                    and scale.                
+                </p></li>
+            </ul>
+            
+    </objectives>
+
+    <exercise xml:id="QM_1">
+        <p>
+            The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, 
+            in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable 
+            scale that ensures all data points are visible without leaving excessive blank space.
+        </p>
+        <sidebyside>
+             <tabular halign="center">
+                <row bottom="minor">
+                    <cell>Chirps</cell>
+                    <cell>Temperature</cell>
+                </row>
+                <row>
+                    <cell>44</cell>
+                    <cell>80.5</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>70.5</cell>
+                </row>
+                <row>
+                    <cell>20.4</cell>
+                    <cell>57</cell>
+                </row>
+                <row>
+                    <cell>33</cell>
+                    <cell>66</cell>
+                </row>
+                <row>
+                    <cell>31</cell>
+                    <cell>68</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>72</cell>
+                </row>
+                <row>
+                    <cell>18.5</cell>
+                    <cell>52</cell>
+                </row>
+                <row>
+                    <cell>37</cell>
+                    <cell>73.5</cell>
+                </row>
+                <row>
+                    <cell>26</cell>
+                    <cell>53</cell>
+                </row>
+            </tabular>
+            <image source="BlankGrid15.png">
+                <shortdescription>Blank grid for graphing</shortdescription>
+            </image>
+        </sidebyside>
+        <solution>
+            <image source="crickets.png" width="40%">
+                <shortdescription>The data points plotted</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+   
+    <exercise>
+        <p>
+            Recreate the graph above on Desmos.
+        </p>
+    </exercise>
+
+    </worksheet>

@@ -7,6 +7,9 @@
   <xi:include href="MT_BSO1.ptx" />
   <xi:include href="MT_BSO2.ptx" />
   <xi:include href="MT_BSO3.ptx" />
+  <xi:include href="MT_BSO4.ptx" />
+  <xi:include href="MT_BSO5.ptx" />
+  <xi:include href="MT_G1.ptx" />
   <xi:include href="MT_full.ptx" />
   
   
