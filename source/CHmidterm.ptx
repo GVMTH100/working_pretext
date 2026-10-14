@@ -10,8 +10,20 @@
   <xi:include href="MT_BSO4.ptx" />
   <xi:include href="MT_BSO5.ptx" />
   <xi:include href="MT_G1.ptx" />
+  <xi:include href="MT_G2.ptx" />
+  <xi:include href="MT_G3.ptx" />
+   <xi:include href="MT_LE1.ptx" />
   <xi:include href="MT_full.ptx" />
-  
-  
+  <xi:include href="midtermrev.ptx" />
+  <xi:include href="MR_BSO1.ptx" />
+  <xi:include href="MR_BSO2.ptx" />
+  <xi:include href="MR_BSO3.ptx" />
+  <xi:include href="MR_BSO4.ptx" />
+   <xi:include href="MR_BSO5.ptx" />
+    <xi:include href="MR_G1.ptx" />
+  <xi:include href="MR_G2.ptx" />
+  <xi:include href="MR_G3.ptx" />
+  <xi:include href="MR_LE1.ptx" />
+
 </chapter>
  

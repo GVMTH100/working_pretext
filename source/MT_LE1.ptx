@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTLE1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #1</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>LE #1:</alert> I can interpret the meaning of the slope in a linear relationship.      
+                </p></li>
+            </ul>
+            
+    </objectives>
+    <exercise workspace="0.5in">
+        <p>
+            Consider the relationship displayed in
+             the table below.  Determine the slope of 
+             this relationship and describe what it 
+             represents in context of the two 
+             variables.  (Be sure your answer 
+             contains units). 
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Hours Worked</cell>
+                <cell>Pay (dollars)</cell>
+            </row>
+            <row>
+                <cell>0</cell>
+                <cell>0</cell>
+            </row>
+            <row>
+                <cell>10</cell>
+                <cell>115</cell>
+            </row>
+            <row>
+                <cell>20</cell>
+                <cell>230</cell>
+            </row>
+            <row>
+                <cell>30</cell>
+                <cell>345</cell>
+            </row>
+            <row>
+                <cell>40</cell>
+                <cell>460</cell>
+            </row>
+            <row>
+                <cell>50</cell>
+                <cell>575</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                The slope is <m>m=\frac{115-0}{10-0}=11.5</m>.  The employee is being paid at a rate of 11.5 dollars per hour.
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Consider the relationship displayed in
+             the graph below.  Determine the slope of 
+             this relationship and describe what it 
+             represents in context of the two 
+             variables.  (Be sure your answer 
+             contains units). 
+        </p>
+        <image source="taxgraph.png" width="40%">
+            <shortdescription>Linear equation passing through the points (0,0) and (1,0.05). </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The slope is <m>m=\frac{0.05-0}{1-0}=0.05</m>.  The tax rate is $0.05 (5 cents) per dollar.
+            </p>
+        </solution>
+    </exercise>
+</worksheet>

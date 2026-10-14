@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTReview" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Midterm Review</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>BSO #1:</alert> I can identify and describe a visual
+                    pattern in words. 
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #2:</alert> I can properly apply the order of operations to evaluate a numerical expression. 
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #3:</alert> I can simplify algebraic expressions by combining like terms.
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #4:</alert> I can identify a numerical pattern and generalize the pattern using variables.
+                </p></li>
+                <li>    <p>
+                    <alert>BSO #5:</alert> I can translate written words into
+                    mathematical expressions.
+                </p></li>
+                <li>    <p>
+                    <alert>G #1:</alert> I can create an accurate scatterplot (by
+                    hand and Desmos) given a set of data including proper labels
+                    and scale.                
+                </p></li>
+                <li>    <p>
+                    <alert>G #2:</alert> I can sketch qualitative graphs given a written situation.     
+                </p></li>
+                <li>    <p>
+                    <alert>G #3:</alert> I can describe a situation given a qualitative graph 
+                    with defined inputs and outputs.     
+                </p></li>
+                <li>    <p>
+                    <alert>LE #1:</alert> I can interpret the meaning of the slope in a linear relationship.      
+                </p></li>
+                </ul>
+            
+    </objectives>
+
+    <xref ref="BSO1_PP" text="title"/>
+     <xref ref="BSO2_PP" text="title"/>
+     <xref ref="BSO3_PP" text="title"/>
+     <xref ref="BSO4_PP" text="title"/>
+      <xref ref="BSO5_PP" text="title"/>
+       <xref ref="G1_PP" text="title"/>
+
+
+</worksheet>

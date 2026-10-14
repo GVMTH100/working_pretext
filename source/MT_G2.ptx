@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTG2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Graphing #2</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>G #2:</alert> I can sketch qualitative graphs given a written situation.     
+                </p></li>
+            </ul>
+            
+    </objectives>
+
+    <exercise>
+        <p>
+            A balloon is traveling along at a constant height.  When the driver sees a flock of geese approaching 
+            him he raises the balloon to a higher altitude.  He then flies at this new altitude for a while, 
+            until he decides to return to the ground.  He descends at a constant rate.  
+            Draw a qualitative graph that describes the balloons height in terms of time.  
+        </p>
+        <image source="BlankGrid10.png" width="60%">
+            <shortdescription>Blank Grid for drawing answer</shortdescription>
+        </image>
+        <solution>
+            <image source="balloon.png">
+                <shortdescription>A graphical representation of the height of the balloon.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+    
+</worksheet>

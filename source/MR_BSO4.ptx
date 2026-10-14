@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="BSO4_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skills and Operations #4</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>BSO #4:</alert> I can identify a numerical pattern and generalize the pattern using variables.
+                </p></li>
+               
+                </ul>
+            
+    </objectives>
+
+   <exercise>
+        <introduction>
+            <p>
+                Consider the following table which lists the even numbers from 0 to 96.
+            </p>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row>
+                    <cell>0</cell>
+                    <cell>2</cell>
+                    <cell>4</cell>
+                    <cell>6</cell>
+                    <cell>8</cell>
+                    <cell>10</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>14</cell>
+                    <cell>16</cell>
+                    <cell>18</cell>
+                    <cell>20</cell>
+                    <cell>22</cell>
+                    <cell>24</cell>
+                    <cell>26</cell>
+                </row>
+                <row>
+                    <cell>28</cell>
+                    <cell>30</cell>
+                    <cell>32</cell>
+                    <cell>34</cell>
+                    <cell>36</cell>
+                    <cell>38</cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>42</cell>
+                    <cell>44</cell>
+                    <cell>46</cell>
+                    <cell>48</cell>
+                    <cell>50</cell>
+                    <cell>52</cell>
+                    <cell>54</cell>
+                </row>
+                <row>
+                    <cell>56</cell>
+                    <cell>58</cell>
+                    <cell>60</cell>
+                    <cell>62</cell>
+                    <cell>64</cell>
+                    <cell>66</cell>
+                    <cell>68</cell>
+                </row>
+                <row>
+                    <cell>70</cell>
+                    <cell>72</cell>
+                    <cell>74</cell>
+                    <cell>76</cell>
+                    <cell>78</cell>
+                    <cell>80</cell>
+                    <cell>82</cell>
+                </row>
+                <row>
+                    <cell>84</cell>
+                    <cell>86</cell>
+                    <cell>88</cell>
+                    <cell>90</cell>
+                    <cell>92</cell>
+                    <cell>94</cell>
+                    <cell>96</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Choose a number on the interior of the table and describe the pattern as you move up from that position. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move up a column of the table the values are decreasing by 14
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move down and right along a diagonal the values are increasing by 16.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move to the left. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move to the left on the table the values are decreasing by 2.  
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Choose one square from the interior of the table and replace the value with <m>n</m>. Write each of the values around this number in terms of <m>n</m>, using the patterns you described above.
+                </p>
+                <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+            </statement>
+        <solution>
+            <p>
+                <tabular left="minor" top="minor" right="minor" bottom="minor" halign="center">
+                    <row>
+                        <cell><m>n-16</m></cell>
+                        <cell><m>n-14</m></cell>
+                        <cell><m>n-12</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n-2</m></cell>
+                        <cell><m>n</m></cell>
+                        <cell><m>n+2</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+12</m></cell>
+                        <cell><m>n+14</m></cell>
+                        <cell><m>n+16</m></cell>
+                    </row>
+                </tabular>
+            </p>
+        </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                Consider the following table which lists the odd numbers from 1 to 97.
+            </p>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row>
+                    <cell>1</cell>
+                    <cell>3</cell>
+                    <cell>5</cell>
+                    <cell>7</cell>
+                    <cell>9</cell>
+                    <cell>11</cell>
+                    <cell>13</cell>
+                </row>
+                <row>
+                    <cell>15</cell>
+                    <cell>17</cell>
+                    <cell>19</cell>
+                    <cell>21</cell>
+                    <cell>23</cell>
+                    <cell>25</cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>29</cell>
+                    <cell>31</cell>
+                    <cell>33</cell>
+                    <cell>35</cell>
+                    <cell>37</cell>
+                    <cell>39</cell>
+                    <cell>41</cell>
+                </row>
+                <row>
+                    <cell>43</cell>
+                    <cell>45</cell>
+                    <cell>47</cell>
+                    <cell>49</cell>
+                    <cell>51</cell>
+                    <cell>53</cell>
+                    <cell>55</cell>
+                </row>
+                <row>
+                    <cell>57</cell>
+                    <cell>59</cell>
+                    <cell>61</cell>
+                    <cell>63</cell>
+                    <cell>65</cell>
+                    <cell>67</cell>
+                    <cell>69</cell>
+                </row>
+                <row>
+                    <cell>71</cell>
+                    <cell>73</cell>
+                    <cell>75</cell>
+                    <cell>77</cell>
+                    <cell>79</cell>
+                    <cell>81</cell>
+                    <cell>83</cell>
+                </row>
+                <row>
+                    <cell>85</cell>
+                    <cell>87</cell>
+                    <cell>89</cell>
+                    <cell>91</cell>
+                    <cell>93</cell>
+                    <cell>95</cell>
+                    <cell>97</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                   Choose a number on the interior of the table and describe the pattern as you move up from that position. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move up a column of the table the values are decreasing by 14
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move down and right along a diagonal the values are increasing by 16.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    Choose a number on the interior of the table and describe the pattern as you move to the left. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    As we move to the left on the table the values are decreasing by 2.  
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Choose one square from the interior of the table and replace the value with <m>n</m>. Write each of the values around this number in terms of <m>n</m>, using the patterns you described above.
+                </p>
+                <tabular left="minor" top="minor" halign="center">
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <m>n</m> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+            <cell right="minor">
+              <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/> <nbsp/>
+            </cell>
+          </row>
+        </tabular>
+            </statement>
+        <solution>
+            <p>
+                <tabular left="minor" top="minor" right="minor" bottom="minor" halign="center">
+                    <row>
+                        <cell><m>n-16</m></cell>
+                        <cell><m>n-14</m></cell>
+                        <cell><m>n-12</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n-2</m></cell>
+                        <cell><m>n</m></cell>
+                        <cell><m>n+2</m></cell>
+                    </row>
+                    <row>
+                        <cell><m>n+12</m></cell>
+                        <cell><m>n+14</m></cell>
+                        <cell><m>n+16</m></cell>
+                    </row>
+                </tabular>
+            </p>
+        </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <p>
+            Generalize the solution to this polygon puzzle by writing the upper left corner as <m>p</m>
+            and then writing the remaining vertices in terms of <m>p</m>.
+        </p>
+        <image source="puzzle_rev3.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                To find the upper right vertex we subtract <m>p</m> from 10.  
+                To find the lower left vertex we subtract <m>p</m> from 11.
+                To find the lower right vertex we can subtract <m>10-p</m> from 13.
+                <md>
+                    13-(10-p)
+                </md>
+                <md>
+                    13-10-(-p)
+                </md>
+                <md>
+                    3+p
+                </md>
+                To find the lower right vertex we could also have subtracted <m>11-p</m> from 14.
+                <md>14-(11-p)</md>
+                <md>14-11-(-p)</md>
+                <md>3+p</md>
+            </p>
+            <image source="puzzle_rev3A.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square. </shortdescription>
+        </image>
+        </solution>
+    </exercise>
+
+     <exercise>
+        <p>
+            Generalize the solution to this polygon puzzle by writing the upper left corner as <m>p</m>
+            and then writing the remaining vertices in terms of <m>p</m>.
+        </p>
+        <image source="puzzle1.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                To find the upper right vertex we subtract <m>p</m> from 8.  
+                To find the lower left vertex we subtract <m>p</m> from 6.
+                To find the lower right vertex we can subtract <m>8-p</m> from 14.
+                <md>
+                    14-(8-p)
+                </md>
+                <md>
+                    14-8-(-p)
+                </md>
+                <md>
+                    6+p
+                </md>
+                To find the lower right vertex we could also have subtracted <m>6-p</m> from 12.
+                <md>12-(6-p)</md>
+                <md>12-6-(-p)</md>
+                <md>6+p</md>
+            </p>
+            <image source="puzzle1s.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square. </shortdescription>
+        </image>
+        </solution>
+    </exercise>
+    <exercise>
+        <p>
+            Generalize the solution to this polygon puzzle by writing the upper left corner as <m>p</m>
+            and then writing the remaining vertices in terms of <m>p</m>.
+        </p>
+        <image source="puzzle2.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                To find the upper right vertex we subtract <m>p</m> from 10.  
+                To find the lower left vertex we subtract <m>p</m> from 12.
+                To find the lower right vertex we can subtract <m>10-p</m> from 9.
+                <md>
+                    9-(10-p)
+                </md>
+                <md>
+                    9-10-(-p)
+                </md>
+                <md>
+                    -1+p
+                </md>
+                To find the lower right vertex we could also have subtracted <m>12-p</m> from 11.
+                <md>11-(12-p)</md>
+                <md>11-12-(-p)</md>
+                <md>-1+p</md>
+            </p>
+            <image source="puzzle2s.png" width="35%">
+            <shortdescription>Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square. </shortdescription>
+        </image>
+        </solution>
+    </exercise>
+
+</worksheet>

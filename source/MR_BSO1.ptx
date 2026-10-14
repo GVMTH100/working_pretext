@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="BSO1_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skills and Operations #1</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>BSO #1:</alert> I can identify and describe a visual
+                    pattern in words. 
+                </p></li>    
+            </ul>                      
+    </objectives>
+
+     <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_quad1.png" width="75%">
+            <shortdescription>A visual pattern showing growing center squares of length 1, 2, 3, and 4. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows a central square with four squares additional squares, one at each corner.  
+                The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and 
+                increasing to a 4x4 square in step 4.  We would expect the fifth step to have a central 5x5 square 
+                with 1x1 squares at each corner. 
+            </p>
+            <image source="VP_quad1A.png" width="40%">
+                <shortdescription>A 5x5 square with 1x1 squares at the corners.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin1.png" width="75%">
+            <shortdescription>A visual pattern showing a single square expanding to a growing x. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern shows a central square to start, but with an extra square added to each corner on each additional
+                step creating an X with growing arm lengths.  We would expect the fifth step to be an X with 4 squares along
+                each leg.  
+            </p>
+            <image source="VP_lin1A.png" width="40%">
+                <shortdescription>An X shape patterns with arms of length 4 and a central square</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin2.png" width="75%">
+            <shortdescription>A visual pattern showing a sequence of stacked squares. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The pattern starts with a single square. Each additional step adds a square to the right and 
+                one additional square on top of each column.  We would expect the fifth step to be a triangle
+                with five squares for the long leg.  
+            </p>
+            <image source="VP_lin1A.png" width="40%">
+                <shortdescription>A stack of square in a right triangular shape with sides of length 5</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin3.png" width="75%">
+            <shortdescription>A visual pattern showing a sequence of filled pie charts. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern an additional sector of the pie is being filled in.  We would expect the fifth
+                step to include a pie that is filled halfway.
+            </p>
+            <image source="VP_lin3A.png" width="40%">
+                <shortdescription>a pie chart that is filled halfway.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_lin4.png" width="50%">
+            <shortdescription>A visual pattern showing a sequence of filled pie charts. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed.
+                We would expect the fifth step to include two pies that are completely filled and a third pie
+                with 5 sectors filled in.
+            </p>
+            <image source="VP_lin4A.png" width="40%">
+                <shortdescription>a pie chart</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_exp1.png" width="75%">
+            <shortdescription>A visual pattern showing the shaded region of a box cut in half at each step </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern the amount of shading is cut in half.  We would expect the fifth step
+                to have four squares shaded.
+            </p>
+            <image source="VP_exp1A.png" width="40%">
+                <shortdescription>A square 4-64ths shaded</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+     <exercise workspace="1in">
+        <p>
+            Consider the visual pattern shown below. Describe the pattern and draw the next step.  
+        </p>
+        <image source="VP_rev3.png" width="75%">
+            <shortdescription>A visual pattern showing stacked squares of 1, 5, 11, 19. </shortdescription>
+        </image>
+        <solution>
+            <p>
+                At each step of the pattern a number of additional squares, equal to the step number are added to both
+                the left and right side of the pattern.  To create the fifth step of the pattern we would take the pattern
+                from step 4 and add 5 square to the left and 5 squares to the right.  
+            </p>
+            <image source="VP_rev3A.png" width="40%">
+                <shortdescription>A pattern with 29 squares.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+    
+</worksheet>

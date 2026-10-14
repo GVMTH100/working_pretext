@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="G2_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Graphing #2</title>
+
+    <objectives>
+                    <ul>
+                <li>    <p>
+                    <alert>G #2:</alert> I can sketch qualitative graphs given a written situation.     
+                </p></li>
+                    </ul>
+            
+    </objectives>
+
+    <exercise>
+        <p>
+            A football is thrown into the air and allowed to fall to the ground, where it bounces once.  Draw a graph of the height of the ball in terms of the time since it was thrown.  
+        </p>
+        <image source="BlankGrid10.png" width="50%">
+            <shortdescription>A blank grid for drawing</shortdescription>
+        </image>
+        <solution>
+            <p>
+              The ball should start at some positive height along the vertical axis indicating where it was thrown from.  
+              The ball will gain altitude for a short amount of time and then fall back to the ground, this is shown by an
+              increasing graph, followed by a decreasing segment that approaches the horizontal axis.  When the ball hits the 
+              ground it bounces back up for a short amount of time and then again falls to the ground, represented by an
+              additional increasing curve and a decreasing curve.
+            </p>
+            <image source="MTfootball.png" width="50%">
+                <shortdescription>A qualitative graph representing the height of the football over time.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <p>
+            A person enters an elevator on the ground floor and rides it up to the third floor of a building.  They walk around the corridor on that floor and then take an escalator back down to the ground level.  Draw a graph of the height of the person above ground in terms of the time since they first entered the elevator.  
+        </p>
+        <image source="BlankGrid10.png" width="50%">
+            <shortdescription>Blank Grid for graphing</shortdescription>
+        </image>
+        <solution>
+            <p>
+                We start the graph at the origin with an increasing segment for a short length of time.  
+                The straight line shows that the elevator is 
+                going up at a constant rate. We then have a horizontal line indicating that they were at the same height 
+                when they were walking around the third floor. A decreasing line segment shows they returned to the ground
+                floor at a constant rate. 
+            </p>
+            <image source="MTelevator.png">
+                <shortdescription>A qualitative graph as described in the solution.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <p>
+            A vase is being filled with water at a constant rate, draw a qualitative graph that shows the height of the 
+            water at a given time. 
+        </p>
+        <sidebyside>
+        <image source="MTvase.png" width="40%">
+            <shortdescription>Image of a vase with the width varying with height.</shortdescription>
+        </image>
+        <image source="BlankGrid10.png">
+            <shortdescription>Blank grid for drawing</shortdescription>
+        </image>
+        </sidebyside>
+        <solution>
+            <p>
+                The graph will be increasing the fastest when the height is increasing fastest.  This will occur when
+                the the vase is the narrowest.
+            </p>
+            <image source="MTvaseS">
+                <shortdescription>A graphical representation of height of the water</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+</worksheet>

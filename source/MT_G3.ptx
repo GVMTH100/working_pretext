@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="MTG3" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Graphing #3</title>
+
+    <objectives>
+                    <ul>
+                        <li>    <p>
+                    <alert>G #3:</alert> I can describe a situation given a qualitative graph 
+                    with defined inputs and outputs.     
+                </p></li>
+            </ul>
+            
+    </objectives>
+
+    <exercise>
+        <introduction>
+        <p>
+            The graph below shows the distance from the starting line for one runner in a race.  Use the information in 
+            the graph to answer the questions that follow.
+        </p>
+        <image source="midtermgraph.png" width="40%">
+            <shortdescription>A graph showing the position of a runner at given times.</shortdescription>
+        </image>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving towards the finish line?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish
+                    line when the function is increasing, which happens at points A and E. 
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner stopped? (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is stopped when on a horizontal line, which occurs at point C.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving the fastest?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is moving the fastest when the line is the steepest, which occurs at point E.
+                </p>
+            </solution>
+        </task>
+    </exercise>
+
+</worksheet>

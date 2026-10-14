@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="LE1_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #1</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>LE #1:</alert> I can interpret the meaning of the slope in a linear relationship.      
+                </p></li>
+                </ul>
+            
+    </objectives>
+
+    <exercise workspace="0.25in">
+        <p>
+            Consider the relationship displayed in the table below.  Determine the slope of this relationship and describe what it represents in context of the two variables.  (Be sure your answer contains units).
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Number of stamps</cell>
+                <cell>Cost of postage</cell>
+            </row>
+            <row>
+                <cell>1</cell>
+                <cell>0.66</cell>
+            </row>
+            <row>
+                <cell>2</cell>
+                <cell>1.32</cell>
+            </row>
+            <row>
+                <cell>3</cell>
+                <cell>1.98</cell>
+            </row>
+            <row>
+                <cell>4</cell>
+                <cell>2.64</cell>
+            </row>
+            <row>
+                <cell>5</cell>
+                <cell>3.30</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                
+               The slope is found by taking the ratio of the change in the dependent
+                                    variable to the change in the independent variable.
+                      </p>
+                      <md>
+                        m=\frac{1.32-0.66}{2-1}=0.66
+                        </md>          
+                                <p>
+                                    The slope tells us that the cost of postage is $0.66 per stamp.
+                                </p>
+            
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Consider the relationship displayed in the table below.  Determine the slope of this relationship and describe what it represents in context of the two variables.  (Be sure your answer contains units).
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Driving time (hours)</cell>
+                <cell>Driving distance (miles)</cell>
+            </row>
+            <row>
+                <cell>1</cell>
+                <cell>65</cell>
+            </row>
+            <row>
+                <cell>2</cell>
+                <cell>130</cell>
+            </row>
+            <row>
+                <cell>3</cell>
+                <cell>195</cell>
+            </row>
+            <row>
+                <cell>4</cell>
+                <cell>260</cell>
+            </row>
+            <row>
+                <cell>5</cell>
+                <cell>325</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                
+               The slope is found by taking the ratio of the change in the dependent
+                                    variable to the change in the independent variable.
+                      </p>
+                      <md>
+                        m=\frac{130-65}{2-1}=65
+                        </md>          
+                                <p>
+                                    The slope tells us that the speed of the driver was 65 miles per hour.  
+                                </p>
+            
+        </solution>
+    </exercise>
+    
+    <exercise workspace="0.25in">
+        <p>
+            Consider the relationship displayed in the table below.  Determine the slope of this relationship and describe what it represents in context of the two variables.  (Be sure your answer contains units).
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Number of pencils</cell>
+                <cell>Cost of pencils (dollars)</cell>
+            </row>
+            <row>
+                <cell>10</cell>
+                <cell>1.20</cell>
+            </row>
+            <row>
+                <cell>20</cell>
+                <cell>2.40</cell>
+            </row>
+            <row>
+                <cell>30</cell>
+                <cell>3.60</cell>
+            </row>
+            <row>
+                <cell>40</cell>
+                <cell>4.80</cell>
+            </row>
+            <row>
+                <cell>50</cell>
+                <cell>6.00</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                
+               The slope is found by taking the ratio of the change in the dependent
+                                    variable to the change in the independent variable.
+                      </p>
+                      <md>
+                        m=\frac{24-12}{20-10}=.12
+                        </md>          
+                                <p>
+                                    The slope tells us that it cost $0.12 per pencil.  
+                                </p>
+            
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Consider the relationship displayed in the table below.  Determine the slope of this relationship and describe what it represents in context of the two variables.  (Be sure your answer contains units).
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Price of an item (dollars)</cell>
+                <cell>Tax (dollars)</cell>
+            </row>
+            <row>
+                <cell>20</cell>
+                <cell>0.70</cell>
+            </row>
+            <row>
+                <cell>40</cell>
+                <cell>1.40</cell>
+            </row>
+            <row>
+                <cell>60</cell>
+                <cell>2.10</cell>
+            </row>
+            <row>
+                <cell>80</cell>
+                <cell>2.80</cell>
+            </row>
+            <row>
+                <cell>100</cell>
+                <cell>3.50</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                
+               The slope is found by taking the ratio of the change in the dependent
+                                    variable to the change in the independent variable.
+                      </p>
+                      <md>
+                        m=\frac{1.40-0.70}{40-20}=0.035
+                        </md>          
+                                <p>
+                                    The slope tells us that the tax is $0.035 for each $1 of value.  (This corresponds to a 3.5% tax rate)
+                                </p>
+            
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Consider the relationship displayed in the table below.  Determine the slope of this relationship and describe what it represents in context of the two variables.  (Be sure your answer contains units).
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Time spent reading (minutes)</cell>
+                <cell>Number of pages read</cell>
+            </row>
+            <row>
+                <cell>5</cell>
+                <cell>15</cell>
+            </row>
+            <row>
+                <cell>10</cell>
+                <cell>30</cell>
+            </row>
+            <row>
+                <cell>15</cell>
+                <cell>45</cell>
+            </row>
+            <row>
+                <cell>20</cell>
+                <cell>60</cell>
+            </row>
+            <row>
+                <cell>25</cell>
+                <cell>75</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                
+               The slope is found by taking the ratio of the change in the dependent
+                                    variable to the change in the independent variable.
+                      </p>
+                      <md>
+                        m=\frac{30-15}{10-5}=\frac{15}{5}=3
+                        </md>          
+                                <p>
+                                    The slope tells us that they are reading 3 pages every minute.  
+                                </p>
+            
+        </solution>
+    </exercise>
+
+</worksheet>

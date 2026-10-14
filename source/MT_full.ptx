@@ -22,6 +22,21 @@
                     <alert>BSO #5:</alert> I can translate written words into
                     mathematical expressions.
                 </p></li>
+                <li>    <p>
+                    <alert>G #1:</alert> I can create an accurate scatterplot (by
+                    hand and Desmos) given a set of data including proper labels
+                    and scale.                
+                </p></li>
+                <li>    <p>
+                    <alert>G #2:</alert> I can sketch qualitative graphs given a written situation.     
+                </p></li>
+                <li>    <p>
+                    <alert>G #3:</alert> I can describe a situation given a qualitative graph 
+                    with defined inputs and outputs.     
+                </p></li>
+                <li>    <p>
+                    <alert>LE #1:</alert> I can interpret the meaning of the slope in a linear relationship.      
+                </p></li>
                 </ul>
             
     </objectives>
@@ -437,5 +452,201 @@
             </p>
         </solution>
     </exercise>
+
+    <exercise>
+        <p>
+            The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, 
+            in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable 
+            scale that ensures all data points are visible without leaving excessive blank space.
+        </p>
+        <sidebyside>
+             <tabular halign="center">
+                <row bottom="minor">
+                    <cell>Chirps</cell>
+                    <cell>Temperature</cell>
+                </row>
+                <row>
+                    <cell>44</cell>
+                    <cell>80.5</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>70.5</cell>
+                </row>
+                <row>
+                    <cell>20.4</cell>
+                    <cell>57</cell>
+                </row>
+                <row>
+                    <cell>33</cell>
+                    <cell>66</cell>
+                </row>
+                <row>
+                    <cell>31</cell>
+                    <cell>68</cell>
+                </row>
+                <row>
+                    <cell>35</cell>
+                    <cell>72</cell>
+                </row>
+                <row>
+                    <cell>18.5</cell>
+                    <cell>52</cell>
+                </row>
+                <row>
+                    <cell>37</cell>
+                    <cell>73.5</cell>
+                </row>
+                <row>
+                    <cell>26</cell>
+                    <cell>53</cell>
+                </row>
+            </tabular>
+            <image source="BlankGrid15.png">
+                <shortdescription>Blank grid for graphing</shortdescription>
+            </image>
+        </sidebyside>
+        <solution>
+            <image source="crickets.png" width="40%">
+                <shortdescription>The data points plotted</shortdescription>
+            </image>
+        </solution>
+    </exercise>
    
+    <exercise>
+        <p>
+            Recreate the graph above on Desmos.
+        </p>
+    </exercise>
+
+    <exercise>
+        <p>
+            A balloon is traveling along at a constant height.  When the driver sees a flock of geese approaching 
+            him he raises the balloon to a higher altitude.  He then flies at this new altitude for a while, 
+            until he decides to return to the ground.  He descends at a constant rate.  
+            Draw a qualitative graph that describes the balloons height in terms of time.  
+        </p>
+        <image source="BlankGrid10.png">
+            <shortdescription>Blank Grid for drawing answer</shortdescription>
+        </image>
+        <solution>
+            <image source="balloon.png">
+                <shortdescription>A graphical representation of the height of the balloon.</shortdescription>
+            </image>
+        </solution>
+    </exercise>
+
+    <exercise>
+        <introduction>
+        <p>
+            The graph below shows the distance from the starting line for one runner in a race.  Use the information in 
+            the graph to answer the questions that follow.
+        </p>
+        <image source="midtermgraph.png">
+            <shortdescription>A graph showing the position of a runner at given times.</shortdescription>
+        </image>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving towards the finish line?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish
+                    line when the function is increasing, which happens at points A and E. 
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    At which of the marked points is the runner stopped? (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is stopped when on a horizontal line, which occurs at point C.
+                </p>
+            </solution>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving the fastest?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is moving the fastest when the line is the steepest, which occurs at point E.
+                </p>
+            </solution>
+        </task>
+    </exercise>
+   <exercise workspace="0.5in">
+        <p>
+            Consider the relationship displayed in
+             the table below.  Determine the slope of 
+             this relationship and describe what it 
+             represents in context of the two 
+             variables.  (Be sure your answer 
+             contains units). 
+        </p>
+        <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+            <row>
+                <cell>Hours Worked</cell>
+                <cell>Pay (dollars)</cell>
+            </row>
+            <row>
+                <cell>0</cell>
+                <cell>0</cell>
+            </row>
+            <row>
+                <cell>10</cell>
+                <cell>115</cell>
+            </row>
+            <row>
+                <cell>20</cell>
+                <cell>230</cell>
+            </row>
+            <row>
+                <cell>30</cell>
+                <cell>345</cell>
+            </row>
+            <row>
+                <cell>40</cell>
+                <cell>460</cell>
+            </row>
+            <row>
+                <cell>50</cell>
+                <cell>575</cell>
+            </row>
+        </tabular>
+        <solution>
+            <p>
+                The slope is <m>m=\frac{115-0}{10-0}=11.5</m>.  The employee is being paid at a rate of 11.5 dollars per hour.
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <p>
+            Consider the relationship displayed in
+             the graph below.  Determine the slope of 
+             this relationship and describe what it 
+             represents in context of the two 
+             variables.  (Be sure your answer 
+             contains units). 
+        </p>
+        <image source="taxgraph.png" width="40%">
+            <shortdescription>Linear equation passing through the points (0,0) and (1,0.05). </shortdescription>
+        </image>
+        <solution>
+            <p>
+                The slope is <m>m=\frac{0.05-0}{1-0}=0.05</m>.  The tax rate is $0.05 (5 cents) per dollar.
+            </p>
+        </solution>
+    </exercise>
+
     </worksheet>

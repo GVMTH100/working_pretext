@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="BSO5_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Basic Skills and Operations #5</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>BSO #5:</alert> I can translate written words into
+                    mathematical expressions.
+                </p></li>
+                
+                </ul>
+            
+    </objectives>
+
+     <exercise workspace="0.25in">
+        <p>
+            Write an expression for the sum of 4 and 2 times a number.
+        </p>
+        <solution>
+            <p>
+                <m>4+2n</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the product of 12 and the square root of a number.
+        </p>
+        <solution>
+            <p>
+                <m>12\sqrt{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the sum of three consecutive numbers.
+        </p>
+        <solution>
+            <p>
+                <m>n+(n+1)+(n+2)</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the quotient of 2 and the sum of a number and 6.
+        </p>
+        <solution>
+            <p>
+                <m>\frac{2}{n+6}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for the difference of a number and its square.
+        </p>
+        <solution>
+            <p>
+                <m>n-n^2</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            Write an expression for difference of a number and its reciprocal. 
+        </p>
+        <solution>
+            <p>
+                <m>n+\frac{1}{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+
+</worksheet>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="G3_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Graphing #3</title>
+
+    <objectives>
+                    <ul>
+                       
+                <li>    <p>
+                    <alert>G #3:</alert> I can describe a situation given a qualitative graph 
+                    with defined inputs and outputs.     
+                </p></li>
+                
+                </ul>
+            
+    </objectives>
+
+   <exercise>
+    <p>
+        Describe the situation being modeled in the graph.  Be specific when describing the direction the person is moving, when they are moving fastest, and when they are stopped.  Distance from home is measured in miles and time is measured in minutes.  
+    </p>
+    <image source="MTdistance.png">
+        <shortdescription>Graph as described in the solution</shortdescription>
+    </image>
+    <solution>
+        <p>
+            The person began driving away from home at 1 mile per minute.  After two minutes they stop for one minute.  They then drive an additional mile and a half from home before changing directions and returning home.  They were moving fastest in the first two minutes and in the final 3.5 minutes.  
+        </p>
+    </solution>
+   </exercise>
+
+   <exercise>
+    <p>
+        Consider a person in a hot air balloon. Describe the situation being modeled in the graph.
+Height of the balloon is measured in kilometers and time in hours.
+    </p>
+    <image source="MTballoon.png">
+        <shortdescription>A graph representing the height of a balloon.</shortdescription>
+    </image>
+    <solution>
+        <p>
+            The balloon rises at a constant rate to a flying height. They fly at this height for a few hours. They
+rise to a higher altitude and fly at this height for a while. Finally, descending to the ground.
+        </p>
+    </solution>
+   </exercise>
+
+   <exercise>
+        <introduction>
+        <p>
+            The graph below shows the distance from the starting line for one runner in a race.  Use the information in 
+            the graph to answer the questions that follow.
+        </p>
+        <image source="midtermgraph.png" width="40%">
+            <shortdescription>A graph showing the position of a runner at given times.</shortdescription>
+        </image>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving towards the finish line?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish
+                    line when the function is increasing, which happens at points A and E. 
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner stopped? (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is stopped when on a horizontal line, which occurs at point C.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    At which of the marked points is the runner moving the fastest?  (Select all that apply)
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The runner is moving the fastest when the line is the steepest, which occurs at point E.
+                </p>
+            </solution>
+        </task>
+    </exercise>
+
+</worksheet>
