@@ -76,7 +76,7 @@
         </p>
         <solution>
             <p>
-                <m>n+\frac{1}{n}</m>
+                <m>n-\frac{1}{n}</m>
             </p>
         </solution>
     </exercise>
