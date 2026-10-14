@@ -1693,13 +1693,103 @@ var ptx_lunr_docs = [
   "body": " Recreate the graph above on Desmos.  "
 },
 {
+  "id": "MTG2",
+  "level": "1",
+  "url": "MTG2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #2",
+  "body": " Graphing #2      G #2: I can sketch qualitative graphs given a written situation.     A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.     "
+},
+{
+  "id": "MTG2-2",
+  "level": "2",
+  "url": "MTG2.html#MTG2-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #2: I can sketch qualitative graphs given a written situation.   "
+},
+{
+  "id": "MTG2-3",
+  "level": "2",
+  "url": "MTG2.html#MTG2-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.    "
+},
+{
+  "id": "MTG3",
+  "level": "1",
+  "url": "MTG3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #3",
+  "body": " Graphing #3      G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.      The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.     "
+},
+{
+  "id": "MTG3-2",
+  "level": "2",
+  "url": "MTG3.html#MTG3-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.   "
+},
+{
+  "id": "MTG3-3",
+  "level": "2",
+  "url": "MTG3.html#MTG3-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.    "
+},
+{
+  "id": "MTLE1",
+  "level": "1",
+  "url": "MTLE1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #1",
+  "body": " Linear Equations #1      LE #1: I can interpret the meaning of the slope in a linear relationship.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.     Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.    "
+},
+{
+  "id": "MTLE1-2",
+  "level": "2",
+  "url": "MTLE1.html#MTLE1-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
+},
+{
+  "id": "MTLE1-3",
+  "level": "2",
+  "url": "MTLE1.html#MTLE1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.   "
+},
+{
+  "id": "MTLE1-4",
+  "level": "2",
+  "url": "MTLE1.html#MTLE1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.   "
+},
+{
   "id": "MTFull",
   "level": "1",
   "url": "MTFull.html",
   "type": "Worksheet",
   "number": "",
   "title": "Midterm Exam",
-  "body": " Midterm Exam      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.      Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                    Simplify each of the following expressions:                              Simplify each of the following expressions:                                  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the product of 3 and the reciprocal of a number.         Write an expression for the difference of 12 and the product of 2 and a number.        "
+  "body": " Midterm Exam      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.      Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                    Simplify each of the following expressions:                              Simplify each of the following expressions:                                  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Write an expression for the product of 3 and the reciprocal of a number.         Write an expression for the difference of 12 and the product of 2 and a number.         The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted      Recreate the graph above on Desmos.    A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.       The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.      Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.     Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.    "
 },
 {
   "id": "MTFull-2",
@@ -1708,7 +1798,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.   "
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
 },
 {
   "id": "MTFull-3",
@@ -1790,6 +1880,618 @@ var ptx_lunr_docs = [
   "number": "9",
   "title": "",
   "body": " Write an expression for the difference of 12 and the product of 2 and a number.       "
+},
+{
+  "id": "MTFull-12",
+  "level": "2",
+  "url": "MTFull.html#MTFull-12",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted    "
+},
+{
+  "id": "MTFull-13",
+  "level": "2",
+  "url": "MTFull.html#MTFull-13",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": " Recreate the graph above on Desmos.  "
+},
+{
+  "id": "MTFull-14",
+  "level": "2",
+  "url": "MTFull.html#MTFull-14",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": " A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.    "
+},
+{
+  "id": "MTFull-15",
+  "level": "2",
+  "url": "MTFull.html#MTFull-15",
+  "type": "Worksheet Exercise",
+  "number": "13",
+  "title": "",
+  "body": "  The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.    "
+},
+{
+  "id": "MTFull-16",
+  "level": "2",
+  "url": "MTFull.html#MTFull-16",
+  "type": "Worksheet Exercise",
+  "number": "14",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.   "
+},
+{
+  "id": "MTFull-17",
+  "level": "2",
+  "url": "MTFull.html#MTFull-17",
+  "type": "Worksheet Exercise",
+  "number": "15",
+  "title": "",
+  "body": " Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.   "
+},
+{
+  "id": "MTReview",
+  "level": "1",
+  "url": "MTReview.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Midterm Review",
+  "body": " Midterm Review      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.          "
+},
+{
+  "id": "MTReview-2",
+  "level": "2",
+  "url": "MTReview.html#MTReview-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
+},
+{
+  "id": "BSO1_PP",
+  "level": "1",
+  "url": "BSO1_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skills and Operations #1",
+  "body": " Basic Skills and Operations #1      BSO #1: I can identify and describe a visual pattern in words.     Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing center squares of length 1, 2, 3, and 4.    The pattern shows a central square with four squares additional squares, one at each corner. The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and increasing to a 4x4 square in step 4. We would expect the fifth step to have a central 5x5 square with 1x1 squares at each corner.   A 5x5 square with 1x1 squares at the corners.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a single square expanding to a growing x.    The pattern shows a central square to start, but with an extra square added to each corner on each additional step creating an X with growing arm lengths. We would expect the fifth step to be an X with 4 squares along each leg.   An X shape patterns with arms of length 4 and a central square      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of stacked squares.    The pattern starts with a single square. Each additional step adds a square to the right and one additional square on top of each column. We would expect the fifth step to be a triangle with five squares for the long leg.   A stack of square in a right triangular shape with sides of length 5      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional sector of the pie is being filled in. We would expect the fifth step to include a pie that is filled halfway.   a pie chart that is filled halfway.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed. We would expect the fifth step to include two pies that are completely filled and a third pie with 5 sectors filled in.   a pie chart      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing the shaded region of a box cut in half at each step    At each step of the pattern the amount of shading is cut in half. We would expect the fifth step to have four squares shaded.   A square 4-64ths shaded      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing stacked squares of 1, 5, 11, 19.    At each step of the pattern a number of additional squares, equal to the step number are added to both the left and right side of the pattern. To create the fifth step of the pattern we would take the pattern from step 4 and add 5 square to the left and 5 squares to the right.   A pattern with 29 squares.     "
+},
+{
+  "id": "BSO1_PP-2",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #1: I can identify and describe a visual pattern in words.   "
+},
+{
+  "id": "BSO1_PP-3",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing center squares of length 1, 2, 3, and 4.    The pattern shows a central square with four squares additional squares, one at each corner. The central square is increasing in size by 1 at each step starting as a 1x1 square in step 1 and increasing to a 4x4 square in step 4. We would expect the fifth step to have a central 5x5 square with 1x1 squares at each corner.   A 5x5 square with 1x1 squares at the corners.    "
+},
+{
+  "id": "BSO1_PP-4",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a single square expanding to a growing x.    The pattern shows a central square to start, but with an extra square added to each corner on each additional step creating an X with growing arm lengths. We would expect the fifth step to be an X with 4 squares along each leg.   An X shape patterns with arms of length 4 and a central square    "
+},
+{
+  "id": "BSO1_PP-5",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of stacked squares.    The pattern starts with a single square. Each additional step adds a square to the right and one additional square on top of each column. We would expect the fifth step to be a triangle with five squares for the long leg.   A stack of square in a right triangular shape with sides of length 5    "
+},
+{
+  "id": "BSO1_PP-6",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional sector of the pie is being filled in. We would expect the fifth step to include a pie that is filled halfway.   a pie chart that is filled halfway.    "
+},
+{
+  "id": "BSO1_PP-7",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing a sequence of filled pie charts.    At each step of the pattern an additional 3 sectors are being filled in with additional pies added as needed. We would expect the fifth step to include two pies that are completely filled and a third pie with 5 sectors filled in.   a pie chart    "
+},
+{
+  "id": "BSO1_PP-8",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing the shaded region of a box cut in half at each step    At each step of the pattern the amount of shading is cut in half. We would expect the fifth step to have four squares shaded.   A square 4-64ths shaded    "
+},
+{
+  "id": "BSO1_PP-9",
+  "level": "2",
+  "url": "BSO1_PP.html#BSO1_PP-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing stacked squares of 1, 5, 11, 19.    At each step of the pattern a number of additional squares, equal to the step number are added to both the left and right side of the pattern. To create the fifth step of the pattern we would take the pattern from step 4 and add 5 square to the left and 5 squares to the right.   A pattern with 29 squares.    "
+},
+{
+  "id": "BSO2_PP",
+  "level": "1",
+  "url": "BSO2_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skills and Operations #2",
+  "body": " Basic Skills and Operations #2      BSO #2: I can properly apply the order of operations to evaluate a numerical expression.     Simplify the following expression using correct order of operations:                  Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                  Simplify the following expression using correct order of operations:                   Simplify the following expression using correct order of operations:                    Simplify the following expression using correct order of operations:                   Simplify the following expression using correct order of operations:                    "
+},
+{
+  "id": "BSO2_PP-2",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.   "
+},
+{
+  "id": "BSO2_PP-3",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                "
+},
+{
+  "id": "BSO2_PP-4",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "BSO2_PP-5",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "BSO2_PP-6",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                "
+},
+{
+  "id": "BSO2_PP-7",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "BSO2_PP-8",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                  "
+},
+{
+  "id": "BSO2_PP-9",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "BSO2_PP-10",
+  "level": "2",
+  "url": "BSO2_PP.html#BSO2_PP-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Simplify the following expression using correct order of operations:                   "
+},
+{
+  "id": "BSO3_PP",
+  "level": "1",
+  "url": "BSO3_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skills and Operations #3",
+  "body": " Basic Skills and Operations #3      BSO #3: I can simplify algebraic expressions by combining like terms.                                                                              Simplify the following expressions.                                                              Simplify the following expressions.                                                                "
+},
+{
+  "id": "BSO3_PP-2",
+  "level": "2",
+  "url": "BSO3_PP.html#BSO3_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #3: I can simplify algebraic expressions by combining like terms.   "
+},
+{
+  "id": "BSO3_PP-3",
+  "level": "2",
+  "url": "BSO3_PP.html#BSO3_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "                                                                       "
+},
+{
+  "id": "BSO3_PP-4",
+  "level": "2",
+  "url": "BSO3_PP.html#BSO3_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Simplify the following expressions.                                                           "
+},
+{
+  "id": "BSO3_PP-5",
+  "level": "2",
+  "url": "BSO3_PP.html#BSO3_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Simplify the following expressions.                                                               "
+},
+{
+  "id": "BSO4_PP",
+  "level": "1",
+  "url": "BSO4_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skills and Operations #4",
+  "body": " Basic Skills and Operations #4      BSO #4: I can identify a numerical pattern and generalize the pattern using variables.      Consider the following table which lists the even numbers from 0 to 96.    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                     Consider the following table which lists the odd numbers from 1 to 97.    1  3  5  7  9  11  13    15  17  19  21  23  25  27    29  31  33  35  37  39  41    43  45  47  49  51  53  55    57  59  61  63  65  67  69    71  73  75  77  79  81  83    85  87  89  91  93  95  97       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                    Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 11. To find the lower right vertex we can subtract from 13.   To find the lower right vertex we could also have subtracted from 14.      Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.      Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.     "
+},
+{
+  "id": "BSO4_PP-2",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.   "
+},
+{
+  "id": "BSO4_PP-3",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the following table which lists the even numbers from 0 to 96.    0  2  4  6  8  10  12    14  16  18  20  22  24  26    28  30  32  34  36  38  40    42  44  46  48  50  52  54    56  58  60  62  64  66  68    70  72  74  76  78  80  82    84  86  88  90  92  94  96       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+},
+{
+  "id": "BSO4_PP-4",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider the following table which lists the odd numbers from 1 to 97.    1  3  5  7  9  11  13    15  17  19  21  23  25  27    29  31  33  35  37  39  41    43  45  47  49  51  53  55    57  59  61  63  65  67  69    71  73  75  77  79  81  83    85  87  89  91  93  95  97       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 14      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 16.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 2.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+},
+{
+  "id": "BSO4_PP-5",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 11. To find the lower right vertex we can subtract from 13.   To find the lower right vertex we could also have subtracted from 14.      Square polygon puzzle with sides 10, 13, 14, and 11 moving clockwise around the square.    "
+},
+{
+  "id": "BSO4_PP-6",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    To find the upper right vertex we subtract from 8. To find the lower left vertex we subtract from 6. To find the lower right vertex we can subtract from 14.   To find the lower right vertex we could also have subtracted from 12.      Square polygon puzzle with sides 8, 14, 12, and 6 moving clockwise around the square.    "
+},
+{
+  "id": "BSO4_PP-7",
+  "level": "2",
+  "url": "BSO4_PP.html#BSO4_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Generalize the solution to this polygon puzzle by writing the upper left corner as and then writing the remaining vertices in terms of .   Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    To find the upper right vertex we subtract from 10. To find the lower left vertex we subtract from 12. To find the lower right vertex we can subtract from 9.   To find the lower right vertex we could also have subtracted from 11.      Square polygon puzzle with sides 10, 9, 11, and 12 moving clockwise around the square.    "
+},
+{
+  "id": "BSO5_PP",
+  "level": "1",
+  "url": "BSO5_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Basic Skills and Operations #5",
+  "body": " Basic Skills and Operations #5      BSO #5: I can translate written words into mathematical expressions.     Write an expression for the sum of 4 and 2 times a number.         Write an expression for the product of 12 and the square root of a number.         Write an expression for the sum of three consecutive numbers.         Write an expression for the quotient of 2 and the sum of a number and 6.         Write an expression for the difference of a number and its square.         Write an expression for difference of a number and its reciprocal.        "
+},
+{
+  "id": "BSO5_PP-2",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    BSO #5: I can translate written words into mathematical expressions.   "
+},
+{
+  "id": "BSO5_PP-3",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Write an expression for the sum of 4 and 2 times a number.       "
+},
+{
+  "id": "BSO5_PP-4",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Write an expression for the product of 12 and the square root of a number.       "
+},
+{
+  "id": "BSO5_PP-5",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Write an expression for the sum of three consecutive numbers.       "
+},
+{
+  "id": "BSO5_PP-6",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Write an expression for the quotient of 2 and the sum of a number and 6.       "
+},
+{
+  "id": "BSO5_PP-7",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Write an expression for the difference of a number and its square.       "
+},
+{
+  "id": "BSO5_PP-8",
+  "level": "2",
+  "url": "BSO5_PP.html#BSO5_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Write an expression for difference of a number and its reciprocal.       "
+},
+{
+  "id": "G1_PP",
+  "level": "1",
+  "url": "G1_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #1",
+  "body": " Graphing #1      G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.     Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A baby's weight during the first year of life is recorded in the table     Age of baby (in months)  Weight of baby (in pounds)    0  7    2  11    4  15    6  16    8  19    10  20    12  21     Blank Grid for graphing      Grid with the points from the table plotted      Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A child's height, in inches, and weight, in pounds, are recorded in the table     Height (in inches)  Weight (in pounds)    28  22    31  27    33  33    37  35    40  41    42  45     Blank Grid for graphing      Grid with the points from the table plotted     "
+},
+{
+  "id": "G1_PP-2",
+  "level": "2",
+  "url": "G1_PP.html#G1_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.   "
+},
+{
+  "id": "G1_PP-3",
+  "level": "2",
+  "url": "G1_PP.html#G1_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A baby's weight during the first year of life is recorded in the table     Age of baby (in months)  Weight of baby (in pounds)    0  7    2  11    4  15    6  16    8  19    10  20    12  21     Blank Grid for graphing      Grid with the points from the table plotted    "
+},
+{
+  "id": "G1_PP-4",
+  "level": "2",
+  "url": "G1_PP.html#G1_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space. You should be able to complete this problem both by hand and using Desmos.  A child's height, in inches, and weight, in pounds, are recorded in the table     Height (in inches)  Weight (in pounds)    28  22    31  27    33  33    37  35    40  41    42  45     Blank Grid for graphing      Grid with the points from the table plotted    "
+},
+{
+  "id": "G2_PP",
+  "level": "1",
+  "url": "G2_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #2",
+  "body": " Graphing #2      G #2: I can sketch qualitative graphs given a written situation.     A football is thrown into the air and allowed to fall to the ground, where it bounces once. Draw a graph of the height of the ball in terms of the time since it was thrown.   A blank grid for drawing    The ball should start at some positive height along the vertical axis indicating where it was thrown from. The ball will gain altitude for a short amount of time and then fall back to the ground, this is shown by an increasing graph, followed by a decreasing segment that approaches the horizontal axis. When the ball hits the ground it bounces back up for a short amount of time and then again falls to the ground, represented by an additional increasing curve and a decreasing curve.   A qualitative graph representing the height of the football over time.      A person enters an elevator on the ground floor and rides it up to the third floor of a building. They walk around the corridor on that floor and then take an escalator back down to the ground level. Draw a graph of the height of the person above ground in terms of the time since they first entered the elevator.   Blank Grid for graphing    We start the graph at the origin with an increasing segment for a short length of time. The straight line shows that the elevator is going up at a constant rate. We then have a horizontal line indicating that they were at the same height when they were walking around the third floor. A decreasing line segment shows they returned to the ground floor at a constant rate.   A qualitative graph as described in the solution.      A vase is being filled with water at a constant rate, draw a qualitative graph that shows the height of the water at a given time.    Image of a vase with the width varying with height.    Blank grid for drawing     The graph will be increasing the fastest when the height is increasing fastest. This will occur when the the vase is the narrowest.   A graphical representation of height of the water     "
+},
+{
+  "id": "G2_PP-2",
+  "level": "2",
+  "url": "G2_PP.html#G2_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #2: I can sketch qualitative graphs given a written situation.   "
+},
+{
+  "id": "G2_PP-3",
+  "level": "2",
+  "url": "G2_PP.html#G2_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " A football is thrown into the air and allowed to fall to the ground, where it bounces once. Draw a graph of the height of the ball in terms of the time since it was thrown.   A blank grid for drawing    The ball should start at some positive height along the vertical axis indicating where it was thrown from. The ball will gain altitude for a short amount of time and then fall back to the ground, this is shown by an increasing graph, followed by a decreasing segment that approaches the horizontal axis. When the ball hits the ground it bounces back up for a short amount of time and then again falls to the ground, represented by an additional increasing curve and a decreasing curve.   A qualitative graph representing the height of the football over time.    "
+},
+{
+  "id": "G2_PP-4",
+  "level": "2",
+  "url": "G2_PP.html#G2_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " A person enters an elevator on the ground floor and rides it up to the third floor of a building. They walk around the corridor on that floor and then take an escalator back down to the ground level. Draw a graph of the height of the person above ground in terms of the time since they first entered the elevator.   Blank Grid for graphing    We start the graph at the origin with an increasing segment for a short length of time. The straight line shows that the elevator is going up at a constant rate. We then have a horizontal line indicating that they were at the same height when they were walking around the third floor. A decreasing line segment shows they returned to the ground floor at a constant rate.   A qualitative graph as described in the solution.    "
+},
+{
+  "id": "G2_PP-5",
+  "level": "2",
+  "url": "G2_PP.html#G2_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " A vase is being filled with water at a constant rate, draw a qualitative graph that shows the height of the water at a given time.    Image of a vase with the width varying with height.    Blank grid for drawing     The graph will be increasing the fastest when the height is increasing fastest. This will occur when the the vase is the narrowest.   A graphical representation of height of the water    "
+},
+{
+  "id": "G3_PP",
+  "level": "1",
+  "url": "G3_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Graphing #3",
+  "body": " Graphing #3      G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.     Describe the situation being modeled in the graph. Be specific when describing the direction the person is moving, when they are moving fastest, and when they are stopped. Distance from home is measured in miles and time is measured in minutes.   Graph as described in the solution    The person began driving away from home at 1 mile per minute. After two minutes they stop for one minute. They then drive an additional mile and a half from home before changing directions and returning home. They were moving fastest in the first two minutes and in the final 3.5 minutes.     Consider a person in a hot air balloon. Describe the situation being modeled in the graph. Height of the balloon is measured in kilometers and time in hours.   A graph representing the height of a balloon.    The balloon rises at a constant rate to a flying height. They fly at this height for a few hours. They rise to a higher altitude and fly at this height for a while. Finally, descending to the ground.      The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.     "
+},
+{
+  "id": "G3_PP-2",
+  "level": "2",
+  "url": "G3_PP.html#G3_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.   "
+},
+{
+  "id": "G3_PP-3",
+  "level": "2",
+  "url": "G3_PP.html#G3_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Describe the situation being modeled in the graph. Be specific when describing the direction the person is moving, when they are moving fastest, and when they are stopped. Distance from home is measured in miles and time is measured in minutes.   Graph as described in the solution    The person began driving away from home at 1 mile per minute. After two minutes they stop for one minute. They then drive an additional mile and a half from home before changing directions and returning home. They were moving fastest in the first two minutes and in the final 3.5 minutes.   "
+},
+{
+  "id": "G3_PP-4",
+  "level": "2",
+  "url": "G3_PP.html#G3_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider a person in a hot air balloon. Describe the situation being modeled in the graph. Height of the balloon is measured in kilometers and time in hours.   A graph representing the height of a balloon.    The balloon rises at a constant rate to a flying height. They fly at this height for a few hours. They rise to a higher altitude and fly at this height for a while. Finally, descending to the ground.   "
+},
+{
+  "id": "G3_PP-5",
+  "level": "2",
+  "url": "G3_PP.html#G3_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.    "
+},
+{
+  "id": "LE1_PP",
+  "level": "1",
+  "url": "LE1_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #1",
+  "body": " Linear Equations #1      LE #1: I can interpret the meaning of the slope in a linear relationship.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Number of stamps  Cost of postage    1  0.66    2  1.32    3  1.98    4  2.64    5  3.30     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the cost of postage is $0.66 per stamp.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Driving time (hours)  Driving distance (miles)    1  65    2  130    3  195    4  260    5  325     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the speed of the driver was 65 miles per hour.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Number of pencils  Cost of pencils (dollars)    10  1.20    20  2.40    30  3.60    40  4.80    50  6.00     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that it cost $0.12 per pencil.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Price of an item (dollars)  Tax (dollars)    20  0.70    40  1.40    60  2.10    80  2.80    100  3.50     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the tax is $0.035 for each $1 of value. (This corresponds to a 3.5% tax rate)     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Time spent reading (minutes)  Number of pages read    5  15    10  30    15  45    20  60    25  75     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that they are reading 3 pages every minute.    "
+},
+{
+  "id": "LE1_PP-2",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
+},
+{
+  "id": "LE1_PP-3",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Number of stamps  Cost of postage    1  0.66    2  1.32    3  1.98    4  2.64    5  3.30     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the cost of postage is $0.66 per stamp.   "
+},
+{
+  "id": "LE1_PP-4",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Driving time (hours)  Driving distance (miles)    1  65    2  130    3  195    4  260    5  325     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the speed of the driver was 65 miles per hour.   "
+},
+{
+  "id": "LE1_PP-5",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Number of pencils  Cost of pencils (dollars)    10  1.20    20  2.40    30  3.60    40  4.80    50  6.00     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that it cost $0.12 per pencil.   "
+},
+{
+  "id": "LE1_PP-6",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Price of an item (dollars)  Tax (dollars)    20  0.70    40  1.40    60  2.10    80  2.80    100  3.50     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that the tax is $0.035 for each $1 of value. (This corresponds to a 3.5% tax rate)   "
+},
+{
+  "id": "LE1_PP-7",
+  "level": "2",
+  "url": "LE1_PP.html#LE1_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Time spent reading (minutes)  Number of pages read    5  15    10  30    15  45    20  60    25  75     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that they are reading 3 pages every minute.   "
 },
 {
   "id": "CH-Course-2",
