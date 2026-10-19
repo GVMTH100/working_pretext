@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet xml:id="MTBSO2" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Basic Skill and Operations #2</title>
+    <title>Basic Skill and Operations #2 and #5</title>
 
     <objectives>
                     <ul><li>    <p>
                     <alert>BSO #2:</alert> I can properly apply the order of operations to evaluate a numerical expression. 
-                </p></li></ul>
+                </p></li>
+            <li>    <p>
+                    <alert>BSO #5:</alert> I can translate written words into
+                    mathematical expressions.
+                </p></li>
+            </ul>
             
     </objectives>
 
 <exercise workspace="1.5in">
         <p>
-        Simplify the following expression using correct order of operations:
+        <alert>BSO #2:</alert> Simplify the following expression using correct order of operations:
         <md>
             \frac{9-4}{5-3}(9-3)+2^2\cdot4\div2-5\cdot(2+1)
         </md>
@@ -62,7 +67,7 @@
     
 <exercise workspace="1.5in">
         <p>
-        Simplify the following expression using correct order of operations:
+        <alert>BSO #2:</alert> Simplify the following expression using correct order of operations:
         <md>
             \sqrt{4+12}-2^3\div4\cdot3+3(2-5)\div9
         </md>
@@ -103,6 +108,28 @@
         
         </p>
     </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            <alert>BSO #5:</alert> Write an expression for the product of 3 and the reciprocal of a number.
+        </p>
+        <solution>
+            <p>
+                <m>3\frac{1}{n}</m>
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.25in">
+        <p>
+            <alert>BSO #5:</alert> Write an expression for the difference of 12 and the product of 2 and a number.
+        </p>
+        <solution>
+            <p>
+                <m>12-2n</m>
+            </p>
+        </solution>
     </exercise>
 
     </worksheet>

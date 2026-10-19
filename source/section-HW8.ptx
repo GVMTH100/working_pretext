@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="HW8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework Set 8</title>
+ 
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+   <exercise workspace="0.5in">
+      <statement>
+        <p>
+          For each of the following tables, determine the equation of the line that matches the data.
+
+          <sidebyside>
+            <tabular top="minor" left="minor" halign="center">
+              <row header="yes" bottom="minor">
+                <cell right="minor"><m>x</m></cell>
+                <cell right="minor"><m>y</m></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">4</cell>
+                <cell right="minor">5</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">8</cell>
+                <cell right="minor">7</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">12</cell>
+                <cell right="minor">9</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">16</cell>
+                <cell right="minor">11</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">20</cell>
+                <cell right="minor">13</cell>
+              </row>
+            </tabular>
+
+            <tabular top="minor" left="minor" halign="center">
+              <row header="yes" bottom="minor">
+                <cell right="minor"><m>x</m></cell>
+                <cell right="minor"><m>y</m></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">3</cell>
+                <cell right="minor">4</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">6</cell>
+                <cell right="minor">8</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">9</cell>
+                <cell right="minor">12</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">12</cell>
+                <cell right="minor">16</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">15</cell>
+                <cell right="minor">20</cell>
+              </row>
+            </tabular>
+
+            <tabular top="minor" left="minor" halign="center">
+              <row header="yes" bottom="minor">
+                <cell right="minor"><m>x</m></cell>
+                <cell right="minor"><m>y</m></cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">6</cell>
+                <cell right="minor">12</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">8</cell>
+                <cell right="minor">9</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">10</cell>
+                <cell right="minor">6</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">12</cell>
+                <cell right="minor">3</cell>
+              </row>
+
+              <row bottom="minor">
+                <cell right="minor">14</cell>
+                <cell right="minor">0</cell>
+              </row>
+            </tabular>
+          </sidebyside>
+        </p>
+      </statement>
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+          Summarize your understanding of linear functions. Answer the questions below. 
+        </p>
+      </introduction>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            What do you know about the slope?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the slope from a table?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the slope from a graph?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the slope from an equation?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the slope from a context or story? 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            What do you know about the <m>y</m>-intercept?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the <m>y</m>-intercept from a table?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the <m>y</m>-intercept from a graph?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the <m>y</m>-intercept from an equation?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            How can you determine the <m>y</m>-intercept from a context or story?
+          </p>
+        </statement>
+      </task>
+
+    </exercise>
+
+      <exercise>
+      <introduction>
+        <p>
+          Study the graphs. Find an equation for each graph. Do not estimate; use grid points to find each equation accurately. In each case, explain how you know your choices of slope and <m>y</m>-intercept are correct.
+        </p>
+      </introduction>
+
+      <task>
+        <image source="big-ideas-graph-1" width="50%">
+          <description></description>
+        </image>
+      </task>
+
+      <task>
+        <image source="big-ideas-graph-2" width="50%">
+          <description></description>
+        </image>
+      </task>
+
+      <task>
+        <image source="big-ideas-graph-3" width="50%">
+          <description></description>
+        </image>
+      </task>
+    </exercise>
+
+     <exercise>
+      <introduction>
+        <p>
+          Study each context. For each context, find an equation. In each case, explain how you know your choices of slope and <m>y</m>-intercept are correct.
+        </p>
+      </introduction>
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Fia earns 3 points every time she finds a star in her <pubtitle>Dora the Explorer</pubtitle> game. She earns a one-time bonus of 50 points in each level for finding a banana for her monkey friend, Boots. Based on the number of stars she finds, how many points will Fia earn in a level if she always finds the banana?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Valen earns $5 each week for doing his chores. Each time his mom has to remind him, there is a $0.50 deduction from his allowance. How much will Valen earn in a week based on the number of times he needs to be reminded to do his chores?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Jackson has $18. Each month, he pays $4 to stream music on his iPod. How much money does he have or owe based on the number of months he streams music?
+          </p>
+        </statement>
+      </task>
+
+    </exercise>
+
+</worksheet>

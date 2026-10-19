@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="HW7" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework Set 7</title>
+ 
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+   <exercise xml:id="HW7A">
+      <introduction>
+        <p>
+          A step conversion chart indicates that if you walk 4 miles per hour, you would take approximately 140 steps per minute. The same chart shows that if you cycle at 15 miles per hour, you would take the equivalent of 160 steps per minute.
+        </p>
+       
+          <tabular halign="center" left="minor" top="minor">
+            <row header="yes" bottom="minor">
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell colspan="2" right="minor">
+                Number of steps taken
+              </cell>
+            </row>
+            <row header="yes" bottom="minor">
+              <cell right="minor">
+                Number of Minutes
+              </cell>
+              <cell right="minor">
+                Walking at 4 mph
+              </cell>
+              <cell right="minor">
+                Cycling at 15 mph
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                1
+              </cell>
+              <cell right="minor">
+                140
+              </cell>
+              <cell right="minor">
+                160
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                2
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                3
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                4
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                5
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                10
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                20
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            <row bottom="minor">
+              <cell right="minor">
+                60
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+              <cell right="minor">
+                <nbsp />
+              </cell>
+            </row>
+            
+          </tabular>
+        
+      </introduction>
+
+      <task>
+        <statement>
+          <p>
+            Complete the table.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Find an equation for the number of steps taken walking at 4 mph in terms of the number of minutes walked.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Find an equation for the equivalent number of steps taken biking at 15 mph in terms of the number of minutes
+            biked.
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            Plot the data for both exercises together. 
+            Label scales and titles for each axis. You may also choose to do on Desmos instead and 
+            print your graph and include it with your assignment.
+          </p>
+          <image source="BlankGrid10.png" width="50%">
+            <shortdescription>Blank grid for graphing</shortdescription>
+          </image>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How long would you have to walk at 4 mph to get the equivalent of 10,000 steps?  Be sure to show or explain your work.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How long would you have to bike at 15 mph to get the equivalent of 10,000 steps?  Be sure to show or explain your work.
+          </p>
+        </statement>
+      </task>
+
+
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+            Look back to the previous question to answer the following questions.
+        </p>
+      </introduction>
+        
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Is the relationship between the equivalent number of steps taken cycling at 15 mph, linear or non-linear?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How can you tell from the table?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How can you tell from a graph?
+          </p>
+        </statement>
+      </task>
+      
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+          When you eat at a sit-down restaurant, it is customary to leave a tip to reward the server for good service. Suppose you always leave a 15% tip.
+        </p>
+      </introduction>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Write in words how you would determine how much to tip a server if the amount of your check is $30.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            What if your check is $40?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            What if your check is <m>D</m> dollars?
+          </p>
+        </statement>
+      </task>
+
+      <task xml:id="exer-tip-eq" workspace="0.5in">
+        <statement>
+          <p>
+            Write an algebraic expression to compute the amount of the tip to leave the server if the tip is 15% of the check and your check is <m>D</m> dollars.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How can you quickly estimate a 15% tip?
+          </p>
+        </statement>
+      </task>
+
+      
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+          A dog's life span is a fraction of time compared to that of humans. The table below shows a how a dog's age might be adjusted to compare to a human's age.
+        </p>
+        
+          <tabular left="minor" top="minor" bottom="minor" right="minor" halign="center">
+            <row>
+                <cell><line>Number of actual</line><line>years of life, <m>y</m></line></cell>
+                <cell><line>Comparative human age</line><line>(dog years), <m>d</m></line></cell>
+            </row>
+            <row>
+                <cell>1</cell>
+                <cell>6.5</cell>
+            </row>
+            <row>
+                <cell>2</cell>
+                <cell>13</cell>
+            </row>
+            <row>
+                <cell>3</cell>
+                <cell>19.5</cell>
+            </row>
+            <row>
+                <cell>4</cell>
+                <cell>26</cell>
+            </row>
+            <row>
+                <cell>5</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell>6</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell>7</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell>8</cell>
+                <cell></cell>
+            </row>
+        </tabular>
+
+             
+              
+      </introduction>
+
+      <task>
+        <statement>
+          <p>
+            Find the pattern and fill in the missing values in the table.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            What expression can you use to find a comparative human age for a dog that is <m>y</m> actual years old?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Would you call a dog middle-aged if she is 7 actual years old? Why or why not?
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    
+
+</worksheet>
