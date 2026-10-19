@@ -685,6 +685,96 @@ var ptx_lunr_docs = [
   "body": "  Suppose we have an unusual tank whose base is a perfect sphere, and then atop the spherical base is a cylindrical chimney that is a circular cylinder, as shown. The tank is initially empty, but then a spigot is turned on that pumps water into the tank at a constant rate.  A spherical tank with a cylindrical chimney.   On the blank axes provided below, sketch (by hand) possible graphs of how volume and time change in tandem and how height and time change in tandem.   Blank Grid  Blank Grid    "
 },
 {
+  "id": "HW7",
+  "level": "1",
+  "url": "HW7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 7",
+  "body": " Homework Set 7    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     A step conversion chart indicates that if you walk 4 miles per hour, you would take approximately 140 steps per minute. The same chart shows that if you cycle at 15 miles per hour, you would take the equivalent of 160 steps per minute.       Number of steps taken    Number of Minutes  Walking at 4 mph  Cycling at 15 mph    1  140  160    2          3          4          5          10          20          60             Complete the table.      Find an equation for the number of steps taken walking at 4 mph in terms of the number of minutes walked.      Find an equation for the equivalent number of steps taken biking at 15 mph in terms of the number of minutes biked.      Plot the data for both exercises together. Label scales and titles for each axis. You may also choose to do on Desmos instead and print your graph and include it with your assignment.   Blank grid for graphing       How long would you have to walk at 4 mph to get the equivalent of 10,000 steps? Be sure to show or explain your work.      How long would you have to bike at 15 mph to get the equivalent of 10,000 steps? Be sure to show or explain your work.       Look back to the previous question to answer the following questions.     Is the relationship between the equivalent number of steps taken cycling at 15 mph, linear or non-linear?      How can you tell from the table?      How can you tell from a graph?       When you eat at a sit-down restaurant, it is customary to leave a tip to reward the server for good service. Suppose you always leave a 15% tip.     Write in words how you would determine how much to tip a server if the amount of your check is $30.      What if your check is $40?      What if your check is dollars?      Write an algebraic expression to compute the amount of the tip to leave the server if the tip is 15% of the check and your check is dollars.      How can you quickly estimate a 15% tip?       A dog's life span is a fraction of time compared to that of humans. The table below shows a how a dog's age might be adjusted to compare to a human's age.    Number of actual years of life,  Comparative human age (dog years),    1  6.5    2  13    3  19.5    4  26    5     6     7     8        Find the pattern and fill in the missing values in the table.      What expression can you use to find a comparative human age for a dog that is actual years old?      Would you call a dog middle-aged if she is 7 actual years old? Why or why not?     "
+},
+{
+  "id": "HW7A",
+  "level": "2",
+  "url": "HW7.html#HW7A",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A step conversion chart indicates that if you walk 4 miles per hour, you would take approximately 140 steps per minute. The same chart shows that if you cycle at 15 miles per hour, you would take the equivalent of 160 steps per minute.       Number of steps taken    Number of Minutes  Walking at 4 mph  Cycling at 15 mph    1  140  160    2          3          4          5          10          20          60             Complete the table.      Find an equation for the number of steps taken walking at 4 mph in terms of the number of minutes walked.      Find an equation for the equivalent number of steps taken biking at 15 mph in terms of the number of minutes biked.      Plot the data for both exercises together. Label scales and titles for each axis. You may also choose to do on Desmos instead and print your graph and include it with your assignment.   Blank grid for graphing       How long would you have to walk at 4 mph to get the equivalent of 10,000 steps? Be sure to show or explain your work.      How long would you have to bike at 15 mph to get the equivalent of 10,000 steps? Be sure to show or explain your work.    "
+},
+{
+  "id": "HW7-4",
+  "level": "2",
+  "url": "HW7.html#HW7-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Look back to the previous question to answer the following questions.     Is the relationship between the equivalent number of steps taken cycling at 15 mph, linear or non-linear?      How can you tell from the table?      How can you tell from a graph?    "
+},
+{
+  "id": "HW7-5",
+  "level": "2",
+  "url": "HW7.html#HW7-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  When you eat at a sit-down restaurant, it is customary to leave a tip to reward the server for good service. Suppose you always leave a 15% tip.     Write in words how you would determine how much to tip a server if the amount of your check is $30.      What if your check is $40?      What if your check is dollars?      Write an algebraic expression to compute the amount of the tip to leave the server if the tip is 15% of the check and your check is dollars.      How can you quickly estimate a 15% tip?    "
+},
+{
+  "id": "HW7-6",
+  "level": "2",
+  "url": "HW7.html#HW7-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  A dog's life span is a fraction of time compared to that of humans. The table below shows a how a dog's age might be adjusted to compare to a human's age.    Number of actual years of life,  Comparative human age (dog years),    1  6.5    2  13    3  19.5    4  26    5     6     7     8        Find the pattern and fill in the missing values in the table.      What expression can you use to find a comparative human age for a dog that is actual years old?      Would you call a dog middle-aged if she is 7 actual years old? Why or why not?    "
+},
+{
+  "id": "HW8",
+  "level": "1",
+  "url": "HW8.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 8",
+  "body": " Homework Set 8    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     For each of the following tables, determine the equation of the line that matches the data.        4  5    8  7    12  9    16  11    20  13          3  4    6  8    9  12    12  16    15  20          6  12    8  9    10  6    12  3    14  0          Summarize your understanding of linear functions. Answer the questions below.     What do you know about the slope?      How can you determine the slope from a table?      How can you determine the slope from a graph?      How can you determine the slope from an equation?      How can you determine the slope from a context or story?      What do you know about the -intercept?      How can you determine the -intercept from a table?      How can you determine the -intercept from a graph?      How can you determine the -intercept from an equation?      How can you determine the -intercept from a context or story?       Study the graphs. Find an equation for each graph. Do not estimate; use grid points to find each equation accurately. In each case, explain how you know your choices of slope and -intercept are correct.                     Study each context. For each context, find an equation. In each case, explain how you know your choices of slope and -intercept are correct.     Fia earns 3 points every time she finds a star in her Dora the Explorer game. She earns a one-time bonus of 50 points in each level for finding a banana for her monkey friend, Boots. Based on the number of stars she finds, how many points will Fia earn in a level if she always finds the banana?      Valen earns $5 each week for doing his chores. Each time his mom has to remind him, there is a $0.50 deduction from his allowance. How much will Valen earn in a week based on the number of times he needs to be reminded to do his chores?      Jackson has $18. Each month, he pays $4 to stream music on his iPod. How much money does he have or owe based on the number of months he streams music?     "
+},
+{
+  "id": "HW8-3",
+  "level": "2",
+  "url": "HW8.html#HW8-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  For each of the following tables, determine the equation of the line that matches the data.        4  5    8  7    12  9    16  11    20  13          3  4    6  8    9  12    12  16    15  20          6  12    8  9    10  6    12  3    14  0       "
+},
+{
+  "id": "HW8-4",
+  "level": "2",
+  "url": "HW8.html#HW8-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Summarize your understanding of linear functions. Answer the questions below.     What do you know about the slope?      How can you determine the slope from a table?      How can you determine the slope from a graph?      How can you determine the slope from an equation?      How can you determine the slope from a context or story?      What do you know about the -intercept?      How can you determine the -intercept from a table?      How can you determine the -intercept from a graph?      How can you determine the -intercept from an equation?      How can you determine the -intercept from a context or story?    "
+},
+{
+  "id": "HW8-5",
+  "level": "2",
+  "url": "HW8.html#HW8-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Study the graphs. Find an equation for each graph. Do not estimate; use grid points to find each equation accurately. In each case, explain how you know your choices of slope and -intercept are correct.                  "
+},
+{
+  "id": "HW8-6",
+  "level": "2",
+  "url": "HW8.html#HW8-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Study each context. For each context, find an equation. In each case, explain how you know your choices of slope and -intercept are correct.     Fia earns 3 points every time she finds a star in her Dora the Explorer game. She earns a one-time bonus of 50 points in each level for finding a banana for her monkey friend, Boots. Based on the number of stars she finds, how many points will Fia earn in a level if she always finds the banana?      Valen earns $5 each week for doing his chores. Each time his mom has to remind him, there is a $0.50 deduction from his allowance. How much will Valen earn in a week based on the number of times he needs to be reminded to do his chores?      Jackson has $18. Each month, he pays $4 to stream music on his iPod. How much money does he have or owe based on the number of months he streams music?    "
+},
+{
   "id": "CH-MathMindset-2",
   "level": "1",
   "url": "CH-MathMindset-2.html",
@@ -1527,8 +1617,8 @@ var ptx_lunr_docs = [
   "url": "MTBSO2.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Basic Skill and Operations #2",
-  "body": " Basic Skill and Operations #2     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    Simplify the following expression using correct order of operations:                     Simplify the following expression using correct order of operations:                  "
+  "title": "Basic Skill and Operations #2 and #5",
+  "body": " Basic Skill and Operations #2 and #5     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #5: I can translate written words into mathematical expressions.      BSO #2: Simplify the following expression using correct order of operations:                      BSO #2: Simplify the following expression using correct order of operations:                    BSO #5: Write an expression for the product of 3 and the reciprocal of a number.          BSO #5: Write an expression for the difference of 12 and the product of 2 and a number.        "
 },
 {
   "id": "MTBSO2-2",
@@ -1537,7 +1627,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   BSO #2: I can properly apply the order of operations to evaluate a numerical expression.  "
+  "body": "   BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #5: I can translate written words into mathematical expressions.   "
 },
 {
   "id": "MTBSO2-3",
@@ -1546,7 +1636,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Simplify the following expression using correct order of operations:                   "
+  "body": "  BSO #2: Simplify the following expression using correct order of operations:                   "
 },
 {
   "id": "MTBSO2-4",
@@ -1555,7 +1645,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " Simplify the following expression using correct order of operations:                 "
+  "body": "  BSO #2: Simplify the following expression using correct order of operations:                 "
+},
+{
+  "id": "MTBSO2-5",
+  "level": "2",
+  "url": "MTBSO2.html#MTBSO2-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  BSO #5: Write an expression for the product of 3 and the reciprocal of a number.       "
+},
+{
+  "id": "MTBSO2-6",
+  "level": "2",
+  "url": "MTBSO2.html#MTBSO2-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  BSO #5: Write an expression for the difference of 12 and the product of 2 and a number.       "
 },
 {
   "id": "MTBSO3",
@@ -2554,7 +2662,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Sources",
-  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                     The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      The following problems were adopted from Algebra and Trigonometry by Jay Abramson on OpenStax.     "
+  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                      The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      The following problems were adopted from Algebra and Trigonometry by Jay Abramson on OpenStax.     "
 },
 {
   "id": "backmatter-2",
