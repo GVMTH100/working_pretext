@@ -412,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Equations of lines",
-  "body": " Equations of lines   Pricing Pizzas   Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?     Complete the table below.    Description  individual  small  medium  large  extra large    Diameter of pizza  10 inches  12 inches  14 inches  16 inches  18 inches    Price of Plain Cheese Pizza  10.49  11.49  13.49  14.49  14.99    Cost of one topping on pizza  1.25  1.50  1.75  2.00  2.25    Price of Cheese Pizza with 1 topping         Price of Cheese Pizza with 2 toppings         Price of Cheese Pizza with 3 toppings         Price of Cheese Pizza with 4 toppings         Price of Cheese Pizza with 5 toppings         Price, , of Cheese Pizza with toppings (equation)             For each type of pizza, find an equation that gives the price of a pizza with toppings. Write the equation in the last row of the table above.      Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?      Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?      Which graph is the steepest? What is the slope of the steepest graph?      How does the slope show up in the table?      How does the slope show up in the equation?      Which graph has the largest -intercept?      How can you tell the -intercept from the graph?      How can you tell the -intercept from the table?      How can you tell the -intercept from the equation?      The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?     "
+  "body": " Equations of lines   Pricing Pizzas   Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?     Complete the table below.    Description  individual  small  medium  large  extra large    Diameter of pizza  10 inches  12 inches  14 inches  16 inches  18 inches    Price of Plain Cheese Pizza  10.49  11.49  13.49  14.49  14.99    Cost of one topping on pizza  1.25  1.50  1.75  2.00  2.25    Price of Cheese Pizza with 1 topping         Price of Cheese Pizza with 2 toppings         Price of Cheese Pizza with 3 toppings         Price of Cheese Pizza with 4 toppings         Price of Cheese Pizza with 5 toppings         Price, , of Cheese Pizza with toppings (equation)             For each type of pizza, find an equation that gives the price of a pizza with toppings. Write the equation in the last row of the table above.      Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?      Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?      Which graph is the steepest? What is the slope of the steepest graph?      How does the slope show up in the table?      How does the slope show up in the equation?      Which graph has the largest -intercept?      How can you tell the -intercept from the graph?      How can you tell the -intercept from the table?      How can you tell the -intercept from the equation?      The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?      Distinguishing Linear from Other Functions    Study the data sets. Label each data set as linear or non-linear. Explain your choice.                              0     1     2  0    3  2    4  4    5  6           0.03125     0.0625     0.125     0.25     0.5    0  1    1  2    2  4    3  8    4  16    5  32           25     16     9     4     1    0  0    1  1    2  4    3  9    4  16    5  25        What patterns would you see in a table that can be modeled by a linear equation?      Categorize each graph as linear or non-linear. Explain your choice.     graph of a straight line    graph of a parabola    graph of an exponential curve       How can you tell a graph can be modeled by a linear equation?      Determine whether each story would require a linear or non-linear model. Explain your choice.    Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows 3 inches.  Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose doubles in length.  Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long.      How can you tell a story can be modeled by a linear equation?      Categorize each equation as linear or non-linear. Explain your choice.                 What does an equation of a linear equation look like?      Linear Wedding Scenarios   The tables below present the cost of hosting a wedding at three different venues. Each venue gave you price sheets based on the number of guest. Start by verifying that each venues price is linear.   width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Cost Picture Perfect  Cost Wedding Place    0  7,000  0  10,000    50  10,250  6,250  12,500    100  13,500  12,500  15,000    150  16,750  18,750  17,500    200  20,000  25,000  20,000    250  23,250  31,250  22,500    300  26,500  37,500  25,000      Plot all three data sets on Desmos.    You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    Let be the total cost of the wedding and be the number of guests attending the wedding. Find a formula for for each of the three wedding venues.    Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas to find the cost for their wedding at each of the three venues.    For each of the cost formulas you found, state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.      Two forms of the line.   Slope-intercept form:  where is the slope of the line and is the -intercept.   Point-slope form:  where is the slope of the line and is any point on the line.  Find the equation of the line for each graph below.     The graph of a line      The graph of a line      The graph of a line      Find the equation of the line that passes through the points (2, 4) and (7, 12).    Find the equation of the line that passes through the points (9, 7) and (3, 11).    A company found that if it priced its product at $40 it would sell 120 items per week. Experimenting with different prices, they found that for every $5 increase in price they sold 12 fewer items each week. Find the equation for a function that models the relationship between weekly demand of the product in terms of its price.    To be eligible for certain benefits an income limit test is applied. For a family of three, monthly income must be no more than $2694. For a family of six, the monthly income must be no more than $4364. There is a linear relationship between family size and the income limit. Find a linear equation that describes the income limit in terms of family size. What is the income limit for a family of seven?   "
 },
 {
   "id": "ws-lines-2",
@@ -422,6 +422,177 @@ var ptx_lunr_docs = [
   "number": "34",
   "title": "Pricing Pizzas.",
   "body": " Pricing Pizzas   Pizza restaurants let you customize your pizza. You can also order specialty pizzas. Are you getting a good deal? If so, how good is the deal are you getting? If not, why is the deal not so good?     Complete the table below.    Description  individual  small  medium  large  extra large    Diameter of pizza  10 inches  12 inches  14 inches  16 inches  18 inches    Price of Plain Cheese Pizza  10.49  11.49  13.49  14.49  14.99    Cost of one topping on pizza  1.25  1.50  1.75  2.00  2.25    Price of Cheese Pizza with 1 topping         Price of Cheese Pizza with 2 toppings         Price of Cheese Pizza with 3 toppings         Price of Cheese Pizza with 4 toppings         Price of Cheese Pizza with 5 toppings         Price, , of Cheese Pizza with toppings (equation)             For each type of pizza, find an equation that gives the price of a pizza with toppings. Write the equation in the last row of the table above.      Compare the equations for each pizza type. If you graph these equations, which graph would you expect to be steepest? Why?      Using an electronic graphing tool and different colors for each pizza size, graph all of the pizza data. Choose appropriate scales for each axis. Label the scales and titles. Label each graph with pizza size. Compare the graphs. What do you notice?      Which graph is the steepest? What is the slope of the steepest graph?      How does the slope show up in the table?      How does the slope show up in the equation?      Which graph has the largest -intercept?      How can you tell the -intercept from the graph?      How can you tell the -intercept from the table?      How can you tell the -intercept from the equation?      The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?    "
+},
+{
+  "id": "ws-lines-3",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-3",
+  "type": "Example",
+  "number": "35",
+  "title": "Distinguishing Linear from Other Functions.",
+  "body": " Distinguishing Linear from Other Functions    Study the data sets. Label each data set as linear or non-linear. Explain your choice.                              0     1     2  0    3  2    4  4    5  6           0.03125     0.0625     0.125     0.25     0.5    0  1    1  2    2  4    3  8    4  16    5  32           25     16     9     4     1    0  0    1  1    2  4    3  9    4  16    5  25        What patterns would you see in a table that can be modeled by a linear equation?      Categorize each graph as linear or non-linear. Explain your choice.     graph of a straight line    graph of a parabola    graph of an exponential curve       How can you tell a graph can be modeled by a linear equation?      Determine whether each story would require a linear or non-linear model. Explain your choice.    Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows 3 inches.  Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose doubles in length.  Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long.      How can you tell a story can be modeled by a linear equation?      Categorize each equation as linear or non-linear. Explain your choice.                 What does an equation of a linear equation look like?    "
+},
+{
+  "id": "ws-lines-4",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-4",
+  "type": "Example",
+  "number": "36",
+  "title": "Linear Wedding Scenarios.",
+  "body": " Linear Wedding Scenarios   The tables below present the cost of hosting a wedding at three different venues. Each venue gave you price sheets based on the number of guest. Start by verifying that each venues price is linear.   width=50% halign=\"center\"  width=50%   Guests  Cost Wedding-R-Us  Cost Picture Perfect  Cost Wedding Place    0  7,000  0  10,000    50  10,250  6,250  12,500    100  13,500  12,500  15,000    150  16,750  18,750  17,500    200  20,000  25,000  20,000    250  23,250  31,250  22,500    300  26,500  37,500  25,000      Plot all three data sets on Desmos.    You want to have 350 guests at your wedding. Follow the pattern to find the cost at each of the three venues.    Let be the total cost of the wedding and be the number of guests attending the wedding. Find a formula for for each of the three wedding venues.    Your friends Maria and Julio are looking for wedding venues as well. They plan to have 1000 people at their wedding, Use your formulas to find the cost for their wedding at each of the three venues.    For each of the cost formulas you found, state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.   "
+},
+{
+  "id": "ws-lines-5",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-5",
+  "type": "Example",
+  "number": "37",
+  "title": "",
+  "body": "  Two forms of the line.   Slope-intercept form:  where is the slope of the line and is the -intercept.   Point-slope form:  where is the slope of the line and is any point on the line.  Find the equation of the line for each graph below.     The graph of a line      The graph of a line      The graph of a line    "
+},
+{
+  "id": "ws-lines-6",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-6",
+  "type": "Example",
+  "number": "38",
+  "title": "",
+  "body": " Find the equation of the line that passes through the points (2, 4) and (7, 12).  "
+},
+{
+  "id": "ws-lines-7",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-7",
+  "type": "Example",
+  "number": "39",
+  "title": "",
+  "body": " Find the equation of the line that passes through the points (9, 7) and (3, 11).  "
+},
+{
+  "id": "ws-lines-8",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-8",
+  "type": "Example",
+  "number": "40",
+  "title": "",
+  "body": " A company found that if it priced its product at $40 it would sell 120 items per week. Experimenting with different prices, they found that for every $5 increase in price they sold 12 fewer items each week. Find the equation for a function that models the relationship between weekly demand of the product in terms of its price.  "
+},
+{
+  "id": "ws-lines-9",
+  "level": "2",
+  "url": "ws-lines.html#ws-lines-9",
+  "type": "Example",
+  "number": "41",
+  "title": "",
+  "body": " To be eligible for certain benefits an income limit test is applied. For a family of three, monthly income must be no more than $2694. For a family of six, the monthly income must be no more than $4364. There is a linear relationship between family size and the income limit. Find a linear equation that describes the income limit in terms of family size. What is the income limit for a family of seven?  "
+},
+{
+  "id": "functions",
+  "level": "1",
+  "url": "functions.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Functions",
+  "body": " Functions   Definition: A function is a relationship with the condition that each input value is assigned to one and only one output value.   Numerical representations of relationships are given below, determine if any of these relationships are functions.     n  D    0  0    1  2    2  4    3  6    4  8      x  S    -2  4    -1  1    0  0    1  1    2  4      t  R    0  0    0.25  0    0.5  0    0.5  1    0.75  1    1  1       The graphical representation of four relationships is given below. Are these relationship functions? Why? For those examples that are functions state the domain and range of the function.    Graph of a line    Graph of a radical function      Graph of a circle    Graph of a parabola      Vertical Line Test - A relation is a function if and only if every vertical line intersects the graph of the relation at no more than one point.   Function notation - The equation form of a function is referred to as function notation. In function notation we write the output variable followed by the input variable in parentheses. As an example consider the equation which relates revenue of an item to price. We read as “the output variable revenue (R) in terms of the input variable price (p)”. This often gets shortened to “R of p”, but notice it is a statement of assignment and not of multiplication.   Consider the function , evaluate:                  Use Desmos to evaluate the function at each of the indicated values in the table.        -5     -4     -3     -2     -1     0     1     2     3     4     5        A function is given in each of its three forms. Determine how you would evaluate functional values for each representation.      Function Notation             .     .  Find when          Graphical      Graph of the line y=2x+5        .     .  Find when          Numerical           0  5    1  7    2  9    3  11    4  13    5  15         .     .  Find when          For each of the scenarios presented explain the meaning of the given expression in terms of the stated scenario.     Suppose that represents the height of a ball, in feet, seconds after it has been thrown. Explain the meaning of the statement: .      Suppose that represents the weight of a dog, in pounds, at an age of weeks. Explain the meaning of the statement: .      Suppose that represents the number of US states, years after 1776. Explain the meaning of the statement: .       Resident students taking between 6 and 12 credit hours at a local community college paid $382.50 per credit hour for tuition, $30 per semester for a student records fee, and $15 per semester for a technology fee. Let be the total one-semester cost (in dollars) of tuition and fees for a student who is taking credit hours.     What is the slope of the graph of ? What does it mean in this situation?      Find an equation for .      Find . What does it mean in this situation?      Find when . What does it mean in this situation?      What is the domain of ?     "
+},
+{
+  "id": "functions-3",
+  "level": "2",
+  "url": "functions.html#functions-3",
+  "type": "Example",
+  "number": "42",
+  "title": "",
+  "body": " Numerical representations of relationships are given below, determine if any of these relationships are functions.     n  D    0  0    1  2    2  4    3  6    4  8      x  S    -2  4    -1  1    0  0    1  1    2  4      t  R    0  0    0.25  0    0.5  0    0.5  1    0.75  1    1  1     "
+},
+{
+  "id": "functions-4",
+  "level": "2",
+  "url": "functions.html#functions-4",
+  "type": "Example",
+  "number": "43",
+  "title": "",
+  "body": " The graphical representation of four relationships is given below. Are these relationship functions? Why? For those examples that are functions state the domain and range of the function.    Graph of a line    Graph of a radical function      Graph of a circle    Graph of a parabola    "
+},
+{
+  "id": "functions-7",
+  "level": "2",
+  "url": "functions.html#functions-7",
+  "type": "Example",
+  "number": "44",
+  "title": "",
+  "body": " Consider the function , evaluate:                "
+},
+{
+  "id": "functions-8",
+  "level": "2",
+  "url": "functions.html#functions-8",
+  "type": "Example",
+  "number": "45",
+  "title": "",
+  "body": " Use Desmos to evaluate the function at each of the indicated values in the table.        -5     -4     -3     -2     -1     0     1     2     3     4     5     "
+},
+{
+  "id": "functions-9",
+  "level": "2",
+  "url": "functions.html#functions-9",
+  "type": "Example",
+  "number": "46",
+  "title": "",
+  "body": "  A function is given in each of its three forms. Determine how you would evaluate functional values for each representation.      Function Notation             .     .  Find when          Graphical      Graph of the line y=2x+5        .     .  Find when          Numerical           0  5    1  7    2  9    3  11    4  13    5  15         .     .  Find when       "
+},
+{
+  "id": "functions-10",
+  "level": "2",
+  "url": "functions.html#functions-10",
+  "type": "Example",
+  "number": "47",
+  "title": "",
+  "body": "  For each of the scenarios presented explain the meaning of the given expression in terms of the stated scenario.     Suppose that represents the height of a ball, in feet, seconds after it has been thrown. Explain the meaning of the statement: .      Suppose that represents the weight of a dog, in pounds, at an age of weeks. Explain the meaning of the statement: .      Suppose that represents the number of US states, years after 1776. Explain the meaning of the statement: .    "
+},
+{
+  "id": "functions-11",
+  "level": "2",
+  "url": "functions.html#functions-11",
+  "type": "Example",
+  "number": "48",
+  "title": "",
+  "body": "  Resident students taking between 6 and 12 credit hours at a local community college paid $382.50 per credit hour for tuition, $30 per semester for a student records fee, and $15 per semester for a technology fee. Let be the total one-semester cost (in dollars) of tuition and fees for a student who is taking credit hours.     What is the slope of the graph of ? What does it mean in this situation?      Find an equation for .      Find . What does it mean in this situation?      Find when . What does it mean in this situation?      What is the domain of ?    "
+},
+{
+  "id": "regress",
+  "level": "1",
+  "url": "regress.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Regression",
+  "body": " Linear Regression    Consider the following relationships presented numerically.     x  y    0  3    1  8    2  13    3  18    4  23      x  y    2  3    4  5    5  9    8  13    10  16      x  y    2  7    4  13    9  28    10  31    12  37      x  y    9  6.1    11  10.0    13  12.2    15  18.8    16  20.7        Determine whether the following relationships are linear functions. If so, find an equation for the function.        Screenshot indicating the location of the regression button.   For the relationships that were not linear, use Desmos to find a line that approximates the data. To do this we will enter the table in Desmos. After you create the table, in the upper left corner of your prompt you should see a button that can be clicked to create regressions.        The table below shows the percentage of Americans who sent their tax returns to the IRS electronically.    Percentage of tax returns sent electronically    Year  Percent    1998  19    2000  27    2002  36    2004  45    2006  55       Find a linear model that predicts the percentage of tax returns sent electronically years since 1990.      Use the linear model to predict how many returns will be filed electronically in 2008.      Use the linear model to predict when 80% of all returns will be filed electronically      What are the intercepts of your linear model and what do they represent in terms of the modeled situation?      What is a reasonable domain for this linear model?       The U.S. market shares (percentage of U.S. vehicle sales) of Ford are shown in the table below for various years.    Year  1998  2000  2002  2004  2005    Market Share (%)  26  24  21  19  18       Let be Ford's U.S. market share (percentage) at years since 1995. Find an equation for . Does the model fit the data well?      Find . What does it mean in this situation?      Find when . What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Determine a reasonable domain and range for .     "
+},
+{
+  "id": "regress-2",
+  "level": "2",
+  "url": "regress.html#regress-2",
+  "type": "Example",
+  "number": "49",
+  "title": "",
+  "body": "  Consider the following relationships presented numerically.     x  y    0  3    1  8    2  13    3  18    4  23      x  y    2  3    4  5    5  9    8  13    10  16      x  y    2  7    4  13    9  28    10  31    12  37      x  y    9  6.1    11  10.0    13  12.2    15  18.8    16  20.7        Determine whether the following relationships are linear functions. If so, find an equation for the function.        Screenshot indicating the location of the regression button.   For the relationships that were not linear, use Desmos to find a line that approximates the data. To do this we will enter the table in Desmos. After you create the table, in the upper left corner of your prompt you should see a button that can be clicked to create regressions.     "
+},
+{
+  "id": "regress-3",
+  "level": "2",
+  "url": "regress.html#regress-3",
+  "type": "Example",
+  "number": "50",
+  "title": "",
+  "body": "  The table below shows the percentage of Americans who sent their tax returns to the IRS electronically.    Percentage of tax returns sent electronically    Year  Percent    1998  19    2000  27    2002  36    2004  45    2006  55       Find a linear model that predicts the percentage of tax returns sent electronically years since 1990.      Use the linear model to predict how many returns will be filed electronically in 2008.      Use the linear model to predict when 80% of all returns will be filed electronically      What are the intercepts of your linear model and what do they represent in terms of the modeled situation?      What is a reasonable domain for this linear model?    "
+},
+{
+  "id": "regress-4",
+  "level": "2",
+  "url": "regress.html#regress-4",
+  "type": "Example",
+  "number": "51",
+  "title": "",
+  "body": "  The U.S. market shares (percentage of U.S. vehicle sales) of Ford are shown in the table below for various years.    Year  1998  2000  2002  2004  2005    Market Share (%)  26  24  21  19  18       Let be Ford's U.S. market share (percentage) at years since 1995. Find an equation for . Does the model fit the data well?      Find . What does it mean in this situation?      Find when . What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Determine a reasonable domain and range for .    "
 },
 {
   "id": "CH-Homework-2",
@@ -1501,7 +1672,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Quiz 3",
-  "body": " Quiz 3       BSO1: I can identify and describe a visual pattern in words. (2nd attempt)     BSO4: I can identify a numerical pattern and generalize the pattern using variables. (2nd attempt)     BSO5: I can translate written words into mathematical expressions.     G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.       BSO5: Write an expression for the product of 12 and the square root of a number.          BSO5: Write an expression for the quotient of 10 and the sum of a number and 2.            G1: The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted       G1: Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.        BSO4: Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.      "
+  "body": " Quiz 3       BSO1: I can identify and describe a visual pattern in words. (2nd attempt)     BSO4: I can identify a numerical pattern and generalize the pattern using variables. (2nd attempt)     BSO5: I can translate written words into mathematical expressions.     G1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.       BSO5: Write an expression for the product of 12 and the square root of a number.          BSO5: Write an expression for the quotient of 10 and the sum of a number and 2.            G1: The table below shows the net electricity generation from wind in the United States from 2015 to 2025, in terawatt hours Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Years since 2015  Energy (in terawatt hours)    0  190.72    1  226.99    2  254.3    3  272.67    4  295.88    5  337.94    6  378.2    7  434.3    8  421.14    9  451.9    10  464.39    Source statista     Blank Grid for graphing      Grid with the points from the table plotted       G1: Recreate your graph from the problem above in Desmos. Be sure to adjust the window to match the scale shown in your graph above. Label your axes. When you are ready to have your work graded let me know and I'll come check your graph.        BSO4: Consider the following table which lists the multiples of 3 from 0 to 144.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 5,13,25,41.    The pattern shows an increasing number of rows of odd length that is symmetrical over the middle row which is the longest. The rows start at length one at the top and increase down to the central row by 2 each time. The middle row is increasing by 2 at each step.   An arrangement of 61 squares.       BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.      "
 },
 {
   "id": "Quiz3-2-1",
@@ -1555,7 +1726,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "   BSO4: Consider the following table which lists the multiples of 3 from 0 to 97.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
+  "body": "   BSO4: Consider the following table which lists the multiples of 3 from 0 to 144.    0  3  6  9  12  15  18    21  24  27  30  33  36  39    42  45  48  51  54  57  60    63  66  69  72  75  78  81    84  87  90  93  96  99  102    105  108  111  114  117  120  123    126  129  132  135  138  141  144       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 21      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are increasing by 24.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are decreasing by 3.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
 },
 {
   "id": "Quiz3-5-1",
@@ -1574,321 +1745,6 @@ var ptx_lunr_docs = [
   "number": "7",
   "title": "",
   "body": "  BSO1: Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 9, 13.    The pattern shows an increasing number of squares in a cross arrangement with the length of the arms increasing by 1 at each step. We would expect the next pattern to have arms of length 4 for a total of 17 squares.   An arrangement of 17 squares.    "
-},
-{
-  "id": "MTBSO1",
-  "level": "1",
-  "url": "MTBSO1.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Basic Skill and Operations #1",
-  "body": " Basic Skill and Operations #1     BSO #1: I can identify and describe a visual pattern in words.    Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.      Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.     "
-},
-{
-  "id": "MTBSO1-2",
-  "level": "2",
-  "url": "MTBSO1.html#MTBSO1-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   BSO #1: I can identify and describe a visual pattern in words.  "
-},
-{
-  "id": "MTBSO1-3",
-  "level": "2",
-  "url": "MTBSO1.html#MTBSO1-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of squares following sequence 1, 5, 11, 19.    The pattern increases by adding a column to the left and right of the figure in the current step, with each new column being one block taller than the tallest column in the existing step. For the fifth step, we would expect to add a column of 5 blocks to the left and right of the figure in step 4.   An arrangement of 29 squares.    "
-},
-{
-  "id": "MTBSO1-4",
-  "level": "2",
-  "url": "MTBSO1.html#MTBSO1-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": " Consider the visual pattern shown below. Describe the pattern and draw the next step.   A visual pattern showing growing arrangement of circles following sequence 2, 6, 12, 20.    We start out with a stack of circles (1x2) and at each step we add a row and column. For the fifth step, we would expect to have a 5 stacks of circles of height 6 for a total of 30 circles.   An arrangement of 30 circles.    "
-},
-{
-  "id": "MTBSO2",
-  "level": "1",
-  "url": "MTBSO2.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Basic Skill and Operations #2 and #5",
-  "body": " Basic Skill and Operations #2 and #5     BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #5: I can translate written words into mathematical expressions.      BSO #2: Simplify the following expression using correct order of operations:                      BSO #2: Simplify the following expression using correct order of operations:                    BSO #5: Write an expression for the product of 3 and the reciprocal of a number.          BSO #5: Write an expression for the difference of 12 and the product of 2 and a number.        "
-},
-{
-  "id": "MTBSO2-2",
-  "level": "2",
-  "url": "MTBSO2.html#MTBSO2-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #5: I can translate written words into mathematical expressions.   "
-},
-{
-  "id": "MTBSO2-3",
-  "level": "2",
-  "url": "MTBSO2.html#MTBSO2-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  BSO #2: Simplify the following expression using correct order of operations:                   "
-},
-{
-  "id": "MTBSO2-4",
-  "level": "2",
-  "url": "MTBSO2.html#MTBSO2-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  BSO #2: Simplify the following expression using correct order of operations:                 "
-},
-{
-  "id": "MTBSO2-5",
-  "level": "2",
-  "url": "MTBSO2.html#MTBSO2-5",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  BSO #5: Write an expression for the product of 3 and the reciprocal of a number.       "
-},
-{
-  "id": "MTBSO2-6",
-  "level": "2",
-  "url": "MTBSO2.html#MTBSO2-6",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  BSO #5: Write an expression for the difference of 12 and the product of 2 and a number.       "
-},
-{
-  "id": "MTBSO3",
-  "level": "1",
-  "url": "MTBSO3.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Basic Skill and Operations #3",
-  "body": " Basic Skill and Operations #3     BSO #3: I can simplify algebraic expressions by combining like terms.     Simplify each of the following expressions:                              Simplify each of the following expressions:                                "
-},
-{
-  "id": "MTBSO3-2",
-  "level": "2",
-  "url": "MTBSO3.html#MTBSO3-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   BSO #3: I can simplify algebraic expressions by combining like terms.  "
-},
-{
-  "id": "MTBSO3-3",
-  "level": "2",
-  "url": "MTBSO3.html#MTBSO3-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Simplify each of the following expressions:                           "
-},
-{
-  "id": "MTBSO3-4",
-  "level": "2",
-  "url": "MTBSO3.html#MTBSO3-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Simplify each of the following expressions:                               "
-},
-{
-  "id": "MTBSO4",
-  "level": "1",
-  "url": "MTBSO4.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Basic Skill and Operations #4",
-  "body": " Basic Skill and Operations #4     BSO #4: I can identify a numerical pattern and generalize the pattern using variables.     Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                   "
-},
-{
-  "id": "MTBSO4-2",
-  "level": "2",
-  "url": "MTBSO4.html#MTBSO4-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   BSO #4: I can identify a numerical pattern and generalize the pattern using variables.  "
-},
-{
-  "id": "MTBSO4-3",
-  "level": "2",
-  "url": "MTBSO4.html#MTBSO4-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Consider the following table which lists the multiples of 5 from 0 to 240.    30  25  20  15  10  5  0    65  60  55  50  45  40  35    100  95  90  85  80  75  70    135  130  125  120  115  110  105    170  165  160  155  150  145  140    205  200  195  190  185  180  175    240  235  230  225  220  215  210       Choose a number on the interior of the table and describe the pattern as you move up from that position.    As we move up a column of the table the values are decreasing by 35      Choose a number on the interior of the table and describe the pattern as you move down diagonally to the right.    As we move down and right along a diagonal the values are decreasing by 30.      Choose a number on the interior of the table and describe the pattern as you move to the left.    As we move to the left on the table the values are increasing by 5.      Choose one square from the interior of the table and replace the value with . Write each of the values around this number in terms of , using the patterns you described above.                                                                                                                  "
-},
-{
-  "id": "MTBSO5",
-  "level": "1",
-  "url": "MTBSO5.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Basic Skill and Operations #5",
-  "body": " Basic Skill and Operations #5      BSO #5: I can translate written words into mathematical expressions.     Write an expression for the product of 3 and the reciprocal of a number.         Write an expression for the difference of 12 and the product of 2 and a number.        "
-},
-{
-  "id": "MTBSO5-2",
-  "level": "2",
-  "url": "MTBSO5.html#MTBSO5-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "    BSO #5: I can translate written words into mathematical expressions.   "
-},
-{
-  "id": "MTBSO5-3",
-  "level": "2",
-  "url": "MTBSO5.html#MTBSO5-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " Write an expression for the product of 3 and the reciprocal of a number.       "
-},
-{
-  "id": "MTBSO5-4",
-  "level": "2",
-  "url": "MTBSO5.html#MTBSO5-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": " Write an expression for the difference of 12 and the product of 2 and a number.       "
-},
-{
-  "id": "MTG1",
-  "level": "1",
-  "url": "MTG1.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Graphing #1",
-  "body": " Graphing #1      G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.     The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted      Recreate the graph above on Desmos.   "
-},
-{
-  "id": "MTG1-2",
-  "level": "2",
-  "url": "MTG1.html#MTG1-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.   "
-},
-{
-  "id": "QM_1",
-  "level": "2",
-  "url": "MTG1.html#QM_1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " The table below shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit. Create a scatter plot of the data presented. Label your axes. Choose a suitable scale that ensures all data points are visible without leaving excessive blank space.     Chirps  Temperature    44  80.5    35  70.5    20.4  57    33  66    31  68    35  72    18.5  52    37  73.5    26  53     Blank grid for graphing      The data points plotted    "
-},
-{
-  "id": "MTG1-4",
-  "level": "2",
-  "url": "MTG1.html#MTG1-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": " Recreate the graph above on Desmos.  "
-},
-{
-  "id": "MTG2",
-  "level": "1",
-  "url": "MTG2.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Graphing #2",
-  "body": " Graphing #2      G #2: I can sketch qualitative graphs given a written situation.     A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.     "
-},
-{
-  "id": "MTG2-2",
-  "level": "2",
-  "url": "MTG2.html#MTG2-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "    G #2: I can sketch qualitative graphs given a written situation.   "
-},
-{
-  "id": "MTG2-3",
-  "level": "2",
-  "url": "MTG2.html#MTG2-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " A balloon is traveling along at a constant height. When the driver sees a flock of geese approaching him he raises the balloon to a higher altitude. He then flies at this new altitude for a while, until he decides to return to the ground. He descends at a constant rate. Draw a qualitative graph that describes the balloons height in terms of time.   Blank Grid for drawing answer     A graphical representation of the height of the balloon.    "
-},
-{
-  "id": "MTG3",
-  "level": "1",
-  "url": "MTG3.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Graphing #3",
-  "body": " Graphing #3      G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.      The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.     "
-},
-{
-  "id": "MTG3-2",
-  "level": "2",
-  "url": "MTG3.html#MTG3-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.   "
-},
-{
-  "id": "MTG3-3",
-  "level": "2",
-  "url": "MTG3.html#MTG3-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  The graph below shows the distance from the starting line for one runner in a race. Use the information in the graph to answer the questions that follow.   A graph showing the position of a runner at given times.      At which of the marked points is the runner moving towards the finish line? (Select all that apply)    The vertical axis shows the distance from the starting line, so the runner is moving toward the finish line when the function is increasing, which happens at points A and E.      At which of the marked points is the runner stopped? (Select all that apply)    The runner is stopped when on a horizontal line, which occurs at point C.      At which of the marked points is the runner moving the fastest? (Select all that apply)    The runner is moving the fastest when the line is the steepest, which occurs at point E.    "
-},
-{
-  "id": "MTLE1",
-  "level": "1",
-  "url": "MTLE1.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Linear Equations #1",
-  "body": " Linear Equations #1      LE #1: I can interpret the meaning of the slope in a linear relationship.     Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.     Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.    "
-},
-{
-  "id": "MTLE1-2",
-  "level": "2",
-  "url": "MTLE1.html#MTLE1-2",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
-},
-{
-  "id": "MTLE1-3",
-  "level": "2",
-  "url": "MTLE1.html#MTLE1-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Hours Worked  Pay (dollars)    0  0    10  115    20  230    30  345    40  460    50  575     The slope is . The employee is being paid at a rate of 11.5 dollars per hour.   "
-},
-{
-  "id": "MTLE1-4",
-  "level": "2",
-  "url": "MTLE1.html#MTLE1-4",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": " Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.   "
 },
 {
   "id": "MTFull",
@@ -2044,22 +1900,67 @@ var ptx_lunr_docs = [
   "body": " Consider the relationship displayed in the graph below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).   Linear equation passing through the points (0,0) and (1,0.05).    The slope is . The tax rate is $0.05 (5 cents) per dollar.   "
 },
 {
-  "id": "MTReview",
+  "id": "quiz4",
   "level": "1",
-  "url": "MTReview.html",
+  "url": "quiz4.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Midterm Review",
-  "body": " Midterm Review      BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.          "
+  "title": "Quiz 4",
+  "body": " Quiz 4      BSO3: I can simplify algebraic expressions by combining like terms.     BOS5: I can translate written words into mathematical expressions.     LE5: I can solve linear equations symbolically or with a graph.        BSO3: Simplify each of the following expressions.                               BSO3: Simplify each of the following expressions:                                  BSO5: Write an expression for the square root of the sum of a number and 10.          BS05: Write an expression for the difference of 10 and the quotient of 2 and a number.           LE5: Solve the following equations for .                                          "
 },
 {
-  "id": "MTReview-2",
+  "id": "quiz4-2",
   "level": "2",
-  "url": "MTReview.html#MTReview-2",
+  "url": "quiz4.html#quiz4-2",
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "    BSO #1: I can identify and describe a visual pattern in words.    BSO #2: I can properly apply the order of operations to evaluate a numerical expression.    BSO #3: I can simplify algebraic expressions by combining like terms.    BSO #4: I can identify a numerical pattern and generalize the pattern using variables.    BSO #5: I can translate written words into mathematical expressions.    G #1: I can create an accurate scatterplot (by hand and Desmos) given a set of data including proper labels and scale.    G #2: I can sketch qualitative graphs given a written situation.    G #3: I can describe a situation given a qualitative graph with defined inputs and outputs.    LE #1: I can interpret the meaning of the slope in a linear relationship.   "
+  "body": "    BSO3: I can simplify algebraic expressions by combining like terms.     BOS5: I can translate written words into mathematical expressions.     LE5: I can solve linear equations symbolically or with a graph.    "
+},
+{
+  "id": "quiz4-3",
+  "level": "2",
+  "url": "quiz4.html#quiz4-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "   BSO3: Simplify each of the following expressions.                           "
+},
+{
+  "id": "quiz4-4",
+  "level": "2",
+  "url": "quiz4.html#quiz4-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "   BSO3: Simplify each of the following expressions:                               "
+},
+{
+  "id": "quiz4-5",
+  "level": "2",
+  "url": "quiz4.html#quiz4-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  BSO5: Write an expression for the square root of the sum of a number and 10.       "
+},
+{
+  "id": "quiz4-6",
+  "level": "2",
+  "url": "quiz4.html#quiz4-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  BS05: Write an expression for the difference of 10 and the quotient of 2 and a number.       "
+},
+{
+  "id": "quiz4-7",
+  "level": "2",
+  "url": "quiz4.html#quiz4-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "   LE5: Solve the following equations for .                                         "
 },
 {
   "id": "BSO1_PP",
@@ -2602,6 +2503,87 @@ var ptx_lunr_docs = [
   "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Time spent reading (minutes)  Number of pages read    5  15    10  30    15  45    20  60    25  75     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that they are reading 3 pages every minute.   "
 },
 {
+  "id": "LE5_PP",
+  "level": "1",
+  "url": "LE5_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #5",
+  "body": " Linear Equations #5      LE #5: I can solve linear equations symbolically or with a graph.     Directions: Solve each equation for the given variable.                                                                                                                      "
+},
+{
+  "id": "LE5_PP-2",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #5: I can solve linear equations symbolically or with a graph.   "
+},
+{
+  "id": "LE5_PP-4",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "             "
+},
+{
+  "id": "LE5_PP-5",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "                 "
+},
+{
+  "id": "LE5_PP-6",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "               "
+},
+{
+  "id": "LE5_PP-7",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "                 "
+},
+{
+  "id": "LE5_PP-8",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "               "
+},
+{
+  "id": "LE5_PP-9",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "                 "
+},
+{
+  "id": "LE5_PP-10",
+  "level": "2",
+  "url": "LE5_PP.html#LE5_PP-10",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "               "
+},
+{
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
@@ -2662,7 +2644,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Sources",
-  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                      The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      The following problems were adopted from Algebra and Trigonometry by Jay Abramson on OpenStax.     "
+  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                      The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
 },
 {
   "id": "backmatter-2",
