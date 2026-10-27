@@ -1,0 +1,282 @@
+<worksheet xml:id="regress">
+    <title>Linear Regression</title>
+    <example>
+        <introduction>
+            <p>
+                Consider the following relationships presented numerically.
+            </p>
+            <sidebyside>
+                <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>x</cell>
+                        <cell>y</cell>
+                    </row>
+                    <row>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell>13</cell>
+                    </row>
+                    <row>
+                        <cell>3</cell>
+                        <cell>18</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>23</cell>
+                    </row>
+                </tabular>
+                <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>x</cell>
+                        <cell>y</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>5</cell>
+                        <cell>9</cell>
+                    </row>
+                    <row>
+                        <cell>8</cell>
+                        <cell>13</cell>
+                    </row>
+                    <row>
+                        <cell>10</cell>
+                        <cell>16</cell>
+                    </row>
+                </tabular>
+                <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>x</cell>
+                        <cell>y</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell>7</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>13</cell>
+                    </row>
+                    <row>
+                        <cell>9</cell>
+                        <cell>28</cell>
+                    </row>
+                    <row>
+                        <cell>10</cell>
+                        <cell>31</cell>
+                    </row>
+                    <row>
+                        <cell>12</cell>
+                        <cell>37</cell>
+                    </row>
+                </tabular>
+                <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                    <row>
+                        <cell>x</cell>
+                        <cell>y</cell>
+                    </row>
+                    <row>
+                        <cell>9</cell>
+                        <cell>6.1</cell>
+                    </row>
+                    <row>
+                        <cell>11</cell>
+                        <cell>10.0</cell>
+                    </row>
+                    <row>
+                        <cell>13</cell>
+                        <cell>12.2</cell>
+                    </row>
+                    <row>
+                        <cell>15</cell>
+                        <cell>18.8</cell>
+                    </row>
+                    <row>
+                        <cell>16</cell>
+                        <cell>20.7</cell>
+                    </row>
+                </tabular>
+            </sidebyside>
+        </introduction>
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Determine whether the following relationships are linear functions.  If so, find an equation for the function. 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <sidebyside>
+                    <image source="regress1.png">
+                        <shortdescription>Screenshot indicating the location of the regression button.</shortdescription>
+                    </image>
+                    <p>
+                       For the relationships that were not linear, use Desmos to find a line that approximates the data.  
+   To do this we will enter the table in Desmos.  After you create the table, in the upper left corner of your prompt you should see a button that can be clicked to create regressions.  
+ 
+                    </p>
+                    
+                </sidebyside>
+                
+            </statement>
+        </task>
+    </example>
+    <example>
+        <introduction>
+            <p>
+                The table below shows the percentage of Americans who sent their tax returns to the IRS electronically. 
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Percentage of tax returns sent electronically</cell>
+                </row>
+                <row>
+                    <cell>Year</cell>
+                    <cell>Percent</cell>
+                </row>
+                <row>
+                    <cell>1998</cell>
+                    <cell>19</cell>
+                </row>
+                <row>
+                    <cell>2000</cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>2002</cell>
+                    <cell>36</cell>
+                </row>
+                <row>
+                    <cell>2004</cell>
+                    <cell>45</cell>
+                </row>
+                <row>
+                    <cell>2006</cell>
+                    <cell>55</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                  Find a linear model that predicts the percentage of tax returns sent electronically <m>t</m> years since 1990.    
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                  Use the linear model to predict how many returns will be filed electronically in 2008.  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Use the linear model to predict when 80% of all returns will be filed electronically 
+                </p>
+            </statement>
+        </task>
+        <task workspace="1in">
+            <statement>
+                <p>
+                What are the intercepts of your linear model and what do they represent in terms of the modeled situation?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                What is a reasonable domain for this linear model? 
+                </p>
+            </statement>
+        </task>
+    </example>
+    <example>
+        <introduction>
+            <p>
+            The U.S. market shares (percentage of U.S. vehicle sales) of Ford are shown in the table below for various years.     
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Year</cell>
+                    <cell>1998</cell>
+                    <cell>2000</cell>
+                    <cell>2002</cell>
+                    <cell>2004</cell>
+                    <cell>2005</cell>
+                </row>
+                <row>
+                    <cell>Market Share (%)</cell>
+                    <cell>26</cell>
+                    <cell>24</cell>
+                    <cell>21</cell>
+                    <cell>19</cell>
+                    <cell>18</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Let <m>s(t)</m> be Ford's U.S. market share (percentage) at <m>t</m> years  
+           since 1995.  Find an equation for <m>s</m>.  Does the model fit the 
+           data well?
+ 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                 Find <m>s(15)</m>.  What does it mean in this situation?   
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                  Find <m>t</m> when <m>s(t) = 15</m>.  What does it mean in this situation? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find the <m>t</m>-intercept.  What does it mean in this situation?
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                 Find the <m>s</m>-intercept.  What does it mean in this situation?  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                Determine a reasonable domain and range for <m>s(t)</m>.
+
+
+                </p>
+            </statement>
+        </task>
+    </example>
+</worksheet>

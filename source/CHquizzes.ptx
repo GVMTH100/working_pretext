@@ -10,5 +10,7 @@
   <xi:include href="quiz2.ptx" />
   <xi:include href="rev_quiz_3.ptx" />
   <xi:include href="quiz3.ptx" />
+  <xi:include href="MT_full.ptx" />
+  <xi:include href="quiz4.ptx" />
  
 </chapter>

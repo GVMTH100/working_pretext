@@ -177,8 +177,8 @@
         </statement>
       </task>
 
-      <task>
-        <statement workspace="0.25in">
+      <task workspace="0.25in">
+        <statement>
           <p>
             How can you tell the <m>y</m>-intercept from the table?
           </p>
@@ -194,7 +194,7 @@
       </task>
     
 
-    <task>
+    <task workspace="0.25in">
         <statement>
           <p>
             The restaurant offers an 18 inch garden pizza with 5 toppings for $20.99, how much do you save by ordering the specialty pizza versus customizing to add the same 5 items?  
@@ -204,4 +204,491 @@
 
       
     </example>
+
+    <example>
+      <title>Distinguishing Linear from Other Functions</title>
+    
+    <task workspace="0.5in">
+      <introduction>
+        <p>
+          Study the data sets. Label each data set as linear or non-linear. Explain your choice.
+        </p>
+      </introduction>
+
+      <sidebyside>
+       <tabular halign="center" top="minor" left="minor">
+          <row header="yes" bottom="minor">
+            <cell right="minor"><m>x</m></cell>
+            <cell right="minor"><m>y</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-5</m></cell>
+            <cell right="minor"><m>-14</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-4</m></cell>
+            <cell right="minor"><m>-12</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-3</m></cell>
+            <cell right="minor"><m>-10</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-2</m></cell>
+            <cell right="minor"><m>-8</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-1</m></cell>
+            <cell right="minor"><m>-6</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">0</cell>
+            <cell right="minor"><m>-4</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">1</cell>
+            <cell right="minor"><m>-2</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">2</cell>
+            <cell right="minor">0</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">3</cell>
+            <cell right="minor">2</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">4</cell>
+            <cell right="minor">4</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">5</cell>
+            <cell right="minor">6</cell>
+          </row>
+        </tabular>
+        
+         
+        <tabular halign="center" top="minor" left="minor">
+          <row header="yes" bottom="minor">
+            <cell right="minor"><m>x</m></cell>
+            <cell right="minor"><m>y</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-5</m></cell>
+            <cell right="minor">0.03125</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-4</m></cell>
+            <cell right="minor">0.0625</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-3</m></cell>
+            <cell right="minor">0.125</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-2</m></cell>
+            <cell right="minor">0.25</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-1</m></cell>
+            <cell right="minor">0.5</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">0</cell>
+            <cell right="minor">1</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">1</cell>
+            <cell right="minor">2</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">2</cell>
+            <cell right="minor">4</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">3</cell>
+            <cell right="minor">8</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">4</cell>
+            <cell right="minor">16</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">5</cell>
+            <cell right="minor">32</cell>
+          </row>
+        </tabular>
+        
+          
+        <tabular halign="center" top="minor" left="minor">
+          <row header="yes" bottom="minor">
+            <cell right="minor"><m>x</m></cell>
+            <cell right="minor"><m>y</m></cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-5</m></cell>
+            <cell right="minor">25</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-4</m></cell>
+            <cell right="minor">16</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-3</m></cell>
+            <cell right="minor">9</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-2</m></cell>
+            <cell right="minor">4</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor"><m>-1</m></cell>
+            <cell right="minor">1</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">0</cell>
+            <cell right="minor">0</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">1</cell>
+            <cell right="minor">1</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">2</cell>
+            <cell right="minor">4</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">3</cell>
+            <cell right="minor">9</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">4</cell>
+            <cell right="minor">16</cell>
+          </row>
+
+          <row bottom="minor">
+            <cell right="minor">5</cell>
+            <cell right="minor">25</cell>
+          </row>
+        </tabular>
+        
+      </sidebyside>   
+      </task>
+   
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            What patterns would you see in a table that can be modeled by a linear equation?
+          </p>
+        </statement>
+      </task>
+
+    <task workspace="0.5in">
+      <introduction>
+        <p>
+          Categorize each graph as linear or non-linear. Explain your choice.
+        </p>
+      </introduction>
+
+      <sidebyside>
+        <image source="categ-graph-linear-1" width="30%">
+          <description>graph of a straight line</description>
+        </image>
+        
+          
+        <image source="categ-graph-linear-2" width="30%">
+          <description>graph of a parabola</description>
+        </image>
+          
+        <image source="categ-graph-linear-3" width="30%">
+          <description>graph of an exponential curve</description>
+        </image>
+          </sidebyside>
+      </task>
+
+       <task workspace="0.5in">
+        <statement>
+          <p>
+            How can you tell a graph can be modeled by a linear equation?
+          </p>
+        </statement>
+      </task>
+    
+
+    <task workspace="0.5in">
+      <introduction>
+        <p>
+          Determine whether each story would require a linear or non-linear model. Explain your choice.
+        </p>
+      </introduction>
+
+      <sidebyside>
+          <p>
+            Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows 3 inches. 
+          </p>
+       
+          <p>
+            Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose doubles in length. 
+          </p>
+          
+       
+          <p>
+            Geppetto carved Pinocchio a 2-inch long nose. Each time Pinocchio tells a lie, his nose grows from its previous length by the same number of inches as the number of lies he has told. For example, after 1 lie, his nose will be 2 + 1 = 3 inches long. After 2 lies, his nose will be 3 + 2 = 5 inches long. 
+          </p>
+          
+        </sidebyside>
+    </task>
+    <task workspace="0.5in">
+        <statement>
+          <p>
+            How can you tell a story can be modeled by a linear equation?
+          </p>
+        </statement>
+      </task>
+
+    <task workspace="0.5in">
+      <introduction>
+        <p>
+          Categorize each equation as linear or non-linear. Explain your choice.
+        </p>
+      </introduction>
+
+      <sidebyside>
+        
+          <p>
+            <m>y = 3x + 4</m>
+          </p>
+         
+          <p>
+            <m>y = 2^x + 3</m>
+          </p>
+          
+          <p>
+            <m>y = x^2 + 1</m>
+          </p>
+          </sidebyside>
+      </task>
+   
+
+   <task workspace="0.5in">
+        <statement>
+          <p>
+            What does an equation of a linear equation look like?
+          </p>
+        </statement>
+      </task>
+
+    </example>
+
+    <example>
+    <title>Linear Wedding Scenarios</title>
+
+    <introduction>
+      <p>
+        The tables below present the cost of hosting a wedding at three different venues.  Each venue gave you 
+        price sheets based on the number of guest. Start by verifying that each venues price is linear.
+      </p>
+   
+ 
+ 
+ <tabular top="minor" bottom="medium" left="major" right="major">
+  <col>width=50% halign="center"</col>
+  <col>width=50%</col>
+  <row header="yes" halign="center" >
+    <cell>Guests</cell>
+    <cell>Cost Wedding-R-Us</cell>
+     
+    <cell>Cost Picture Perfect</cell>
+    
+    <cell>Cost Wedding Place</cell>
+  </row>
+  <row halign="center">
+    <cell>0</cell>
+    <cell>7,000</cell>
+    <cell>0</cell>
+    <cell>10,000</cell>
+  </row>
+  <row halign="center">
+    <cell>50</cell>
+    <cell>10,250</cell>
+    <cell>6,250</cell>
+    <cell>12,500</cell>
+
+
+  </row>
+  <row halign="center">
+    <cell>100</cell>
+    <cell>13,500</cell>
+    <cell>12,500</cell>
+    <cell>15,000</cell>
+  </row>
+  <row halign="center">
+    <cell>150</cell>
+    <cell>16,750</cell>
+    <cell>18,750</cell>
+   <cell>17,500</cell>
+  </row>
+  <row halign="center">
+    <cell>200</cell>
+    <cell>20,000</cell>
+    <cell>25,000</cell>
+    <cell>20,000</cell>
+  </row>
+  <row halign="center">
+    <cell>250</cell>
+    <cell>23,250</cell>
+    <cell>31,250</cell>
+    <cell>22,500</cell>
+  </row>
+  <row halign="center">
+    <cell>300</cell>
+    <cell>26,500</cell>
+    <cell>37,500</cell>
+    <cell>25,000</cell>
+  </row>
+</tabular>
+
+ </introduction>
+
+   <task>
+     <p>
+        Plot all three data sets on Desmos.
+      </p>
+    </task>
+
+  
+  
+  <task workspace="0.25in">
+    
+      <p>
+        You want to have 350 guests at your wedding.  Follow the pattern to find the cost at each of the three venues.
+      </p>
+    
+    </task>
+  
+  
+  <task workspace="0.25in">
+    
+      <p>
+        Let <m>C</m> be the total cost of the wedding and <m>g</m> be the number of guests attending the wedding.  Find a formula for <m>C</m> for each of the three wedding venues.
+      </p>
+    </task> 
+  
+  
+  <task workspace="0.25in"> 
+  
+      <p>
+        Your friends Maria and Julio are looking for wedding venues as well.  They plan to have 1000 people at their wedding,  Use your formulas to find the cost for their wedding at each of the three venues.
+      </p>
+   
+    </task>
+  
+ <task workspace="0.5in"> 
+    
+      <p>
+        For each of the cost formulas you found, state what the slope is with its meaning, and the y-intercept with its meaning; both in the context of the cost of the venues and the number of guests.
+      </p>
+    </task>
+</example>
+    
+<example>
+<introduction>
+  <p>
+  Two forms of the line.
+</p>
+<p>
+  <alert>Slope-intercept form:</alert> <m>y=mx+b</m> where <m>m</m> is the slope of the line and <m>(0,b)</m> is the 
+  <m>y</m>-intercept.
+</p>
+<p>
+  <alert>Point-slope form:</alert> <m>y=m(x-x_0)+y_0</m> where <m>m</m> is the slope of the line and <m>(x_0,y_0)</m> is any
+  point on the line.
+
+</p>
+<p>
+  Find the equation of the line for each graph below.
+</p>
+</introduction>
+<task>
+  <image source="eqlineA.png" width="40%">
+    <shortdescription>The graph of a line</shortdescription>
+  </image>
+</task>
+<task>
+  <image source="eqlineB.png" width="40%">
+    <shortdescription>The graph of a line</shortdescription>
+  </image>
+</task>
+<task>
+  <image source="eqlineC.png" width="40%">
+    <shortdescription>The graph of a line</shortdescription>
+  </image>
+</task>
+
+</example>
+
+
+<example workspace="1in">
+  <p>
+    Find the equation of the line that passes through the points (2, 4) and (7, 12).
+  </p>
+</example>
+<example workspace="1in">
+  <p>
+    Find the equation of the line that passes through the points (9, 7) and (3, 11). 
+  </p>
+</example>
+
+<example workspace="1in">
+  <p>
+    A company found that if it priced its product at $40 it would sell 120 items per week.  Experimenting with different prices, they found that for every $5 increase in price they sold 12 fewer items each week.  Find the equation for a function that models the relationship between weekly demand of the product in terms of its price.
+
+  </p>
+</example>
+
+
+<example workspace="1in">
+  <p>
+    To be eligible for certain benefits an income limit test is applied.  For a family of three, monthly income must be no more than $2694.  For a family of six, the monthly income must be no more than $4364.  There is a linear relationship between family size and the income limit.  Find a linear equation that describes the income limit in terms of family size.  What is the income limit for a family of seven?
+
+  </p>
+</example>
+
+
+
+
+
+
 </worksheet>

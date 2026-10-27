@@ -1,0 +1,400 @@
+<worksheet xml:id="functions">
+    <title>Functions</title>
+    <p>
+        <alert>Definition:</alert> A <alert>function</alert> is a relationship with the condition that each input value is assigned to one and only one output value.   
+    </p>
+    <example workspace="0.5in">
+        <p>
+            Numerical representations of relationships are given below, determine if any of these relationships are functions.  
+        </p>
+            <sidebyside>
+            <tabular halign="center">
+                <row bottom="minor">
+                    <cell right="minor">n</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell right="minor">0</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell right="minor">1</cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell right="minor">2</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell right="minor">3</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell right="minor">4</cell>
+                    <cell>8</cell>
+                </row>
+            </tabular>
+            <tabular halign="center">
+                <row bottom="minor">
+                    <cell right="minor">x</cell>
+                    <cell>S</cell>
+                </row>
+                <row>
+                    <cell right="minor">-2</cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell right="minor">-1</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell right="minor">0</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell right="minor">1</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell right="minor">2</cell>
+                    <cell>4</cell>
+                </row>
+            </tabular>
+            <tabular halign="center">
+                <row bottom="minor">
+                    <cell right="minor">t</cell>
+                    <cell>R</cell>
+                </row>
+                <row>
+                    <cell right="minor">0</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell right="minor">0.25</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell right="minor">0.5</cell>
+                    <cell>0</cell>
+                </row>
+                <row>
+                    <cell right="minor">0.5</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell right="minor">0.75</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell right="minor">1</cell>
+                    <cell>1</cell>
+                </row>
+            </tabular>
+           </sidebyside>
+    </example>
+
+    <example workspace="1in">
+        <p>
+           The graphical representation of four relationships is given below.  Are these relationship functions? Why?  For those examples that are functions state the domain and range of the function.   
+        </p>
+        <sidebyside>
+            <image source="fcngraph1.png" width="40%">
+                <shortdescription>Graph of a line</shortdescription>
+            </image>
+            <image source="fcngraph2.png" width="40%">
+                <shortdescription>Graph of a radical function</shortdescription>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="fcngraph3.png" width="40%">
+                <shortdescription>Graph of a circle</shortdescription>
+            </image>
+            <image source="fcngraph4.png" width="40%">
+                <shortdescription>Graph of a parabola</shortdescription>
+            </image>
+        </sidebyside>
+    </example>
+    <p>
+       <alert>Vertical Line Test</alert> - A relation is a function if and only if every vertical line intersects the graph of the relation at no more than one point.  
+    </p>
+    <p>
+        <alert>Function notation</alert> - The equation form of a function is referred to as function notation.  In function notation we write the output variable followed by the input variable in parentheses.  
+        As an example consider the equation <m>R(p)=-2.4p^2+216p</m> which relates revenue of an item to price.  We read <m>R(p)</m> as “the output variable revenue (R) in terms of the input variable price (p)”.  This often gets shortened to “R of p”, but notice it is a statement of assignment and not of multiplication.  
+    </p>
+    <example workspace="0.5in">
+        <p>
+            Consider the function <m>f(x)=x^2-x</m>, evaluate:
+
+        </p>
+        <sidebyside>
+            <p>
+                <m>f(3)</m>
+            </p>
+            <p>
+                <m>f(-2)</m>
+            </p>
+            <p>
+                <m>f\left(\frac{1}{2}\right)</m>
+            </p>
+            <p>
+                <m>f(t)</m>
+            </p>
+        </sidebyside>
+    </example>
+    <example>
+        <p>
+            Use Desmos to evaluate the function <m>f(x)=4x-9</m> at each of the indicated values in the table.  
+        </p>
+        <tabular align="center">
+            <row bottom="minor">
+                <cell right="minor"><m>x</m></cell>
+                <cell><m>f(x)</m></cell>
+            </row>
+            <row>
+                <cell right="minor">-5</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">-4</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">-3</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">-2</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">-1</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">0</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">1</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">2</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">3</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">4</cell>
+                <cell></cell>
+            </row>
+            <row>
+                <cell right="minor">5</cell>
+                <cell></cell>
+            </row>
+        </tabular>
+    </example>
+    <example>
+        <introduction>
+            <p>
+                A function is given in each of its three forms.  Determine how you would evaluate functional values for each representation.  
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    <alert>Function Notation</alert>
+                </p>
+                <sidebyside>
+                    <stack>
+                        <p>
+                            <m>f(x)=2x+5</m>
+                        </p>
+                    </stack>
+                    <stack>
+                        <p>
+                            <m>f(2)=</m>
+                        </p>
+                        <p>
+                            .
+                        </p>
+                        <p>
+                            <m>f(4)=</m>
+                        </p>
+                        <p>
+                            .
+                        </p>
+                        <p>
+                            Find <m>x</m> when <m>f(x)=11</m>
+                        </p>
+                    </stack>
+                </sidebyside>
+            </statement>
+        </task>
+         <task>
+            <statement>
+                <p>
+                    <alert>Graphical</alert>
+                </p>
+                <sidebyside>
+                    <stack>
+                       <image source="fcngraph5.png" width="40%">
+                        <shortdescription>Graph of the line y=2x+5</shortdescription>
+                       </image>
+                    </stack>
+                    <stack>
+                        <p>
+                            <m>f(2)=</m>
+                        </p>
+                        <p>
+                           . 
+                        </p>
+                        <p>
+                            <m>f(4)=</m>
+                        </p>
+                        <p>
+                          .  
+                        </p>
+                        <p>
+                            Find <m>x</m> when <m>f(x)=11</m>
+                        </p>
+                    </stack>
+                </sidebyside>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    <alert>Numerical</alert>
+                </p>
+                <sidebyside>
+                    <stack>
+                       <tabular halign="center">
+            <row bottom="minor">
+                <cell right="minor"><m>x</m></cell>
+                <cell><m>f(x)</m></cell>
+            </row>
+            <row>
+                <cell right="minor">0</cell>
+                <cell>5</cell>
+            </row>
+            <row>
+                <cell right="minor">1</cell>
+                <cell>7</cell>
+            </row>
+            <row>
+                <cell right="minor">2</cell>
+                <cell>9</cell>
+            </row>
+            <row>
+                <cell right="minor">3</cell>
+                <cell>11</cell>
+            </row>
+            <row>
+                <cell right="minor">4</cell>
+                <cell>13</cell>
+            </row>
+            <row>
+                <cell right="minor">5</cell>
+                <cell>15</cell>
+            </row>
+            </tabular>
+                    </stack>
+                    <stack>
+                        <p>
+                            <m>f(2)=</m>
+                        </p>
+                        <p>
+                            .
+                        </p>
+                                               
+                        <p> 
+                            
+                               <m>f(4)=</m>
+                        </p>
+                        <p>
+                            .
+                        </p>
+                        <p>                   Find <m>x</m> when <m>f(x)=11</m>
+                        </p>
+                    </stack>
+                </sidebyside>
+            </statement>
+        </task>
+    </example>
+    <example>
+        <introduction>
+            <p>
+              For each of the scenarios presented explain the meaning of the given expression in terms of the stated scenario.    
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Suppose that <m>h(t)</m> represents the height of a ball, in feet, <m>t</m> seconds after it has been thrown.
+                    Explain the meaning of the statement: <m>h(3)=4.35</m>.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Suppose that <m>W(a)</m> represents the weight of a dog, in pounds, at an age of <m>a</m> weeks.
+                   Explain the meaning of the statement: <m>W(6)=28</m>.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Suppose that <m>S(t)</m> represents the number of US states, <m>t</m> years after 1776. 
+                    Explain the meaning of the statement: <m>S(30)=17</m>.
+                </p>
+            </statement>
+        </task>
+    </example>
+    <example>
+        <introduction>
+            <p>
+               Resident students taking between 6 and 12 credit hours at a local community college paid $382.50 per credit hour for tuition, $30 per semester for a student records fee, and $15 per semester for a technology fee.  Let <m>f(c)</m>  be the total one-semester cost (in dollars) of tuition and fees for a student who is taking <m>c</m> credit hours. 
+            </p>
+        </introduction>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                  What is the slope of the graph of <m>f</m> ?  What does it mean in this situation?  
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                 Find an equation for <m>f</m>.
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                  Find <m>f(9)</m>.  What does it mean in this situation? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                  Find <m>c</m> when <m>f(c)=1200</m>.  What does it mean in this situation? 
+                </p>
+            </statement>
+        </task>
+        <task workspace="0.25in">
+            <statement>
+                <p>
+                    What is the domain of <m>f(c)</m>?
+                </p>
+            </statement>
+        </task>
+    </example>
+</worksheet>

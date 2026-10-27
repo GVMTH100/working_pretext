@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="Midterm" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Midterm Exam</title>
+  <title>Learning Target Practice Sets</title>
 
   <!-- include sections -->
-  <xi:include href="MT_BSO1.ptx" />
-  <xi:include href="MT_BSO2.ptx" />
-  <xi:include href="MT_BSO3.ptx" />
-  <xi:include href="MT_BSO4.ptx" />
-  <xi:include href="MT_BSO5.ptx" />
-  <xi:include href="MT_G1.ptx" />
-  <xi:include href="MT_G2.ptx" />
-  <xi:include href="MT_G3.ptx" />
-   <xi:include href="MT_LE1.ptx" />
-  <xi:include href="MT_full.ptx" />
-  <xi:include href="midtermrev.ptx" />
+  
   <xi:include href="MR_BSO1.ptx" />
   <xi:include href="MR_BSO2.ptx" />
   <xi:include href="MR_BSO3.ptx" />
@@ -24,6 +14,7 @@
   <xi:include href="MR_G2.ptx" />
   <xi:include href="MR_G3.ptx" />
   <xi:include href="MR_LE1.ptx" />
+   <xi:include href="MR_LE5.ptx" />
 
 </chapter>
  
