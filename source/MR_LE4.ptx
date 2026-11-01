@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="LE4_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #4</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>LE #4:</alert> Given a linear word situation, I can make an equation, identify and explain the meaning of slope in the
+context, identify and explain the <m>y</m>-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m>
+given <m>f(a)</m> and explain its meaning, and determine what inputs make sense.
+                </p></li>
+                </ul>
+            
+    </objectives>
+
+    <exercise>
+        <introduction>
+            <p>
+                A 500-gallon water tank is being refilled with water at a rate of 24 gallons per minute.  The tank initially holds 80 gallons of water.  
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find an equation to represent the volume of water in the tank <m>(V)</m>, in gallons, in terms of the time <m>(t)</m>, in minutes, that the tank has been refilling.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    In this situation we are told that the tank is filling at 24 gallons per minute.  Gallons is the measure of our output and minutes in the measure of our input, therefore this number represents the rate of change, or the slope of our model.  We also are told the initial volume of water, which represents the dependent intercept.  Therefore we have all the values need to write a linear relationship in slope-intercept form:  
+                    <m>V=24t+80</m>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine an appropriate domain and range for the model.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The outputs in this situation place restrictions on our model.  Because our tank can hold at most 500 gallons and we start with 80 gallons of water already in the tank, the range must be
+                    <m>[80,500]</m>. We know that at <m>t=0</m>,
+                    the tank has 80 gallons, we need to determine the time when the tank is full.  
+                    <md>
+                        500=24t+80
+                    </md>
+                    <md>
+                        420=24t
+                    </md>
+                    <md>
+                        \frac{420}{24}=t
+                    </md>
+                    <md>
+                        17.5=t
+                    </md>
+                    This shows us it takes 17.5 minutes to fill the tank and the domain is <m>[0,17.5]</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much time will it take for the tank to hold 350 gallons?  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  To find the time it takes to fill to 350 gallons, we will substitute 350 in for <m>V</m>, in our equation.    
+                  <md>
+                    350=24t+80
+                  </md>
+                  <md>
+                    270=24t
+                  </md>
+                  <md>
+                    \frac{270}{24}=t
+                  </md>
+                  <md>
+                    11.25=t
+                  </md>
+                  We see it takes 11.25 minutes to fill the tank to 350 gallons.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much water does the tank hold after 8 minutes?  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    o find how much water is in the tank after 8 minutes we will substitute 8 in for <m>t</m> and evaluate <m>V</m>.  
+                    <md>
+                        V=24\left(8\right)+80
+                    </md>
+                    <md>
+                       V=272 
+                    </md>
+                  We see that after 8 minutes there will be 272 gallons in the tank.   
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               An 88-room hotel finds that the relationship between the price of the room and the occupancy level is approximately linear.  If the hotel charges 102 dollars per night they will fill 80 rooms.  For every $7 they increase the price, they fill 10 fewer rooms.  
+
+ 
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find an equation to represent the occupancy of the hotel <m>(R)</m> in terms of the price of a room <m>(p)</m>.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   Slope measures the ratio of change in output to change in input.  In this case output is rooms and input is price, so we can find our slope by combining the two changes that are given.  
+                   <md>
+                    m=-\frac{10}{7}
+                   </md>
+                    Notice this number is negative because price increases and rooms decrease.  We also are given a point <m>(102,80)</m>, so we can express the linear relationship in point-slope form.
+                    <md>
+                        R-80=-\frac{10}{7}\left(p-102\right)
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Determine an appropriate domain and range for the model.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   The range of this model is restricted based on the number of rooms available.  The range is
+                   <m>[0,88]</m>. To find the domain we need to determine the prices corresponding to 0 and 88 rooms.
+
+For 0 rooms: 
+<md>
+    0-80=-\frac{10}{7}\left(p-102\right)
+</md>
+<md>
+    -80=-\frac{10}{7}\left(p-102\right)
+</md>
+<md>
+    \left(-\frac{7}{10}\right)\left(-80\right)=\left(-\frac{7}{10}\right)\left(-\frac{10}{7}\right)\left(p-102\right)
+</md>
+<md>
+    56=p-102
+</md>
+<md>
+    158=p
+</md>
+For 88 rooms: 
+<md>
+    88-80=-\frac{10}{7}\left(p-102\right)
+</md>
+<md>
+    8=-\frac{10}{7}\left(p-102\right)
+</md>
+<md>
+    -5.6=p-102
+</md>
+<md>
+    96.4=p
+</md>
+
+Therefore our domain for this model is <m>\left[96.4,158\right]</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How many rooms would they fill at a price of $151?
+
+
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   To find the number of rooms filled at $151 we substitute 151 in for <m>p</m> and solve for <m>R</m>. 
+                   <md>
+                    R-80=-\frac{10}{7}\left(151-102\right)
+                   </md>
+                   <md>
+                    R-80=-\frac{10}{7}\left(49\right)
+                   </md>
+                   <md>
+                    R-80=-70
+                   </md>
+                   <md>
+                    R=10
+                   </md>
+                   At $151, we find that only 10 rooms would be filled. 
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much should they charge to fill 85 rooms?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    To fill 85 rooms we substitute 85 in for <m>R</m> and solve for <m>p</m>.
+                    <md>
+                        85-80=-\frac{10}{7}\left(p-102\right)
+                    </md>
+                    <md>
+                        5=-\frac{10}{7}\left(p-102\right)
+                    </md>
+                    <md>
+                        -3.5=p-102
+                    </md>
+                    <md>
+                        98.5=p
+                    </md>
+                   To fill 85 rooms they should charge a price of $98.50.  
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                A salesperson's monthly salary is a combination of their base pay and commissions made on sales.  On sales of $12,000 the salesperson earned a monthly salary of $1,960.  On sales of $40,000 their monthly salary was $3,640.  The company pays commissions on sales up to $200,000 per month.  
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find an equation to represent the monthly salary, <m>S</m>, in dollars, in terms of the amount of sales, <m>x</m>, in dollars.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We are writing an equation for the salary in terms of the sales, so salary is our dependent variable and sales is our independent variable.  This means we have two points we can use to find the relationship. 
+                    <m>(12000,1960)</m> and <m>(40000,3640)</m>.
+                </p>
+                <p>
+                    We find the slope: 
+                    <md>
+                        m=\frac{3640-1960}{40000-12000}=0.06
+                    </md>
+                    
+                </p>
+                <p>
+                    The equation of the line would be: 
+                    <md>
+                        S-1960=0.06\left(x-12000\right)
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine an appropriate domain and range for the model.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We are told that commmissions are earned on sales up to $200,000, therefore our domain is: 
+                   <md>[0,200000]</md> 
+                   We can use this information to find the range.  We will find the salary for 0 and 200000.  
+                </p>
+                <p>
+                    For $0 in sales: 
+                    <md>
+                        S-1960=0.06\left(0-12000\right)
+                    </md>
+                    <md>
+                        S-1960=-720
+                    </md>
+                    <md>
+                        S=1240
+                    </md>
+                    
+                </p>
+                <p>
+                   For $200000 in sales:
+                   <md>
+                    S-1960=0.06\left(200000-12000\right)
+                   </md>
+                <md>
+                    S-1960=11280
+                </md>
+                <md>
+                    S=13240
+                </md>
+                This gives us a range of:
+                <md>
+                    [1240,13240]
+                </md>
+                
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much must the salesperson sell to earn a monthly salary of $5,000?  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We substitute 5000 in for <m>S</m>, and solve for <m>x</m>: 
+                <md>
+                    5000-1960=0.06\left(x-12000\right)
+                </md>
+                <md>
+                    3040=0.06\left(x-12000\right)
+                </md>
+                <md>
+                    50666.67=x-12000
+                </md>
+                <md>
+                    62666.67=x
+                </md>
+                To earn a monthly salary of $5,000, they must have sales of $62,666.67.   
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much will the salesperson earn, if they have $135,000 in sales? 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  We substitute 135000 in for <m>x</m>, and solve for <m>S</m>:   
+                <md>
+                    S-1960=0.06\left(135000-12000\right)
+                </md>
+                <md>
+                    S-1960=7380
+                </md>
+                <md>
+                    S=9340
+                </md>
+                Sales of $135,000 will result in a monthly salary of $9,340.  
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               An 88-room hotel charges $125 per room for an overnight stay.   
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find an equation to represent the revenue <m>(R)</m> generated in terms of number of rooms <m>(n)</m> used.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    lope measures the ratio of change in output to change in input.  In this case output is revenue and input is rooms, so our slope measures the revenue per room which is given as $125 per room.  
+
+Since they make no revenue if 0 rooms are filled we have the intercept is 0, giving us an equation: 
+<md>
+    R=125n
+</md>
+
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Determine an appropriate domain and range for the model.   
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    The domain of this model is restricted based on the number of rooms available.  The domain is
+                    <m>[0,88]</m>.  To find the range we need to determine the revenue corresponding to 0 and 88 rooms.
+                </p>
+                <p>
+                    For 0 rooms: 
+                    <md>
+                        R=125(0)
+                    </md>
+                    <md>
+                        R=0
+                    </md>
+                    
+                </p>
+                <p>
+                    For 88 rooms: 
+                    <md>
+                        R=125(88)
+                    </md>
+                    <md>
+                        R=11000
+                    </md>
+                Therefore our range for this model is <m>\left[0,11000\right]</m>.    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How many rooms must they fill to earn a revenue of $8000?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    To find the number of rooms must be filled for a revenue of $8000 we substitute 8000 in for <m>R</m> and solve for <m>n</m>.
+                    <md>
+                        8000=125n
+                    </md>
+                    <md>
+                        \frac{8000}{125}=n
+                    </md>
+                    <md>
+                        64=n
+                    </md>
+                   For a revenue of $8000 they need to fill 64 rooms.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much revenue do the generate if they fill 85 rooms? 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    If they fill 85 rooms we substitute 85 in for <m>n</m> and solve for <m>R</m>.
+                    <md>
+                        R=125\left(85\right)
+                    </md>
+                    <md>
+                        R=10625
+                    </md>
+                    With 85 rooms filled they should have revenues of $10,625.  
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                A fair charges an admission fee of $5 and charges $1.25 per carnival ride. 
+            </p>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Find an equation to represent the cost to attend the fair <m>(C)</m>, in terms of the number of rides taken <m>(r)</m>. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We are writing an equation for the cost in terms of the rides, so our slope is a measure of the cost per ride which is given as $1.25.  The intercept would represent the initial cost, which is indicated here as the admission fee, giving us an equation of: 
+                   <md>
+                    C=1.25r+5
+                   </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   How many rides can someone take for $45?   
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We substitute 45 in for <m>C</m>, and solve for <m>r</m>: 
+                <md>
+                    45=1.25r+5
+                </md>
+                <md>
+                    40=1.25r
+                </md>
+                <md>
+                    \frac{40}{1.25}=r
+                </md>
+                <md>
+                    32=r
+                </md>
+                They can take 32 rides for $45.   
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    How much will it cost if some takes 8 rides while at the carnival? 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We substitute 8 in for <m>r</m>, and solve for <m>C</m>: 
+                    <md>
+                        C=1.25\left(8\right)+5
+                    </md>
+                    <md>
+                        C=15
+                    </md>
+                    It would cost them $15 to go to the fair and ride 8 times. 
+                </p>
+            </solution>
+        </task>
+    </exercise>
+</worksheet>
+
+

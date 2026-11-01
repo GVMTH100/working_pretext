@@ -1,0 +1,68 @@
+<worksheet xml:id="Catfish">
+    <title>Catfish Population</title>
+    <introduction>
+        <p>
+           A chemical factory has set up business on a certain North Georgia river.  This river empties into a large lake, 
+           on which is a restaurant which serves fresh catfish dinners. The chemical factory started dumping toxic waste 
+           into the river, which reduced the catfish population. The table below shows how the number of catfish per acre 
+           is related to the number of gallons of toxic waste dumped per day by the chemical factory.  Let <m>g</m> 
+           represent the number of gallons of toxic waste dumped per day and <m>C(g)</m> represent the number of catfish 
+           per acre. 
+        </p>
+        <tabular halign="center" bottom="minor" top="minor" left="minor" right="minor">
+            <row>
+                <cell>Gallons of toxic waste dumped per day</cell>
+                <cell>5</cell>
+                <cell>18</cell>
+                <cell>23</cell>
+                <cell>37</cell>
+                <cell>48</cell>
+                <cell>60</cell>
+            </row>
+            <row>
+                <cell>Number of catfish per acre</cell>
+                <cell>47</cell>
+                <cell>40</cell>
+                <cell>35</cell>
+                <cell>30</cell>
+                <cell>27</cell>
+                <cell>19</cell>
+            </row>
+        </tabular>
+    </introduction>
+    <exercise>
+        <p>
+           Create a scatterplot of the data. <m>(g, C)</m>   (You do not need to copy this to your paper.) 
+        </p>
+    </exercise>
+    <exercise workspace="0.25in">
+        <p>
+            Using regression on Desmos determine a linear model to represent <m>C(g)</m>.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+          What are the "units" for the slope of this linear model?  
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+          What meaning can we assign to the "<m>C</m>-intercept" of the model?  What is the value of the <m>C</m>-intercept?
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+          What meaning can we assign to the "<m>g</m>-intercept" of the model?  What is the value of the <m>g</m>-intercept?
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+         Find the value of <m>C(75)</m>.  Explain what it means in context of the problem.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+         Find <m>g</m> if <m>C(g)=60</m>. Explain what it means in context of the problem.
+        </p>
+    </exercise>
+</worksheet>

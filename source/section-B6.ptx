@@ -1,0 +1,105 @@
+<worksheet xml:id="APizza">
+    <title>Armand's Pizza Parlors</title>
+    <introduction>
+        <p>
+           Armand's Pizza Parlors is a chain of Italian food restaurants located in a five-state area.  One of the most successful types of locations for Armand's has been near a college campus.  Management believes that the size of the student population on the nearby campus is related to the annual sales.  To evaluate the relationship between the student population <m>p</m> and the annuals sales <m>s</m>, Armand's collected data from a sample of 10 of its restaurants located near college campuses.  The data is summarized in the chart below. 
+        </p>
+        <tabular halign="center" bottom="minor" top="minor" left="minor" right="minor">
+            <row>
+                <cell>Restaurant</cell>
+                <cell><line>Student Population</line><line> (in thousands)</line></cell>
+                <cell><line>Annual Sales</line><line>(in $1000s)</line></cell>
+            </row>
+            <row>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>58</cell>
+            </row>
+            <row>
+                <cell>2</cell>
+                <cell>6</cell>
+                <cell>105</cell>
+            </row>
+            <row>
+                <cell>3</cell>
+                <cell>8</cell>
+                <cell>88</cell>
+            </row>
+            <row>
+                <cell>4</cell>
+                <cell>8</cell>
+                <cell>118</cell>
+            </row>
+            <row>
+                <cell>5</cell>
+                <cell>12</cell>
+                <cell>117</cell>
+            </row>
+            <row>
+                <cell>6</cell>
+                <cell>16</cell>
+                <cell>137</cell>
+            </row>
+            <row>
+                <cell>7</cell>
+                <cell>20</cell>
+                <cell>157</cell>
+            </row>
+            <row>
+                <cell>8</cell>
+                <cell>20</cell>
+                <cell>169</cell>
+            </row>
+            <row>
+                <cell>9</cell>
+                <cell>22</cell>
+                <cell>149</cell>
+            </row>
+            <row>
+                <cell>10</cell>
+                <cell>26</cell>
+                <cell>202</cell>
+            </row>
+        </tabular>
+    </introduction>
+    <exercise>
+        <p>
+            Create a scatterplot of the data <m>(p,s)</m> in Desmos. (You do not need to copy this to your paper.)
+        </p>
+    </exercise>
+    <exercise workspace="0.25in">
+        <p>
+            Using regression find a linear equation to represent <m>s(p)</m>.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Use your function to predict the sales if the student population is 10,000.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Use your function to predict the sales if the student population is 30,000.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Use your function to predict the student population if the annual sales were $90,000.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Use your function to predict the student population if the annual sales were $240,000.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Find <m>s(19)</m>.  Explain what this means in terms of the problem situation.
+        </p>
+    </exercise>
+    <exercise workspace="0.5in">
+        <p>
+            Find when <m>s(p) = 150</m>.  Explain what this means in terms of the problem situation.
+        </p>
+    </exercise>
+</worksheet>

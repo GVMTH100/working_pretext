@@ -14,7 +14,12 @@
   <xi:include href="MR_G2.ptx" />
   <xi:include href="MR_G3.ptx" />
   <xi:include href="MR_LE1.ptx" />
+  <xi:include href="MR_LE2.ptx" />
+  <xi:include href="MR_LE3.ptx" />
+  <xi:include href="MR_LE4.ptx" />
    <xi:include href="MR_LE5.ptx" />
+   <xi:include href="MR_LE6.ptx" />
+
 
 </chapter>
  

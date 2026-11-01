@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="LE3_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #3</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>LE #3:</alert> Given a linear graph, I can identify the slope, the vertical intercept, horizontal intercept,
+evaluate <m>f(a)</m>, find <m>x</m> given <m>f(a)</m> and make the equation of the line.  
+                </p></li>
+                </ul>
+            
+    </objectives>
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3F.png" width="40%">
+                <shortdescription>Graph of a line passing through (0,-5) and (2,1) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(0,-5)</m> and <m>(2,1)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{1-(-5)}{2-0}
+                    </md>
+                    <md>
+                        m=\frac{6}{2}
+                    </md>
+                    <md>
+                        m=3
+                    </md>
+                </p>
+                <p>
+                    In this case, we were able to identify the <m>y</m>-intercept, <m>(0,-5)</m> from our graph, giving us an equation: <m>f(x)=3x-5</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=3x-5
+                    </md>
+                    <md>
+                        5=3x
+                    </md>
+                    <md>
+                        \frac{5}{3}=x
+                    </md>
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(\frac{5}{3},0)</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(3)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(3)=3(3)-5
+                    </md>
+                    <md>
+                        f(3)=4
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=2</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        2=3x-5
+                    </md>
+                    <md>
+                        7=3x
+                    </md>
+                    <md>
+                        \frac{7}{3}=x
+                    </md>
+                   </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3E.png" width="40%">
+                <shortdescription>Graph of a line passing through (0,4) and (2,0) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(0,4)</m> and <m>(2,0)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{0-4}{2-0}
+                    </md>
+                    <md>
+                        m=\frac{-4}{2}
+                    </md>
+                    <md>
+                        m=-2
+                    </md>
+                </p>
+                <p>
+                    In this case, we were able to identify the <m>y</m>-intercept, <m>(0,4)</m> from our graph, giving us an equation: <m>f(x)=-2x+4</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=-2x+4
+                    </md>
+                    <md>
+                       -4=-2x
+                    </md>
+                    <md>
+                        2=x
+                    </md>
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(2,0)</m>, which we were also able to identify directly from the graph.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(4)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(4)=-2(4)+4
+                    </md>
+                    <md>
+                        f(4)=-4
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=6</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        6=-2x+4
+                    </md>
+                    <md>
+                        2=-2x
+                    </md>
+                    <md>
+                        -1=x
+                    </md>
+                   </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3D.png" width="40%">
+                <shortdescription>Graph of a line passing through (0,6) and (6,4) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(0,6)</m> and <m>(6,4)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{4-6}{6-0}
+                    </md>
+                    <md>
+                        m=\frac{-2}{6}
+                    </md>
+                    <md>
+                        m=-\frac{1}{3}
+                    </md>
+                </p>
+                <p>
+                    In this case, we were able to identify the <m>y</m>-intercept, <m>(0,6)</m> from our graph, giving us an equation: <m>f(x)=-\frac{1}{3}x+6</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=-\frac{1}{3}x+6
+                    </md>
+                    <md>
+                        -6=-\frac{1}{3}x
+                    </md>
+                    <md>
+                        18=x
+                    </md>
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(18,0)</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(-3)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(-3)=-\frac{1}{3}(-3)+6
+                    </md>
+                    <md>
+                        f(-3)=7
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=3</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        3=-\frac{1}{3}x+6
+                    </md>
+                    <md>
+                        -3=-\frac{1}{3}x
+                    </md>
+                    <md>
+                        9=x
+                    </md>
+                   </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3C.png" width="40%">
+                <shortdescription>Graph of a line passing through (-4,-3) and (5,3) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(-4,-3)</m> and <m>(5,3)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{3-(-3)}{5-(-4)}
+                    </md>
+                    <md>
+                        m=\frac{6}{9}
+                    </md>
+                    <md>
+                        m=\frac{2}{3}
+                    </md>
+                </p>
+                <p>
+                    As our <m>y</m>-intercept isn't one of our points we can write our line in point-slope form.  We'll use the point <m>(5,3)</m>
+                    <md>
+                        y=m(x-x_1)+y_1
+                    </md>
+                    <md>
+                        y=\frac{2}{3}(x-5)+3
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=\frac{2}{3}(x-5)+3
+                    </md>
+                    <md>
+                        -3=\frac{2}{3}(x-5)
+                    </md>
+                    <md>
+                        -\frac{9}{2}=x-5
+                    </md>
+                    <md>
+                        \frac{1}{2}=x
+                    </md>
+                    
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(\frac{1}{2},0)</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(-2)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(-2)=\frac{2}{3}(-2-5)+3
+                    </md>
+                    <md>
+                        f(-2)=-\frac{5}{3}
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=4</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        4=\frac{2}{3}(x-5)+3
+                    </md>
+                    <md>
+                        1=\frac{2}{3}(x-5)
+                    </md>
+                    <md>
+                        \frac{3}{2}=x-5
+                    </md>
+                    <md>
+                        \frac{13}{2}=x
+                    </md>
+                </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3B.png" width="40%">
+                <shortdescription>Graph of a line passing through (2,-2) and (6,-5) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(2,-2)</m> and <m>(6,-5)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{-5-(-2)}{6-2}
+                    </md>
+                    <md>
+                        m=\frac{-3}{4}
+                    </md>
+                    <md>
+                        m=-\frac{3}{4}
+                    </md>
+                </p>
+                <p>
+                    As our <m>y</m>-intercept isn't one of our points, we can write our line in point-slope form.  We'll use the point <m>(2,-2)</m>
+                    <md>
+                        y=m(x-x_1)+y_1
+                    </md>
+                    <md>
+                        y=-\frac{3}{4}(x-2)-2
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=-\frac{3}{4}(x-2)-2
+                    </md>
+                    <md>
+                        2=-\frac{3}{4}(x-2)
+                    </md>
+                    <md>
+                        -\frac{8}{3}=x-2
+                    </md>
+                    <md>
+                        -\frac{2}{3}=x
+                    </md>
+                    
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(-\frac{2}{3},0)</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(3)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(3)=-\frac{3}{4}(3-2)-2
+                    </md>
+                    <md>
+                        f(3)=-\frac{11}{4}
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=2</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        2=-\frac{3}{4}(x-2)-2
+                    </md>
+                    <md>
+                        4=-\frac{3}{4}(x-2)
+                    </md>
+                    <md>
+                        -\frac{16}{3}=x-2
+                    </md>
+                    <md>
+                        -\frac{10}{3}=x
+                    </md>
+                </p>
+            </solution>
+        </task>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                The graph of <m>f(x)</m> is given below.  Use it to answer the questions that follow.
+            </p>
+            <image source="LE3A.png" width="40%">
+                <shortdescription>Graph of a line passing through (0,1) and (6,-4) </shortdescription>
+            </image>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the equation of the line.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by identifying any two points on the graph.  For this example, we use <m>(0,1)</m> and <m>(6,-4)</m>. We use these points to find the slope.
+                    <md>
+                        m=\frac{y_2-y_1}{x_2-x_1}
+                    </md>
+                    <md>
+                        m=\frac{-4-1}{6-0}
+                    </md>
+                    <md>
+                        m=\frac{-5}{6}
+                    </md>
+                    <md>
+                        m=-\frac{5}{6}
+                    </md>
+                </p>
+                <p>
+                    In this case, we were able to identify the <m>y</m>-intercept, <m>(0,1)</m> from our graph, giving us an equation: <m>f(x)=-\frac{5}{6}x+1</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Determine the <m>x</m>-intercept of the function.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We find the <m>x</m>-intercept by setting <m>f(x)=0</m> and solving for <m>x</m>.
+                    <md>
+                        0=-\frac{5}{6}x+1
+                    </md>
+                    <md>
+                        -1=-\frac{5}{6}x
+                    </md>
+                    <md>
+                        \frac{6}{5}=x
+                    </md>
+                </p>
+                <p>
+                    Our <m>x</m>-intercept is <m>(\frac{6}{5},0)</m>.
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Evaluate <m>f(12)</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        f(12)=-\frac{5}{6}(12)+1
+                    </md>
+                    <md>
+                        f(12)=-9
+                    </md>
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find <m>x</m> when <m>f(x)=-1</m>.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    <md>
+                        -1=-\frac{5}{6}x+1
+                    </md>
+                    <md>
+                        -2=-\frac{5}{6}x
+                    </md>
+                    <md>
+                        \frac{12}{5}=x
+                    </md>
+                   </p>
+            </solution>
+        </task>
+    </exercise>
+
+</worksheet>

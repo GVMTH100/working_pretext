@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="LE6_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #6</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>LE #6:</alert> Given a data set, I can make a linear regression model on Desmos, identify and explain the meaning of slope in the
+context, identify and explain the <m>y</m>-intercept in the context, find <m>f(a)</m> and explain its meaning, find <m>x</m>
+given <m>f(a)</m> and explain its meaning, and determine what inputs make sense.
+                </p></li>
+                </ul>
+            
+    </objectives>
+    <exercise>
+        <introduction>
+            <p>
+                In Brazil, the Instituto Nacional de Pesquisas Espaciais (INPE, or National Institute of Space Research) uses Landsat satellite photos to monitor the pace of deforestation. According to their data, the original Amazon rain forest biome in Brazil of 4,100,000 square kilometers was reduced to 3,413,000 square kilometers by 2005, representing a loss of 16.8%. The figures for select years from 1987 to 2005 are shown.
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Year</cell>
+                    <cell>Remaining forest (thousand sq km)</cell>
+                </row>
+                <row>
+                    <cell>1987</cell>
+                    <cell>3745</cell>
+                </row>
+                <row>
+                    <cell>1990</cell>
+                    <cell>3692</cell>
+                </row>
+                <row>
+                    <cell>1993</cell>
+                    <cell>3652</cell>
+                </row>
+                <row>
+                    <cell>1996</cell>
+                    <cell>3590</cell>
+                </row>
+                <row>
+                    <cell>1999</cell>
+                    <cell>3542</cell>
+                </row>
+                <row>
+                    <cell>2002</cell>
+                    <cell>3485</cell>
+                </row>
+                <row>
+                    <cell>2005</cell>
+                    <cell>3413</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                  Using linear regression on Desmos, find a model for the remaining rain forest <m>R</m>, in thousands of square kilometers, in terms of the number of years <m>t</m> since 1987.  Round your values in the equation to three decimal places and express your answer in function notation.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Because we are using as our input the number of years since 1987, we need to adjust the year data given.  We can then enter this into Desmos and choose the linear regression model.  
+                </p>
+                <image source="LE6A.png">
+                    <shortdescription>Screenshot of data from table entered into Desmos.</shortdescription>
+                </image>
+                <p>
+                    If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                    <md>
+                       R\left(t\right)=-18.095t+3751.286 
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   The slope of -18.095 tells us that the amount of remaining rainforest is decreasing by 18.095 thousand square kilometers per year.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, how much area of rain forest will remain in 2030?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by converting the given year to the corresponding input value: 
+                    <md>
+                        t=2030-1987
+                    </md>
+                    <md>
+                        t=43
+                    </md>
+                    We can then substitute this input into our equation.  
+                    <md>
+                        R\left(43\right)=-18.95\left(43\right)+3751.286
+                    </md>
+                    <md>
+                        R\left(43\right)=2936.436
+                    </md>
+                    Based on the model, in 2030 there will be 2936.436 thousand square kilometers of rainforest remaining.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, in what year will there be only 3000 thousand square kilometers of rain forest remaining?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We are given an output value, so we can substitute directly into the equation and solve for our input.   
+                   <md>
+                    3000=-18.95t+3751.286
+                   </md>
+                   <md>
+                    -751.286=-18.95t
+                   </md>
+                   <md>
+                    39.64=t
+                   </md>
+                   We will use this input to determine the corresponding year, 
+                   <md>
+                    1987+39.64=2026.64
+                   </md>
+                   In 2027 there will be only 3000 thousand square kilometers of rain forest remaining.  
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               The table below shows the minimum wage in the US at five-year intervals. 
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>1960</cell>
+                    <cell>1.00</cell>
+                </row>
+                <row>
+                    <cell>1965</cell>
+                    <cell>1.25</cell>
+                </row>
+                <row>
+                    <cell>1970</cell>
+                    <cell>1.60</cell>
+                </row>
+                <row>
+                    <cell>1975</cell>
+                    <cell>2.10</cell>
+                </row>
+                <row>
+                    <cell>1980</cell>
+                    <cell>3.10</cell>
+                </row>
+                <row>
+                    <cell>1985</cell>
+                    <cell>3.35</cell>
+                </row>
+                <row>
+                    <cell>1990</cell>
+                    <cell>3.80</cell>
+                </row>
+                <row>
+                    <cell>1995</cell>
+                    <cell>4.25</cell>
+                </row>
+                <row>
+                    <cell>2000</cell>
+                    <cell>5.15</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Using linear regression on Desmos, find a model for the US minimum wage <m>W</m>, in dollars, in terms of the number of years <m>t</m> since 1960.  Round your values in the equation to three decimal places.  Express your answer in function notation.
+                </p>
+            </statement>
+            <solution>
+                
+                <image source="LE6B.png">
+                    <shortdescription>A screenshot of the table entered in Desmos.</shortdescription>
+                </image>
+                <p>
+                    If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                    <md>
+                        W\left(t\right)=0.104t+0.761
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   The slope of 0.104 tells us that the US minimum wage is increasing by 0.104 dollars per year.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, what should the US minimum wage be in 2030?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by converting the given year to the corresponding input value: 
+                    <md>
+                        t=2030-1960
+                    </md>
+                    <md>
+                        t=70
+                    </md>
+                    
+                </p>
+                <p>
+                    We can then substitute this input into our equation.
+                    <md>
+                        W\left(70\right)=0.104\left(70\right)+0.761
+                    </md>
+                    <md>
+                        W\left(70\right)=8.041
+                    </md>
+                    Based on the model, the US minimum wage in 2030 will be $8.04.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, in what year will the US minimum wage be $15.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We are given an output value, so we can substitute directly into the equation and solve for our input.  
+                    <md>
+                        15=0.104t+0.761
+                    </md>
+                    <md>
+                        14.239=0.104t
+                    </md>
+                    <md>
+                        136.91=t
+                    </md>
+                    
+                </p>
+                <p>
+                    We will use this input to determine the corresponding year, 
+                    <md>
+                        1960+136.91=2096.91
+                    </md>
+                   In 2097, the US minimum wage will reach $15 based on this model.   
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+                An outdoor snack bar collected the following data showing the number of cups of cocoa, <m>C</m>, they sold when the high temperature for the day was <m>T</m> degrees Celsius.
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Temperature</cell>
+                    <cell>Cups of cocoa</cell>
+                </row>
+                <row>
+                    <cell>2</cell>
+                    <cell>45</cell>
+                </row>
+                <row>
+                    <cell>4</cell>
+                    <cell>42</cell>
+                </row>
+                <row>
+                    <cell>5</cell>
+                    <cell>42</cell>
+                </row>
+                <row>
+                    <cell>8</cell>
+                    <cell>35</cell>
+                </row>
+                <row>
+                    <cell>10</cell>
+                    <cell>25</cell>
+                </row>
+                <row>
+                    <cell>11</cell>
+                    <cell>25</cell>
+                </row>
+                <row>
+                    <cell>12</cell>
+                    <cell>17</cell>
+                </row>
+                <row>
+                    <cell>15</cell>
+                    <cell>16</cell>
+                </row>
+                <row>
+                    <cell>16</cell>
+                    <cell>15</cell>
+                </row>
+                <row>
+                    <cell>18</cell>
+                    <cell>6</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Using linear regression on Desmos, find a model for the cups of cocoa <m>C</m> sold in terms of the temperature <m>T</m> in degrees Celsius.  Round your values in the equation to three decimal places.  Express your answer in function notation.
+                </p>
+            </statement>
+            <solution>
+                <image source="LE6C.png">
+                    <shortdescription>A screenshot of the data table entered into Desmos.</shortdescription>
+                </image>
+                <p>
+                   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                   <md>
+                    C\left(T\right)=-2.479T+51.837
+                   </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  The slope of <m>-2.479</m> tells us that the snack bar sells 2.479 cups of cocoa fewer for every one degree Celsius increase in temperature.    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Based on your model, how many cups of cocoa should be sold if the temperature is <m>-2</m> degrees Celsius? 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  We are given the input value, so we can substitute directly into our model.    
+                  <md>
+                    C\left(-2\right)=-2.479\left(-2\right)+51.837
+                  </md>
+                  <md>
+                    C\left(-2\right)=56.795
+                  </md>
+                  At <m>-2</m> degrees Celsius, we would expect the snack bar to sell 57 cups of cocoa.  
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, at what temperature would you expect to sell 30 cups of cocoa.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We are given the output value, so we can substitute directly into our model, and then solve for the input value. 
+                   <md>
+                    30=-2.479T+51.837
+                   </md>
+                    <md>
+                      -21.837=-2.479T  
+                    </md>
+                    <md>
+                       8.809=T 
+                    </md>
+                   We would expect the snack bar to sell 30 cups of cocoa when the temperature is 8.809 degrees Celsius.  
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+              The number of manatees killed by watercraft in Florida waters has been increasing since 1975. The table below presents the number of manatee killed by watercraft in Florida waters, <m>D</m>, over 5 year intervals.  
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Year</cell>
+                    <cell>Manatee Deaths</cell>
+                </row>
+                <row>
+                    <cell>1975</cell>
+                    <cell>6</cell>
+                </row>
+                <row>
+                    <cell>1980</cell>
+                    <cell>16</cell>
+                </row>
+                <row>
+                    <cell>1985</cell>
+                    <cell>33</cell>
+                </row>
+                <row>
+                    <cell>1990</cell>
+                    <cell>47</cell>
+                </row>
+                <row>
+                    <cell>1995</cell>
+                    <cell>42</cell>
+                </row>
+                <row>
+                    <cell>2000</cell>
+                    <cell>78</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Using linear regression on Desmos, find a model for the number of manatee deaths, <m>D</m>, attributed to watercraft in Florida in terms of the number of years, <m>t</m>, since 1975.  Round your values in the equation to three decimal places.  Express your answer in function notation.
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   Because we are using as our input the number of years since 1975, we need to adjust the year data given.  We can then enter this into Desmos and choose the linear regression model.   
+                </p>
+                <image source="LE6D.png">
+                    <shortdescription>Screenshot of the data table entered into Desmos.</shortdescription>
+                </image>
+                <p>
+                    If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                    <md>
+                        D\left(t\right)=2.583t+4.714
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                  What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer.  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                 The slope of 2.583 tells us that the number of manatees killed by watercraft in Florida waters is increasing by 2.583 deaths per year.     
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Based on your model, how many manatee are expected to be killed by watercraft in Florida in 2020? 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  We start by converting the given year to the corresponding input value: 
+                  <md>
+                    t=2020-1975
+                  </md>
+                   <md>
+                    t=45
+                   </md>
+                   
+                </p>
+                <p>
+                    We can then substitute this input into our equation.  
+                    <md>
+                       D\left(45\right)=2.583\left(45\right)+4.714 
+                    </md>
+                    <md>
+                        D\left(45\right)=120.94299
+                    </md>
+                   Based on the model, in 2020 there will be 121 manatee deaths due to watercraft in Florida waters.   
+
+ 
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                  Based on your model, in what year would we expect there to be 100 manatee killed by watercraft in Florida?  
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   We are given the output value, so we can substitute directly into our model, and then solve for the input value.  
+                <md>
+                    100=2.583t+4.714
+                </md>
+                <md>
+                    95.286=2.583t
+                </md>
+                <md>
+                    39.88=t
+                </md>
+                We use the input to find the corresponding year, 
+                <md>
+                    1975+39.88=2014.88
+                </md>
+                
+                </p>
+                <p>
+                    Based on the model, in 2015 there will be 100 manatee deaths due to watercraft in Florida waters.   
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+               With Americans' increased use of faxes, pagers, and cell phones, new area codes are being created at a steady rate. The table shows the number of area codes in the US each year. (Source: USA Today, NeuStar, Inc.) 
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Year</cell>
+                    <cell>Number of area codes</cell>
+                </row>
+                <row>
+                    <cell>1997</cell>
+                    <cell>151</cell>
+                </row>
+                <row>
+                    <cell>1998</cell>
+                    <cell>186</cell>
+                </row>
+                <row>
+                    <cell>1999</cell>
+                    <cell>204</cell>
+                </row>
+                <row>
+                    <cell>2000</cell>
+                    <cell>226</cell>
+                </row>
+                <row>
+                    <cell>2001</cell>
+                    <cell>239</cell>
+                </row>
+                <row>
+                    <cell>2002</cell>
+                    <cell>262</cell>
+                </row>
+                <row>
+                    <cell>2003</cell>
+                    <cell>274</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Using linear regression on Desmos, find a model for the number of area codes, <m>A</m>, in terms of the number of years since 1995.  Round your values in the equation to three decimal places.  Express your answer in function notation. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Because we are using as our input the number of years since 1995, we need to adjust the year data given.  We can then enter this into Desmos and choose the linear regression model.  
+                </p>
+                <image source="LE6E.png">
+                    <shortdescription>Screenshot of the data entered in Desmos.</shortdescription>
+                </image>
+                <p>
+                    If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                    <md>
+                        A\left(t\right)=19.857t+121
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  The slope of 19.857 tells us that the number of area codes is increasing by 19.857 per year.    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, how many area codes will be needed in 2010?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by converting the given year to the corresponding input value: 
+                    <md>
+                        t=2010-1995
+                    </md>
+                    <md>
+                        t=15
+                    </md>
+                    
+                </p>
+                <p>
+                   We can then substitute this input into our equation.  
+                   <md>
+                    A\left(15\right)=19.857\left(15\right)+121
+                   </md>
+                    <md>
+                       A\left(15\right)=418.855
+                    </md>
+                    
+                </p>
+                <p>
+                   Based on the model, in 2010 there will need to be 419 area codes.    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, in what year will 500 area codes be needed?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                  We are given the output value, so we can substitute directly into our model, and then solve for the input value. 
+                  <md>
+                    500=19.857t+121
+                  </md>
+                <md>
+                   379=19.857t 
+                </md>
+                 <md>
+                    19.0863=t
+                 </md>
+                We use the input to find the corresponding year, 
+                <md>
+                   1995+19.0863=2014.0863 
+                </md>
+                 
+                </p>
+                <p>
+                    Based on the model, in 2014 there will be a need for 500 area codes.
+                </p>
+            </solution>
+        </task>
+    </exercise>
+    <exercise>
+        <introduction>
+            <p>
+              The table shows the amount of carbon released into the atmosphere annually from burning fossil fuels, in billions of tons, at 5-year intervals from 1950 to 1995. (Source: www.worldwatch.org)  
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell>Year</cell>
+                    <cell><line>Carbon emissions</line><line> (in billons of tons)</line></cell>
+                </row>
+                <row>
+                    <cell>1950</cell>
+                    <cell>1.6</cell>
+                </row>
+                <row>
+                    <cell>1955</cell>
+                    <cell>2.0</cell>
+                </row>
+                <row>
+                    <cell>1960</cell>
+                    <cell>2.5</cell>
+                </row>
+                <row>
+                    <cell>1965</cell>
+                    <cell>3.1</cell>
+                </row>
+                <row>
+                    <cell>1970</cell>
+                    <cell>4.0</cell>
+
+                </row>
+                <row>
+                    <cell>1975</cell>
+                    <cell>4.5</cell>
+                </row>
+                <row>
+                    <cell>1980</cell>
+                    <cell>5.2</cell>
+                </row>
+                <row>
+                    <cell>1985</cell>
+                    <cell>5.3</cell>
+                </row>
+                <row>
+                    <cell>1990</cell>
+                    <cell>5.9</cell>
+                </row>
+                <row>
+                    <cell>1995</cell>
+                    <cell>6.2</cell>
+                </row>
+            </tabular>
+        </introduction>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   Using linear regression on Desmos, find a model for the amount of carbon emissions, <m>C</m>, in billions of tons, in terms of the number of years since 1950.  Round your values in the equation to three decimal places.  Express your answer in function notation. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    Because we are using as our input the number of years since 1950, we need to adjust the year data given.  We can then enter this into Desmos and choose the linear regression model.  
+
+                </p>
+                <image source="LE6F.png">
+                    <shortdescription>Screenshot of the data entered in Desmos.</shortdescription>
+                </image>
+                <p>
+                    If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model, 
+                    <md>
+                        C\left(t\right)=0.108t+1.589
+                    </md>
+                    
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   What does the slope of your line represent in terms of the data.  Be sure to use appropriate units in your answer. 
+                </p>
+            </statement>
+            <solution>
+                <p>
+                   The slope of 0.108 tells us that annual carbon emissions are increasing at a rate of 0.108 billion tons per year.   
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Based on your model, how much carbon will be released into the atmosphere from burning fossil fuels in 2010?
+                </p>
+            </statement>
+            <solution>
+                <p>
+                    We start by converting the given year to the corresponding input value: 
+                    <md>
+                        t=2010-1950
+                    </md>
+                    <md>
+                        t=60
+                    </md>
+                    
+                </p>
+                <p>
+                  We can then substitute this input into our equation.  
+                  <md>
+                    C\left(60\right)=0.108\left(60\right)+1.589
+                  </md>
+                <md>
+                    C\left(60\right)=8.09819
+                </md>
+                
+                </p>
+                <p>
+                    Based on the model, in 2010 there will be 8.098 billion tons of carbon released into the atmosphere from burning fossil fuels. 
+                </p>
+            </solution>
+        </task>
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                   We are given the output value, so we can substitute directly into our model, and then solve for the input value. 
+                   <md>
+                    10=0.108t+1.589
+                   </md>
+                    <md>
+                       8.411=0.108t
+                    </md>
+                    <md>
+                        77.880=t
+                    </md>
+                  We use the input to find the corresponding year, 
+                  <md>
+                    1950+77.880=2027.88
+                  </md>
+                    
+                </p>
+                <p>
+                    Based on the model, in 2028 there will be 10 billion tons of carbon released into the atmosphere from burning fossil fuels.  
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>

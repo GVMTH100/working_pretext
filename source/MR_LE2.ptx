@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="LE2_PP" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Linear Equations #2</title>
+
+    <objectives>
+                    <ul>
+                        
+                <li>    <p>
+                    <alert>LE #2:</alert> I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation
+or application. I can translate between different representations.      
+                </p></li>
+                </ul>
+            
+    </objectives>
+    <exercise workspace="0.5in">
+        <statement>
+        <p>
+            Is the following relationship linear?  If so, find an equation that describes the relationship.  
+        </p>
+        <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+            <row>
+                <cell>x</cell>
+                <cell>0</cell>
+                <cell>2</cell>
+                <cell>4</cell>
+                <cell>6</cell>
+                <cell>8</cell>
+            </row>
+            <row>
+                <cell>y</cell>
+                <cell>27</cell>
+                <cell>20</cell>
+                <cell>13</cell>
+                <cell>6</cell>
+                <cell>-1</cell>
+            </row>
+        </tabular>
+        </statement>
+        <solution>
+            <p>
+              <p>
+                                  This is a linear relationship.
+                                  The <m>x</m>-values are each increasing by 2 and the <m>y</m>-values are each decreasing
+                                  by 7, so the rate of change between the two variables <m>\frac{-7}{2}</m> remains constant making the relationship linear.
+                              </p>
+              
+                              <p>
+                                  This constant rate of change, <m>-\frac{7}{2}</m> is
+                                  the slope of our line.
+                                  The y-intercept <m>(0,27)</m> is given in the table, therefore we have the equation of the line is
+                                    <md>
+                                        y=-\frac{7}{2}x+27
+                                    </md>
+                                    
+                                  
+                              </p>  
+            </p>
+        </solution>
+    </exercise>
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+               Is the following relationship linear?  If so, find an equation that describes the relationship.   
+            </p>
+            <image source="LE2A.png" width="50%">
+                <shortdescription>A line passing through (0,5) and (10,0).</shortdescription>
+            </image>
+        </statement>
+        <solution>
+            <p>
+               This is a linear relationship because the graph is a straight line.  
+
+
+
+To find an equation for the line, we will start by choosing any two points on the line.  For this worked example, we will use the points
+<m>(-4,7)</m>  and <m>(6,2)</m>.
+            </p>
+            <p>
+                First find the slope of the line: 
+                <md>
+                    m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}
+                </md>
+                <md>
+                    m=\frac{2-7}{6-\left(-4\right)}
+                </md>
+                <md>
+                    m=\frac{-5}{10}
+                </md>
+                <md>
+                    m=-\frac{1}{2}
+                </md>
+                
+            </p>
+            <p>
+                We can now write the equation of the line in point-slope form using either of our points: 
+                <md>
+                    y-2=-\frac{1}{2}\left(x-6\right)
+                </md>
+                
+            </p>
+        </solution>
+    </exercise>
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+                Is the following relationship linear?  If so, find an equation that describes the relationship.  
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell><m>x</m></cell>
+                    <cell>0</cell>
+                    <cell>2</cell>
+                    <cell>4</cell>
+                    <cell>6</cell>
+                    <cell>8</cell>
+                </row>
+                <row>
+                    <cell><m>y</m></cell>
+                    <cell>9</cell>
+                    <cell>12</cell>
+                    <cell>17</cell>
+                    <cell>20</cell>
+                    <cell>21</cell>
+                </row>
+            </tabular>
+        </statement>
+        <solution>
+            <p>
+                This is a not a linear relationship.  The x-values are each increasing by 2 but the y-values increase by different amounts.  Therefore we see that the slope changes over time.  
+            </p>
+        </solution>
+    </exercise>
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+               Is the following relationship linear?  If so, find an equation that describes the relationship.   
+            </p>
+            <image source="LE2A.png" width="50%">
+                <shortdescription>A line passing through (-9,-4) and (5,2).</shortdescription>
+            </image>
+        </statement>
+        <solution>
+            <p>
+               This is a linear relationship because the graph is a straight line.  
+
+
+
+To find an equation for the line, we will start by choosing any two points on the line.  For this worked example, we will use the points
+<m>(-9,-4)</m>  and <m>(5,2)</m>.
+            </p>
+            <p>
+                First find the slope of the line: 
+                <md>
+                    m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}
+                </md>
+                <md>
+                   m=\frac{2-\left(-4\right)}{5-\left(-9\right)}
+                </md>
+                <md>
+                    m=\frac{6}{14}
+                </md>
+                <md>
+                    m=\frac{3}{7}
+                </md>
+                
+            </p>
+            <p>
+                We can now write the equation of the line in point-slope form using either of our points: 
+                <md>
+                    y-2=\frac{3}{7}\left(x-5\right)
+                </md>
+                
+            </p>
+        </solution>
+    </exercise>
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+                Is the following relationship linear?  If so, find an equation that describes the relationship.  
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell><m>x</m></cell>
+                    <cell>1</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                    <cell>7</cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell><m>y</m></cell>
+                    <cell>2</cell>
+                    <cell>10</cell>
+                    <cell>14</cell>
+                    <cell>26</cell>
+                    <cell>46</cell>
+                </row>
+            </tabular>
+        </statement>
+        <solution>
+            <p>
+                This is a linear relationship.  Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.
+                <md>
+                    m_{1}=\frac{10-2}{3-1}=\frac{8}{2}=4
+                </md>
+                <md>
+                    m_{2}=\frac{14-10}{4-3}=\frac{4}{1}=4
+                </md>
+                <md>
+                    m_{3}=\frac{26-14}{7-4}=\frac{8}{2}=4
+                </md>
+                <md>
+                    m_{4}=\frac{46-26}{12-7}=\frac{20}{5}=4
+                </md>
+                
+                
+            </p>
+            <p>
+                We have a constant rate of change making the relationship linear.  Choosing one of the points given, we can use point-slope form to write an equation of the line:
+                <md>
+                    y-2=4\left(x-1\right)
+                </md>
+                
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+               Is the following relationship linear?  If so, find an equation that describes the relationship.   
+            </p>
+            <image source="LE2C.png" width="50%">
+                <shortdescription>A curve passing through (0,-1) and (-1,1).</shortdescription>
+            </image>
+        </statement>
+        <solution>
+            <p>
+               This is not a linear relationship.  Linear relationships will always produce graphs that are straight lines.  
+            </p>
+        </solution>
+    </exercise>
+
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+                Is the following relationship linear?  If so, find an equation that describes the relationship.  
+            </p>
+            <tabular halign="center" bottom="minor" top="minor" right="minor" left="minor">
+                <row>
+                    <cell><m>x</m></cell>
+                    <cell>-5</cell>
+                    <cell>1</cell>
+                    <cell>10</cell>
+                    <cell>13</cell>
+                    <cell>19</cell>
+                </row>
+                <row>
+                    <cell><m>y</m></cell>
+                    <cell>5</cell>
+                    <cell>1</cell>
+                    <cell>-5</cell>
+                    <cell>-7</cell>
+                    <cell>-11</cell>
+                </row>
+            </tabular>
+        </statement>
+        <solution>
+            <p>
+                This is a linear relationship.  Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.
+                <md>
+                    m_{1}=\frac{1-5}{1-\left(-5\right)}=\frac{-4}{6}=-\frac{2}{3}
+                </md>
+                <md>
+                    m_{2}=\frac{-5-1}{10-1}=\frac{-6}{9}=-\frac{2}{3}
+                </md>
+                <md>
+                    m_{3}=\frac{-7-\left(-5\right)}{13-10}=\frac{-2}{3}=-\frac{2}{3}
+                </md>
+                <md>
+                    m_{4}=\frac{-11-\left(-7\right)}{19-13}=\frac{-4}{6}=-\frac{2}{3}
+                </md>
+                
+            </p>
+            <p>
+                We have a constant rate of change making the relationship linear.  Choosing one of the points given, we can use point-slope form to write an equation of the line:
+                <md>
+                    y-5=-\frac{2}{3}\left(x+5\right)
+                </md>
+                
+            </p>
+        </solution>
+    </exercise>
+</worksheet>

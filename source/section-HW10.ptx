@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="HW10" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Homework Set 10</title>
+ 
+  <introduction>
+    <p>
+      <alert>Directions:</alert> Complete each of the following problems showing work and supporting your answers with appropriate explanation.  You are welcome to use notes and a graphing calculator to complete these problems.  Other resources are not permitted.  Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.
+    </p>
+  </introduction>
+
+   
+    <exercise>
+    <introduction>
+      
+        <p>
+          Consider payment plans for three different fitness centers:
+          <ul>
+            <li>
+              <p>
+                Shape Up charges an initiation fee of $39 plus $35 per month per person.
+              </p>
+            </li>
+            <li>
+              <p>
+                Fitness Fun charges an initiation fee of $75 plus $20 per month per person.
+              </p>
+            </li>
+            <li>
+              <p>
+                Be Your Best has no initiation fee and charges $52 per month per person.
+              </p>
+            </li>
+          </ul>
+        </p>
+        <tabular halign='center' top='minor' left='minor'>
+            <row bottom='minor' header='yes'>
+              <cell right='minor'><nbsp/></cell>
+              <cell bottom='minor' right='minor' colspan="3">Amount Paid so far (in dollars)</cell>
+            </row>
+
+            <row bottom='minor' header='yes'>
+              <cell right='minor'>Month</cell>
+              <cell right='minor'>Shape Up</cell>
+              <cell right='minor'>Fitness Fun</cell>
+              <cell right='minor'>Be Your Best</cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>1</cell>
+              <cell right='minor'>74</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>2</cell>
+              <cell right='minor'>109</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>3</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>4</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>5</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            <row bottom='minor'>
+              <cell right='minor'>6</cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+              <cell right='minor'><nbsp/></cell>
+            </row>
+
+            
+          </tabular>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    Complete the table showing the total cost for the first 6 months for each fitness company's payment plan (initiation fees are only charged once).
+                </p>
+            </statement>
+        </task>
+
+        
+    <task>
+      <statement>
+        <p>
+          For each set of data, graph (month, amount paid so far). Label each graph with the company's name.
+        </p>
+        <image source="BlankGrid10.png" width="40%">
+            <shortdescription>Blank Grid for plotting lines</shortdescription>
+        </image>
+      </statement>
+    </task>
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Find an equation that fits each data set. 
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+        <statement>
+          <p>
+            Which company charges the most after 6 months of membership? Explain how you can tell from both the graph and the table.
+          </p>
+        </statement>
+      </task>
+
+     
+
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          Which company has the steepest graph? Why does that make sense?
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="0.5in">
+      <statement>
+        <p>
+          What does the <m>y</m>-intercept represent for each fitness payment plan?
+        </p>
+      </statement>
+    </task>
+
+     <task workspace="1.5in">
+        <statement>
+          <p>
+            You have $500 to spend on a fitness plan this year. How many months can you afford with each plan?
+          </p>
+        </statement>
+      </task>
+
+     
+    </exercise>
+
+     <exercise xml:id="exer-two-lines-35">
+      <introduction>
+        <p>
+          Consider the two lines graphed below.
+        </p>
+         <image source="two-lines-35" width="50%">
+            <description><p>Graph of two lines, the first passing through (0,9) and (12,1), the second passing 
+                through (2,4) and (10,9).</p>
+            </description>
+          </image>
+        
+      </introduction>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            Estimate the intersection point of the lines.
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            Find at least two grid points on each line. Do not estimate. Label the points on the graph.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Find an equation for each line. This is called a system of equations in two unknowns because the values of <m>x</m> and <m>y</m> of the intersection point are both unknown.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Solve the system algebraically.
+          </p>
+        </statement>
+      </task>
+
+      
+    </exercise>
+
+    <exercise>
+      <introduction>
+        <p>
+          Graph the following equations.
+          <md>
+            <mrow>y \amp = 2x - 3</mrow>
+            <mrow>y \amp = -0.5x + 4</mrow>
+          </md>
+        </p>
+      </introduction>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            What do you know about the intersection point of the two lines?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.25in">
+        <statement>
+          <p>
+            Estimate the intersection point graphically.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Solve the problem algebraically.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Replace the variables in both equations with the coordinates of the intersection point. Does the point you found satisfy both equations? Should it? Explain.
+          </p>
+        </statement>
+      </task>
+
+    </exercise>
+
+
+
+</worksheet>
