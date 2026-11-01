@@ -595,6 +595,159 @@ var ptx_lunr_docs = [
   "body": "  The U.S. market shares (percentage of U.S. vehicle sales) of Ford are shown in the table below for various years.    Year  1998  2000  2002  2004  2005    Market Share (%)  26  24  21  19  18       Let be Ford's U.S. market share (percentage) at years since 1995. Find an equation for . Does the model fit the data well?      Find . What does it mean in this situation?      Find when . What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Find the -intercept. What does it mean in this situation?      Determine a reasonable domain and range for .    "
 },
 {
+  "id": "APizza",
+  "level": "1",
+  "url": "APizza.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Armand’s Pizza Parlors",
+  "body": " Armand's Pizza Parlors   Armand's Pizza Parlors is a chain of Italian food restaurants located in a five-state area. One of the most successful types of locations for Armand's has been near a college campus. Management believes that the size of the student population on the nearby campus is related to the annual sales. To evaluate the relationship between the student population and the annuals sales , Armand's collected data from a sample of 10 of its restaurants located near college campuses. The data is summarized in the chart below.    Restaurant  Student Population (in thousands)  Annual Sales (in $1000s)    1  2  58    2  6  105    3  8  88    4  8  118    5  12  117    6  16  137    7  20  157    8  20  169    9  22  149    10  26  202      Create a scatterplot of the data in Desmos. (You do not need to copy this to your paper.)    Using regression find a linear equation to represent .    Use your function to predict the sales if the student population is 10,000.    Use your function to predict the sales if the student population is 30,000.    Use your function to predict the student population if the annual sales were $90,000.    Use your function to predict the student population if the annual sales were $240,000.    Find . Explain what this means in terms of the problem situation.    Find when . Explain what this means in terms of the problem situation.   "
+},
+{
+  "id": "APizza-3",
+  "level": "2",
+  "url": "APizza.html#APizza-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Create a scatterplot of the data in Desmos. (You do not need to copy this to your paper.)  "
+},
+{
+  "id": "APizza-4",
+  "level": "2",
+  "url": "APizza.html#APizza-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Using regression find a linear equation to represent .  "
+},
+{
+  "id": "APizza-5",
+  "level": "2",
+  "url": "APizza.html#APizza-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Use your function to predict the sales if the student population is 10,000.  "
+},
+{
+  "id": "APizza-6",
+  "level": "2",
+  "url": "APizza.html#APizza-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Use your function to predict the sales if the student population is 30,000.  "
+},
+{
+  "id": "APizza-7",
+  "level": "2",
+  "url": "APizza.html#APizza-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " Use your function to predict the student population if the annual sales were $90,000.  "
+},
+{
+  "id": "APizza-8",
+  "level": "2",
+  "url": "APizza.html#APizza-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Use your function to predict the student population if the annual sales were $240,000.  "
+},
+{
+  "id": "APizza-9",
+  "level": "2",
+  "url": "APizza.html#APizza-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Find . Explain what this means in terms of the problem situation.  "
+},
+{
+  "id": "APizza-10",
+  "level": "2",
+  "url": "APizza.html#APizza-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Find when . Explain what this means in terms of the problem situation.  "
+},
+{
+  "id": "Catfish",
+  "level": "1",
+  "url": "Catfish.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Catfish Population",
+  "body": " Catfish Population   A chemical factory has set up business on a certain North Georgia river. This river empties into a large lake, on which is a restaurant which serves fresh catfish dinners. The chemical factory started dumping toxic waste into the river, which reduced the catfish population. The table below shows how the number of catfish per acre is related to the number of gallons of toxic waste dumped per day by the chemical factory. Let represent the number of gallons of toxic waste dumped per day and represent the number of catfish per acre.    Gallons of toxic waste dumped per day  5  18  23  37  48  60    Number of catfish per acre  47  40  35  30  27  19      Create a scatterplot of the data. (You do not need to copy this to your paper.)    Using regression on Desmos determine a linear model to represent .    What are the \"units\" for the slope of this linear model?    What meaning can we assign to the \" -intercept\" of the model? What is the value of the -intercept?    What meaning can we assign to the \" -intercept\" of the model? What is the value of the -intercept?    Find the value of . Explain what it means in context of the problem.    Find if . Explain what it means in context of the problem.   "
+},
+{
+  "id": "Catfish-3",
+  "level": "2",
+  "url": "Catfish.html#Catfish-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Create a scatterplot of the data. (You do not need to copy this to your paper.)  "
+},
+{
+  "id": "Catfish-4",
+  "level": "2",
+  "url": "Catfish.html#Catfish-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Using regression on Desmos determine a linear model to represent .  "
+},
+{
+  "id": "Catfish-5",
+  "level": "2",
+  "url": "Catfish.html#Catfish-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " What are the \"units\" for the slope of this linear model?  "
+},
+{
+  "id": "Catfish-6",
+  "level": "2",
+  "url": "Catfish.html#Catfish-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " What meaning can we assign to the \" -intercept\" of the model? What is the value of the -intercept?  "
+},
+{
+  "id": "Catfish-7",
+  "level": "2",
+  "url": "Catfish.html#Catfish-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " What meaning can we assign to the \" -intercept\" of the model? What is the value of the -intercept?  "
+},
+{
+  "id": "Catfish-8",
+  "level": "2",
+  "url": "Catfish.html#Catfish-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Find the value of . Explain what it means in context of the problem.  "
+},
+{
+  "id": "Catfish-9",
+  "level": "2",
+  "url": "Catfish.html#Catfish-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Find if . Explain what it means in context of the problem.  "
+},
+{
   "id": "CH-Homework-2",
   "level": "1",
   "url": "CH-Homework-2.html",
@@ -944,6 +1097,69 @@ var ptx_lunr_docs = [
   "number": "4",
   "title": "",
   "body": "  Study each context. For each context, find an equation. In each case, explain how you know your choices of slope and -intercept are correct.     Fia earns 3 points every time she finds a star in her Dora the Explorer game. She earns a one-time bonus of 50 points in each level for finding a banana for her monkey friend, Boots. Based on the number of stars she finds, how many points will Fia earn in a level if she always finds the banana?      Valen earns $5 each week for doing his chores. Each time his mom has to remind him, there is a $0.50 deduction from his allowance. How much will Valen earn in a week based on the number of times he needs to be reminded to do his chores?      Jackson has $18. Each month, he pays $4 to stream music on his iPod. How much money does he have or owe based on the number of months he streams music?    "
+},
+{
+  "id": "HW9",
+  "level": "1",
+  "url": "HW9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 9",
+  "body": " Homework Set 9    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Each space in the Monopoly board game is numbered with GO being space 0. The price of the property by space number is provided.    Space Number  Price of Property  Space Number  Price of Property    1  60  21  220    3  60  23  220    6  100  24  240    8  100  26  260    9  120  27  260    11  140  29  280    13  140  31  300    14  160  32  300    16  180  34  320    18  180  37  350    19  200  39  400       Plot the data in Desmos. (You do not need to include your graph)      Find a regression equation to fit the data.      What is the slope? What does the slope represent in this context?      What is the -intercept? What does the -intercept represent in this context?      What does the regression line predict for the price for property 18?      What property number would cost $500 if the board was expanded to include more spaces?       In the next table, several Monopoly properties were deleted from the previous question. Only the third property in each group of three of the same colored properties remain in this table. Space numbers and prices are provided.    Space Number  Price of Property    9  120    14  160    19  200    24  240    29  280    34  320       Determine an equation to fit this new table.      What is the slope? What does the slope mean in this context?      What is the -intercept? What does the -intercept mean in this context?      If every space had a price associated with it, how much would space 25 cost?      Which space number would cost $500?     "
+},
+{
+  "id": "exer-monop-reg",
+  "level": "2",
+  "url": "HW9.html#exer-monop-reg",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Each space in the Monopoly board game is numbered with GO being space 0. The price of the property by space number is provided.    Space Number  Price of Property  Space Number  Price of Property    1  60  21  220    3  60  23  220    6  100  24  240    8  100  26  260    9  120  27  260    11  140  29  280    13  140  31  300    14  160  32  300    16  180  34  320    18  180  37  350    19  200  39  400       Plot the data in Desmos. (You do not need to include your graph)      Find a regression equation to fit the data.      What is the slope? What does the slope represent in this context?      What is the -intercept? What does the -intercept represent in this context?      What does the regression line predict for the price for property 18?      What property number would cost $500 if the board was expanded to include more spaces?    "
+},
+{
+  "id": "HW9-4",
+  "level": "2",
+  "url": "HW9.html#HW9-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  In the next table, several Monopoly properties were deleted from the previous question. Only the third property in each group of three of the same colored properties remain in this table. Space numbers and prices are provided.    Space Number  Price of Property    9  120    14  160    19  200    24  240    29  280    34  320       Determine an equation to fit this new table.      What is the slope? What does the slope mean in this context?      What is the -intercept? What does the -intercept mean in this context?      If every space had a price associated with it, how much would space 25 cost?      Which space number would cost $500?    "
+},
+{
+  "id": "HW10",
+  "level": "1",
+  "url": "HW10.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Set 10",
+  "body": " Homework Set 10    Directions: Complete each of the following problems showing work and supporting your answers with appropriate explanation. You are welcome to use notes and a graphing calculator to complete these problems. Other resources are not permitted. Collaboration with other students in the class is allowed, but please note any collaborators on your homework sheet.     Consider payment plans for three different fitness centers:   Shape Up charges an initiation fee of $39 plus $35 per month per person.    Fitness Fun charges an initiation fee of $75 plus $20 per month per person.    Be Your Best has no initiation fee and charges $52 per month per person.        Amount Paid so far (in dollars)    Month  Shape Up  Fitness Fun  Be Your Best    1  74      2  109      3       4       5       6          Complete the table showing the total cost for the first 6 months for each fitness company's payment plan (initiation fees are only charged once).      For each set of data, graph (month, amount paid so far). Label each graph with the company's name.   Blank Grid for plotting lines       Find an equation that fits each data set.      Which company charges the most after 6 months of membership? Explain how you can tell from both the graph and the table.      Which company has the steepest graph? Why does that make sense?      What does the -intercept represent for each fitness payment plan?      You have $500 to spend on a fitness plan this year. How many months can you afford with each plan?       Consider the two lines graphed below.   Graph of two lines, the first passing through (0,9) and (12,1), the second passing through (2,4) and (10,9).       Estimate the intersection point of the lines.      Find at least two grid points on each line. Do not estimate. Label the points on the graph.      Find an equation for each line. This is called a system of equations in two unknowns because the values of and of the intersection point are both unknown.      Solve the system algebraically.       Graph the following equations.      What do you know about the intersection point of the two lines?      Estimate the intersection point graphically.      Solve the problem algebraically.      Replace the variables in both equations with the coordinates of the intersection point. Does the point you found satisfy both equations? Should it? Explain.     "
+},
+{
+  "id": "HW10-3",
+  "level": "2",
+  "url": "HW10.html#HW10-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider payment plans for three different fitness centers:   Shape Up charges an initiation fee of $39 plus $35 per month per person.    Fitness Fun charges an initiation fee of $75 plus $20 per month per person.    Be Your Best has no initiation fee and charges $52 per month per person.        Amount Paid so far (in dollars)    Month  Shape Up  Fitness Fun  Be Your Best    1  74      2  109      3       4       5       6          Complete the table showing the total cost for the first 6 months for each fitness company's payment plan (initiation fees are only charged once).      For each set of data, graph (month, amount paid so far). Label each graph with the company's name.   Blank Grid for plotting lines       Find an equation that fits each data set.      Which company charges the most after 6 months of membership? Explain how you can tell from both the graph and the table.      Which company has the steepest graph? Why does that make sense?      What does the -intercept represent for each fitness payment plan?      You have $500 to spend on a fitness plan this year. How many months can you afford with each plan?    "
+},
+{
+  "id": "exer-two-lines-35",
+  "level": "2",
+  "url": "HW10.html#exer-two-lines-35",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider the two lines graphed below.   Graph of two lines, the first passing through (0,9) and (12,1), the second passing through (2,4) and (10,9).       Estimate the intersection point of the lines.      Find at least two grid points on each line. Do not estimate. Label the points on the graph.      Find an equation for each line. This is called a system of equations in two unknowns because the values of and of the intersection point are both unknown.      Solve the system algebraically.    "
+},
+{
+  "id": "HW10-5",
+  "level": "2",
+  "url": "HW10.html#HW10-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Graph the following equations.      What do you know about the intersection point of the two lines?      Estimate the intersection point graphically.      Solve the problem algebraically.      Replace the variables in both equations with the coordinates of the intersection point. Does the point you found satisfy both equations? Should it? Explain.    "
 },
 {
   "id": "CH-MathMindset-2",
@@ -2503,6 +2719,222 @@ var ptx_lunr_docs = [
   "body": " Consider the relationship displayed in the table below. Determine the slope of this relationship and describe what it represents in context of the two variables. (Be sure your answer contains units).    Time spent reading (minutes)  Number of pages read    5  15    10  30    15  45    20  60    25  75     The slope is found by taking the ratio of the change in the dependent variable to the change in the independent variable.   The slope tells us that they are reading 3 pages every minute.   "
 },
 {
+  "id": "LE2_PP",
+  "level": "1",
+  "url": "LE2_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #2",
+  "body": " Linear Equations #2      LE #2: I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.      Is the following relationship linear? If so, find an equation that describes the relationship.    x  0  2  4  6  8    y  27  20  13  6  -1       This is a linear relationship. The -values are each increasing by 2 and the -values are each decreasing by 7, so the rate of change between the two variables remains constant making the relationship linear.  This constant rate of change, is the slope of our line. The y-intercept is given in the table, therefore we have the equation of the line is        Is the following relationship linear? If so, find an equation that describes the relationship.   A line passing through (0,5) and (10,0).     This is a linear relationship because the graph is a straight line. To find an equation for the line, we will start by choosing any two points on the line. For this worked example, we will use the points and .  First find the slope of the line:      We can now write the equation of the line in point-slope form using either of our points:       Is the following relationship linear? If so, find an equation that describes the relationship.     0  2  4  6  8     9  12  17  20  21      This is a not a linear relationship. The x-values are each increasing by 2 but the y-values increase by different amounts. Therefore we see that the slope changes over time.      Is the following relationship linear? If so, find an equation that describes the relationship.   A line passing through (-9,-4) and (5,2).     This is a linear relationship because the graph is a straight line. To find an equation for the line, we will start by choosing any two points on the line. For this worked example, we will use the points and .  First find the slope of the line:      We can now write the equation of the line in point-slope form using either of our points:       Is the following relationship linear? If so, find an equation that describes the relationship.     1  3  4  7  12     2  10  14  26  46      This is a linear relationship. Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.      We have a constant rate of change making the relationship linear. Choosing one of the points given, we can use point-slope form to write an equation of the line:       Is the following relationship linear? If so, find an equation that describes the relationship.   A curve passing through (0,-1) and (-1,1).     This is not a linear relationship. Linear relationships will always produce graphs that are straight lines.      Is the following relationship linear? If so, find an equation that describes the relationship.     -5  1  10  13  19     5  1  -5  -7  -11      This is a linear relationship. Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.      We have a constant rate of change making the relationship linear. Choosing one of the points given, we can use point-slope form to write an equation of the line:     "
+},
+{
+  "id": "LE2_PP-2",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #2: I can recognize and identify key characteristics of a linear pattern represented in a table, graph, equation or application. I can translate between different representations.   "
+},
+{
+  "id": "LE2_PP-3",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.    x  0  2  4  6  8    y  27  20  13  6  -1       This is a linear relationship. The -values are each increasing by 2 and the -values are each decreasing by 7, so the rate of change between the two variables remains constant making the relationship linear.  This constant rate of change, is the slope of our line. The y-intercept is given in the table, therefore we have the equation of the line is     "
+},
+{
+  "id": "LE2_PP-4",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.   A line passing through (0,5) and (10,0).     This is a linear relationship because the graph is a straight line. To find an equation for the line, we will start by choosing any two points on the line. For this worked example, we will use the points and .  First find the slope of the line:      We can now write the equation of the line in point-slope form using either of our points:    "
+},
+{
+  "id": "LE2_PP-5",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.     0  2  4  6  8     9  12  17  20  21      This is a not a linear relationship. The x-values are each increasing by 2 but the y-values increase by different amounts. Therefore we see that the slope changes over time.   "
+},
+{
+  "id": "LE2_PP-6",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.   A line passing through (-9,-4) and (5,2).     This is a linear relationship because the graph is a straight line. To find an equation for the line, we will start by choosing any two points on the line. For this worked example, we will use the points and .  First find the slope of the line:      We can now write the equation of the line in point-slope form using either of our points:    "
+},
+{
+  "id": "LE2_PP-7",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.     1  3  4  7  12     2  10  14  26  46      This is a linear relationship. Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.      We have a constant rate of change making the relationship linear. Choosing one of the points given, we can use point-slope form to write an equation of the line:    "
+},
+{
+  "id": "LE2_PP-8",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.   A curve passing through (0,-1) and (-1,1).     This is not a linear relationship. Linear relationships will always produce graphs that are straight lines.   "
+},
+{
+  "id": "LE2_PP-9",
+  "level": "2",
+  "url": "LE2_PP.html#LE2_PP-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Is the following relationship linear? If so, find an equation that describes the relationship.     -5  1  10  13  19     5  1  -5  -7  -11      This is a linear relationship. Because neither the x nor the y values are increasing by a constant value, we need to actually look at the slope between points to determine if this is linear.      We have a constant rate of change making the relationship linear. Choosing one of the points given, we can use point-slope form to write an equation of the line:    "
+},
+{
+  "id": "LE3_PP",
+  "level": "1",
+  "url": "LE3_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #3",
+  "body": " Linear Equations #3      LE #3: Given a linear graph, I can identify the slope, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.      The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,-5) and (2,1)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .              The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,4) and (2,0)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is , which we were also able to identify directly from the graph.      Evaluate .            Find when .              The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,6) and (6,4)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .              The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (-4,-3) and (5,3)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      As our -intercept isn't one of our points we can write our line in point-slope form. We'll use the point         Determine the -intercept of the function.    We find the -intercept by setting and solving for .      Our -intercept is .      Evaluate .            Find when .               The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (2,-2) and (6,-5)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      As our -intercept isn't one of our points, we can write our line in point-slope form. We'll use the point         Determine the -intercept of the function.    We find the -intercept by setting and solving for .      Our -intercept is .      Evaluate .            Find when .               The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,1) and (6,-4)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .            "
+},
+{
+  "id": "LE3_PP-2",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #3: Given a linear graph, I can identify the slope, the vertical intercept, horizontal intercept, evaluate , find given and make the equation of the line.   "
+},
+{
+  "id": "LE3_PP-3",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,-5) and (2,1)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .           "
+},
+{
+  "id": "LE3_PP-4",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,4) and (2,0)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is , which we were also able to identify directly from the graph.      Evaluate .            Find when .           "
+},
+{
+  "id": "LE3_PP-5",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,6) and (6,4)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .           "
+},
+{
+  "id": "LE3_PP-6",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (-4,-3) and (5,3)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      As our -intercept isn't one of our points we can write our line in point-slope form. We'll use the point         Determine the -intercept of the function.    We find the -intercept by setting and solving for .      Our -intercept is .      Evaluate .            Find when .            "
+},
+{
+  "id": "LE3_PP-7",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (2,-2) and (6,-5)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      As our -intercept isn't one of our points, we can write our line in point-slope form. We'll use the point         Determine the -intercept of the function.    We find the -intercept by setting and solving for .      Our -intercept is .      Evaluate .            Find when .            "
+},
+{
+  "id": "LE3_PP-8",
+  "level": "2",
+  "url": "LE3_PP.html#LE3_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  The graph of is given below. Use it to answer the questions that follow.   Graph of a line passing through (0,1) and (6,-4)      Determine the equation of the line.    We start by identifying any two points on the graph. For this example, we use and . We use these points to find the slope.      In this case, we were able to identify the -intercept, from our graph, giving us an equation: .      Determine the -intercept of the function.    We find the -intercept by setting and solving for .     Our -intercept is .      Evaluate .            Find when .           "
+},
+{
+  "id": "LE4_PP",
+  "level": "1",
+  "url": "LE4_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #4",
+  "body": " Linear Equations #4      LE #4: Given a linear word situation, I can make an equation, identify and explain the meaning of slope in the context, identify and explain the -intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.      A 500-gallon water tank is being refilled with water at a rate of 24 gallons per minute. The tank initially holds 80 gallons of water.     Find an equation to represent the volume of water in the tank , in gallons, in terms of the time , in minutes, that the tank has been refilling.    In this situation we are told that the tank is filling at 24 gallons per minute. Gallons is the measure of our output and minutes in the measure of our input, therefore this number represents the rate of change, or the slope of our model. We also are told the initial volume of water, which represents the dependent intercept. Therefore we have all the values need to write a linear relationship in slope-intercept form:       Determine an appropriate domain and range for the model.    The outputs in this situation place restrictions on our model. Because our tank can hold at most 500 gallons and we start with 80 gallons of water already in the tank, the range must be . We know that at , the tank has 80 gallons, we need to determine the time when the tank is full.    This shows us it takes 17.5 minutes to fill the tank and the domain is .      How much time will it take for the tank to hold 350 gallons?    To find the time it takes to fill to 350 gallons, we will substitute 350 in for , in our equation.    We see it takes 11.25 minutes to fill the tank to 350 gallons.      How much water does the tank hold after 8 minutes?    o find how much water is in the tank after 8 minutes we will substitute 8 in for and evaluate .  We see that after 8 minutes there will be 272 gallons in the tank.       An 88-room hotel finds that the relationship between the price of the room and the occupancy level is approximately linear. If the hotel charges 102 dollars per night they will fill 80 rooms. For every $7 they increase the price, they fill 10 fewer rooms.     Find an equation to represent the occupancy of the hotel in terms of the price of a room .    Slope measures the ratio of change in output to change in input. In this case output is rooms and input is price, so we can find our slope by combining the two changes that are given. Notice this number is negative because price increases and rooms decrease. We also are given a point , so we can express the linear relationship in point-slope form.       Determine an appropriate domain and range for the model.    The range of this model is restricted based on the number of rooms available. The range is . To find the domain we need to determine the prices corresponding to 0 and 88 rooms. For 0 rooms:     For 88 rooms:    Therefore our domain for this model is .      How many rooms would they fill at a price of $151?    To find the number of rooms filled at $151 we substitute 151 in for and solve for .    At $151, we find that only 10 rooms would be filled.      How much should they charge to fill 85 rooms?    To fill 85 rooms we substitute 85 in for and solve for .    To fill 85 rooms they should charge a price of $98.50.       A salesperson's monthly salary is a combination of their base pay and commissions made on sales. On sales of $12,000 the salesperson earned a monthly salary of $1,960. On sales of $40,000 their monthly salary was $3,640. The company pays commissions on sales up to $200,000 per month.     Find an equation to represent the monthly salary, , in dollars, in terms of the amount of sales, , in dollars.    We are writing an equation for the salary in terms of the sales, so salary is our dependent variable and sales is our independent variable. This means we have two points we can use to find the relationship. and .  We find the slope:   The equation of the line would be:       Determine an appropriate domain and range for the model.    We are told that commmissions are earned on sales up to $200,000, therefore our domain is: We can use this information to find the range. We will find the salary for 0 and 200000.  For $0 in sales:     For $200000 in sales:   This gives us a range of:       How much must the salesperson sell to earn a monthly salary of $5,000?    We substitute 5000 in for , and solve for :    To earn a monthly salary of $5,000, they must have sales of $62,666.67.      How much will the salesperson earn, if they have $135,000 in sales?    We substitute 135000 in for , and solve for :   Sales of $135,000 will result in a monthly salary of $9,340.       An 88-room hotel charges $125 per room for an overnight stay.     Find an equation to represent the revenue generated in terms of number of rooms used.    lope measures the ratio of change in output to change in input. In this case output is revenue and input is rooms, so our slope measures the revenue per room which is given as $125 per room. Since they make no revenue if 0 rooms are filled we have the intercept is 0, giving us an equation:       Determine an appropriate domain and range for the model.    The domain of this model is restricted based on the number of rooms available. The domain is . To find the range we need to determine the revenue corresponding to 0 and 88 rooms.  For 0 rooms:    For 88 rooms:  Therefore our range for this model is .      How many rooms must they fill to earn a revenue of $8000?    To find the number of rooms must be filled for a revenue of $8000 we substitute 8000 in for and solve for .   For a revenue of $8000 they need to fill 64 rooms.      How much revenue do the generate if they fill 85 rooms?    If they fill 85 rooms we substitute 85 in for and solve for .  With 85 rooms filled they should have revenues of $10,625.       A fair charges an admission fee of $5 and charges $1.25 per carnival ride.     Find an equation to represent the cost to attend the fair , in terms of the number of rides taken .    We are writing an equation for the cost in terms of the rides, so our slope is a measure of the cost per ride which is given as $1.25. The intercept would represent the initial cost, which is indicated here as the admission fee, giving us an equation of:       How many rides can someone take for $45?    We substitute 45 in for , and solve for :    They can take 32 rides for $45.      How much will it cost if some takes 8 rides while at the carnival?    We substitute 8 in for , and solve for :  It would cost them $15 to go to the fair and ride 8 times.     "
+},
+{
+  "id": "LE4_PP-2",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #4: Given a linear word situation, I can make an equation, identify and explain the meaning of slope in the context, identify and explain the -intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.   "
+},
+{
+  "id": "LE4_PP-3",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  A 500-gallon water tank is being refilled with water at a rate of 24 gallons per minute. The tank initially holds 80 gallons of water.     Find an equation to represent the volume of water in the tank , in gallons, in terms of the time , in minutes, that the tank has been refilling.    In this situation we are told that the tank is filling at 24 gallons per minute. Gallons is the measure of our output and minutes in the measure of our input, therefore this number represents the rate of change, or the slope of our model. We also are told the initial volume of water, which represents the dependent intercept. Therefore we have all the values need to write a linear relationship in slope-intercept form:       Determine an appropriate domain and range for the model.    The outputs in this situation place restrictions on our model. Because our tank can hold at most 500 gallons and we start with 80 gallons of water already in the tank, the range must be . We know that at , the tank has 80 gallons, we need to determine the time when the tank is full.    This shows us it takes 17.5 minutes to fill the tank and the domain is .      How much time will it take for the tank to hold 350 gallons?    To find the time it takes to fill to 350 gallons, we will substitute 350 in for , in our equation.    We see it takes 11.25 minutes to fill the tank to 350 gallons.      How much water does the tank hold after 8 minutes?    o find how much water is in the tank after 8 minutes we will substitute 8 in for and evaluate .  We see that after 8 minutes there will be 272 gallons in the tank.    "
+},
+{
+  "id": "LE4_PP-4",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  An 88-room hotel finds that the relationship between the price of the room and the occupancy level is approximately linear. If the hotel charges 102 dollars per night they will fill 80 rooms. For every $7 they increase the price, they fill 10 fewer rooms.     Find an equation to represent the occupancy of the hotel in terms of the price of a room .    Slope measures the ratio of change in output to change in input. In this case output is rooms and input is price, so we can find our slope by combining the two changes that are given. Notice this number is negative because price increases and rooms decrease. We also are given a point , so we can express the linear relationship in point-slope form.       Determine an appropriate domain and range for the model.    The range of this model is restricted based on the number of rooms available. The range is . To find the domain we need to determine the prices corresponding to 0 and 88 rooms. For 0 rooms:     For 88 rooms:    Therefore our domain for this model is .      How many rooms would they fill at a price of $151?    To find the number of rooms filled at $151 we substitute 151 in for and solve for .    At $151, we find that only 10 rooms would be filled.      How much should they charge to fill 85 rooms?    To fill 85 rooms we substitute 85 in for and solve for .    To fill 85 rooms they should charge a price of $98.50.    "
+},
+{
+  "id": "LE4_PP-5",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A salesperson's monthly salary is a combination of their base pay and commissions made on sales. On sales of $12,000 the salesperson earned a monthly salary of $1,960. On sales of $40,000 their monthly salary was $3,640. The company pays commissions on sales up to $200,000 per month.     Find an equation to represent the monthly salary, , in dollars, in terms of the amount of sales, , in dollars.    We are writing an equation for the salary in terms of the sales, so salary is our dependent variable and sales is our independent variable. This means we have two points we can use to find the relationship. and .  We find the slope:   The equation of the line would be:       Determine an appropriate domain and range for the model.    We are told that commmissions are earned on sales up to $200,000, therefore our domain is: We can use this information to find the range. We will find the salary for 0 and 200000.  For $0 in sales:     For $200000 in sales:   This gives us a range of:       How much must the salesperson sell to earn a monthly salary of $5,000?    We substitute 5000 in for , and solve for :    To earn a monthly salary of $5,000, they must have sales of $62,666.67.      How much will the salesperson earn, if they have $135,000 in sales?    We substitute 135000 in for , and solve for :   Sales of $135,000 will result in a monthly salary of $9,340.    "
+},
+{
+  "id": "LE4_PP-6",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  An 88-room hotel charges $125 per room for an overnight stay.     Find an equation to represent the revenue generated in terms of number of rooms used.    lope measures the ratio of change in output to change in input. In this case output is revenue and input is rooms, so our slope measures the revenue per room which is given as $125 per room. Since they make no revenue if 0 rooms are filled we have the intercept is 0, giving us an equation:       Determine an appropriate domain and range for the model.    The domain of this model is restricted based on the number of rooms available. The domain is . To find the range we need to determine the revenue corresponding to 0 and 88 rooms.  For 0 rooms:    For 88 rooms:  Therefore our range for this model is .      How many rooms must they fill to earn a revenue of $8000?    To find the number of rooms must be filled for a revenue of $8000 we substitute 8000 in for and solve for .   For a revenue of $8000 they need to fill 64 rooms.      How much revenue do the generate if they fill 85 rooms?    If they fill 85 rooms we substitute 85 in for and solve for .  With 85 rooms filled they should have revenues of $10,625.    "
+},
+{
+  "id": "LE4_PP-7",
+  "level": "2",
+  "url": "LE4_PP.html#LE4_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  A fair charges an admission fee of $5 and charges $1.25 per carnival ride.     Find an equation to represent the cost to attend the fair , in terms of the number of rides taken .    We are writing an equation for the cost in terms of the rides, so our slope is a measure of the cost per ride which is given as $1.25. The intercept would represent the initial cost, which is indicated here as the admission fee, giving us an equation of:       How many rides can someone take for $45?    We substitute 45 in for , and solve for :    They can take 32 rides for $45.      How much will it cost if some takes 8 rides while at the carnival?    We substitute 8 in for , and solve for :  It would cost them $15 to go to the fair and ride 8 times.    "
+},
+{
   "id": "LE5_PP",
   "level": "1",
   "url": "LE5_PP.html",
@@ -2584,6 +3016,78 @@ var ptx_lunr_docs = [
   "body": "               "
 },
 {
+  "id": "LE6_PP",
+  "level": "1",
+  "url": "LE6_PP.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Linear Equations #6",
+  "body": " Linear Equations #6      LE #6: Given a data set, I can make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the -intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.      In Brazil, the Instituto Nacional de Pesquisas Espaciais (INPE, or National Institute of Space Research) uses Landsat satellite photos to monitor the pace of deforestation. According to their data, the original Amazon rain forest biome in Brazil of 4,100,000 square kilometers was reduced to 3,413,000 square kilometers by 2005, representing a loss of 16.8%. The figures for select years from 1987 to 2005 are shown.    Year  Remaining forest (thousand sq km)    1987  3745    1990  3692    1993  3652    1996  3590    1999  3542    2002  3485    2005  3413       Using linear regression on Desmos, find a model for the remaining rain forest , in thousands of square kilometers, in terms of the number of years since 1987. Round your values in the equation to three decimal places and express your answer in function notation.    Because we are using as our input the number of years since 1987, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of data from table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of -18.095 tells us that the amount of remaining rainforest is decreasing by 18.095 thousand square kilometers per year.      Based on your model, how much area of rain forest will remain in 2030?    We start by converting the given year to the corresponding input value:  We can then substitute this input into our equation.  Based on the model, in 2030 there will be 2936.436 thousand square kilometers of rainforest remaining.      Based on your model, in what year will there be only 3000 thousand square kilometers of rain forest remaining?    We are given an output value, so we can substitute directly into the equation and solve for our input.   We will use this input to determine the corresponding year, In 2027 there will be only 3000 thousand square kilometers of rain forest remaining.       The table below shows the minimum wage in the US at five-year intervals.    1960  1.00    1965  1.25    1970  1.60    1975  2.10    1980  3.10    1985  3.35    1990  3.80    1995  4.25    2000  5.15       Using linear regression on Desmos, find a model for the US minimum wage , in dollars, in terms of the number of years since 1960. Round your values in the equation to three decimal places. Express your answer in function notation.     A screenshot of the table entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 0.104 tells us that the US minimum wage is increasing by 0.104 dollars per year.      Based on your model, what should the US minimum wage be in 2030?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.  Based on the model, the US minimum wage in 2030 will be $8.04.      Based on your model, in what year will the US minimum wage be $15.    We are given an output value, so we can substitute directly into the equation and solve for our input.     We will use this input to determine the corresponding year, In 2097, the US minimum wage will reach $15 based on this model.       An outdoor snack bar collected the following data showing the number of cups of cocoa, , they sold when the high temperature for the day was degrees Celsius.    Temperature  Cups of cocoa    2  45    4  42    5  42    8  35    10  25    11  25    12  17    15  16    16  15    18  6       Using linear regression on Desmos, find a model for the cups of cocoa sold in terms of the temperature in degrees Celsius. Round your values in the equation to three decimal places. Express your answer in function notation.     A screenshot of the data table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of tells us that the snack bar sells 2.479 cups of cocoa fewer for every one degree Celsius increase in temperature.      Based on your model, how many cups of cocoa should be sold if the temperature is degrees Celsius?    We are given the input value, so we can substitute directly into our model.  At degrees Celsius, we would expect the snack bar to sell 57 cups of cocoa.      Based on your model, at what temperature would you expect to sell 30 cups of cocoa.    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We would expect the snack bar to sell 30 cups of cocoa when the temperature is 8.809 degrees Celsius.       The number of manatees killed by watercraft in Florida waters has been increasing since 1975. The table below presents the number of manatee killed by watercraft in Florida waters, , over 5 year intervals.    Year  Manatee Deaths    1975  6    1980  16    1985  33    1990  47    1995  42    2000  78       Using linear regression on Desmos, find a model for the number of manatee deaths, , attributed to watercraft in Florida in terms of the number of years, , since 1975. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1975, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 2.583 tells us that the number of manatees killed by watercraft in Florida waters is increasing by 2.583 deaths per year.      Based on your model, how many manatee are expected to be killed by watercraft in Florida in 2020?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.  Based on the model, in 2020 there will be 121 manatee deaths due to watercraft in Florida waters.      Based on your model, in what year would we expect there to be 100 manatee killed by watercraft in Florida?    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2015 there will be 100 manatee deaths due to watercraft in Florida waters.       With Americans' increased use of faxes, pagers, and cell phones, new area codes are being created at a steady rate. The table shows the number of area codes in the US each year. (Source: USA Today, NeuStar, Inc.)    Year  Number of area codes    1997  151    1998  186    1999  204    2000  226    2001  239    2002  262    2003  274       Using linear regression on Desmos, find a model for the number of area codes, , in terms of the number of years since 1995. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1995, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 19.857 tells us that the number of area codes is increasing by 19.857 per year.      Based on your model, how many area codes will be needed in 2010?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.    Based on the model, in 2010 there will need to be 419 area codes.      Based on your model, in what year will 500 area codes be needed?    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2014 there will be a need for 500 area codes.       The table shows the amount of carbon released into the atmosphere annually from burning fossil fuels, in billions of tons, at 5-year intervals from 1950 to 1995. (Source: www.worldwatch.org)    Year  Carbon emissions (in billons of tons)    1950  1.6    1955  2.0    1960  2.5    1965  3.1    1970  4.0    1975  4.5    1980  5.2    1985  5.3    1990  5.9    1995  6.2       Using linear regression on Desmos, find a model for the amount of carbon emissions, , in billions of tons, in terms of the number of years since 1950. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1950, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 0.108 tells us that annual carbon emissions are increasing at a rate of 0.108 billion tons per year.      Based on your model, how much carbon will be released into the atmosphere from burning fossil fuels in 2010?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.    Based on the model, in 2010 there will be 8.098 billion tons of carbon released into the atmosphere from burning fossil fuels.      We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2028 there will be 10 billion tons of carbon released into the atmosphere from burning fossil fuels.     "
+},
+{
+  "id": "LE6_PP-2",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "    LE #6: Given a data set, I can make a linear regression model on Desmos, identify and explain the meaning of slope in the context, identify and explain the -intercept in the context, find and explain its meaning, find given and explain its meaning, and determine what inputs make sense.   "
+},
+{
+  "id": "LE6_PP-3",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  In Brazil, the Instituto Nacional de Pesquisas Espaciais (INPE, or National Institute of Space Research) uses Landsat satellite photos to monitor the pace of deforestation. According to their data, the original Amazon rain forest biome in Brazil of 4,100,000 square kilometers was reduced to 3,413,000 square kilometers by 2005, representing a loss of 16.8%. The figures for select years from 1987 to 2005 are shown.    Year  Remaining forest (thousand sq km)    1987  3745    1990  3692    1993  3652    1996  3590    1999  3542    2002  3485    2005  3413       Using linear regression on Desmos, find a model for the remaining rain forest , in thousands of square kilometers, in terms of the number of years since 1987. Round your values in the equation to three decimal places and express your answer in function notation.    Because we are using as our input the number of years since 1987, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of data from table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of -18.095 tells us that the amount of remaining rainforest is decreasing by 18.095 thousand square kilometers per year.      Based on your model, how much area of rain forest will remain in 2030?    We start by converting the given year to the corresponding input value:  We can then substitute this input into our equation.  Based on the model, in 2030 there will be 2936.436 thousand square kilometers of rainforest remaining.      Based on your model, in what year will there be only 3000 thousand square kilometers of rain forest remaining?    We are given an output value, so we can substitute directly into the equation and solve for our input.   We will use this input to determine the corresponding year, In 2027 there will be only 3000 thousand square kilometers of rain forest remaining.    "
+},
+{
+  "id": "LE6_PP-4",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The table below shows the minimum wage in the US at five-year intervals.    1960  1.00    1965  1.25    1970  1.60    1975  2.10    1980  3.10    1985  3.35    1990  3.80    1995  4.25    2000  5.15       Using linear regression on Desmos, find a model for the US minimum wage , in dollars, in terms of the number of years since 1960. Round your values in the equation to three decimal places. Express your answer in function notation.     A screenshot of the table entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 0.104 tells us that the US minimum wage is increasing by 0.104 dollars per year.      Based on your model, what should the US minimum wage be in 2030?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.  Based on the model, the US minimum wage in 2030 will be $8.04.      Based on your model, in what year will the US minimum wage be $15.    We are given an output value, so we can substitute directly into the equation and solve for our input.     We will use this input to determine the corresponding year, In 2097, the US minimum wage will reach $15 based on this model.    "
+},
+{
+  "id": "LE6_PP-5",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  An outdoor snack bar collected the following data showing the number of cups of cocoa, , they sold when the high temperature for the day was degrees Celsius.    Temperature  Cups of cocoa    2  45    4  42    5  42    8  35    10  25    11  25    12  17    15  16    16  15    18  6       Using linear regression on Desmos, find a model for the cups of cocoa sold in terms of the temperature in degrees Celsius. Round your values in the equation to three decimal places. Express your answer in function notation.     A screenshot of the data table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of tells us that the snack bar sells 2.479 cups of cocoa fewer for every one degree Celsius increase in temperature.      Based on your model, how many cups of cocoa should be sold if the temperature is degrees Celsius?    We are given the input value, so we can substitute directly into our model.  At degrees Celsius, we would expect the snack bar to sell 57 cups of cocoa.      Based on your model, at what temperature would you expect to sell 30 cups of cocoa.    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We would expect the snack bar to sell 30 cups of cocoa when the temperature is 8.809 degrees Celsius.    "
+},
+{
+  "id": "LE6_PP-6",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  The number of manatees killed by watercraft in Florida waters has been increasing since 1975. The table below presents the number of manatee killed by watercraft in Florida waters, , over 5 year intervals.    Year  Manatee Deaths    1975  6    1980  16    1985  33    1990  47    1995  42    2000  78       Using linear regression on Desmos, find a model for the number of manatee deaths, , attributed to watercraft in Florida in terms of the number of years, , since 1975. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1975, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data table entered into Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 2.583 tells us that the number of manatees killed by watercraft in Florida waters is increasing by 2.583 deaths per year.      Based on your model, how many manatee are expected to be killed by watercraft in Florida in 2020?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.  Based on the model, in 2020 there will be 121 manatee deaths due to watercraft in Florida waters.      Based on your model, in what year would we expect there to be 100 manatee killed by watercraft in Florida?    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2015 there will be 100 manatee deaths due to watercraft in Florida waters.    "
+},
+{
+  "id": "LE6_PP-7",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  With Americans' increased use of faxes, pagers, and cell phones, new area codes are being created at a steady rate. The table shows the number of area codes in the US each year. (Source: USA Today, NeuStar, Inc.)    Year  Number of area codes    1997  151    1998  186    1999  204    2000  226    2001  239    2002  262    2003  274       Using linear regression on Desmos, find a model for the number of area codes, , in terms of the number of years since 1995. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1995, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 19.857 tells us that the number of area codes is increasing by 19.857 per year.      Based on your model, how many area codes will be needed in 2010?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.    Based on the model, in 2010 there will need to be 419 area codes.      Based on your model, in what year will 500 area codes be needed?    We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2014 there will be a need for 500 area codes.    "
+},
+{
+  "id": "LE6_PP-8",
+  "level": "2",
+  "url": "LE6_PP.html#LE6_PP-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  The table shows the amount of carbon released into the atmosphere annually from burning fossil fuels, in billions of tons, at 5-year intervals from 1950 to 1995. (Source: www.worldwatch.org)    Year  Carbon emissions (in billons of tons)    1950  1.6    1955  2.0    1960  2.5    1965  3.1    1970  4.0    1975  4.5    1980  5.2    1985  5.3    1990  5.9    1995  6.2       Using linear regression on Desmos, find a model for the amount of carbon emissions, , in billions of tons, in terms of the number of years since 1950. Round your values in the equation to three decimal places. Express your answer in function notation.    Because we are using as our input the number of years since 1950, we need to adjust the year data given. We can then enter this into Desmos and choose the linear regression model.   Screenshot of the data entered in Desmos.   If we round the slope and intercept values to three decimal places and express our answer in function notation, we have the linear model,       What does the slope of your line represent in terms of the data. Be sure to use appropriate units in your answer.    The slope of 0.108 tells us that annual carbon emissions are increasing at a rate of 0.108 billion tons per year.      Based on your model, how much carbon will be released into the atmosphere from burning fossil fuels in 2010?    We start by converting the given year to the corresponding input value:    We can then substitute this input into our equation.    Based on the model, in 2010 there will be 8.098 billion tons of carbon released into the atmosphere from burning fossil fuels.      We are given the output value, so we can substitute directly into our model, and then solve for the input value.   We use the input to find the corresponding year,   Based on the model, in 2028 there will be 10 billion tons of carbon released into the atmosphere from burning fossil fuels.    "
+},
+{
   "id": "CH-Course-2",
   "level": "1",
   "url": "CH-Course-2.html",
@@ -2644,7 +3148,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Sources",
-  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                      The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
+  "body": " Sources  The following problems were adopted from Fostering Algebraic Thinking by Mark Driscoll:          The following problems were adopted from Beginning Algebra Made Useful by Charlene Beckmann:                        The following problems were adopted from Cut the Knot by Alexander Bogomolny.     The following problems were adopted from Visual Patterns by Fawn Nguyen.      "
 },
 {
   "id": "backmatter-2",
